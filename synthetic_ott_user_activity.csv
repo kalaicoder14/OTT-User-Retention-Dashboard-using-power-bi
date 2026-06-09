@@ -1,0 +1,1501 @@
+user_id,age,gender,subscription_type,avg_watch_time_minutes,sessions_per_week,device_type,country,churned
+ed9ea74b-c976-4907-bb54-634abccd6f78,56,Male,Premium,34.1,2,Mobile,France,0
+5e24ff1e-a133-4b76-b6bf-74eb89d0cc73,46,Male,Basic,249.6,8,Laptop,Reunion,0
+8697f278-1a3c-49b6-b4bc-c2a6a92b63af,32,Female,Basic,213.5,11,Mobile,Ghana,1
+46fd2b70-1016-446d-b65a-0b730c6853bf,60,Male,Free,187.1,21,Tablet,Guadeloupe,0
+4a791265-74e2-45f8-8915-ec173dbc6368,25,Male,Premium,51,4,Laptop,Germany,0
+fe7f7498-b798-4a3f-80db-200be6737d50,38,Female,Basic,146.2,10,Mobile,Montserrat,0
+d1987974-f471-4eb1-87d7-10f87eedfee8,56,Male,Free,235.3,21,Mobile,Malaysia,0
+1af95c70-a154-453a-ac1a-b3a92d2b3ad3,36,Male,Basic,94.6,20,Mobile,Australia,0
+645a02d3-2916-4fb5-bf24-6437382b0486,40,Female,Free,96.9,16,Mobile,Antigua and Barbuda,0
+b7c8ea47-6c55-41c6-bdff-152e6d42d31a,28,Female,Free,5.9,8,Mobile,Korea,0
+58ddda80-5fe8-4305-9072-b573750e7422,28,Female,Premium,56.4,4,Laptop,Turks and Caicos Islands,1
+b599d055-27fb-468d-bd1d-eb8f0ef40643,41,Other,Basic,263.2,10,Mobile,Aruba,1
+9d32c380-f501-4703-a824-97acc931bb3f,53,Other,Basic,135.3,12,Laptop,Namibia,1
+89439a13-05d2-4bfd-8147-d98704b76c00,57,Female,Free,295.3,14,Mobile,Cocos (Keeling) Islands,1
+447191f1-2068-491b-b724-3fe603bb51bd,41,Female,Premium,121.7,16,Tablet,Sierra Leone,0
+5d94115f-1f22-4f29-b21f-5fb4c6d3f0d7,20,Female,Free,216,22,Tablet,Anguilla,0
+4c889f28-8587-4726-a899-a0a61d1b19fd,39,Other,Free,88.2,18,Mobile,Czech Republic,0
+69afddb8-e4a0-4d67-ab95-3772b50550f9,19,Other,Premium,112.3,21,Smart TV,Estonia,0
+402fae40-8e35-4b20-a61c-25ebe8820bd7,41,Male,Premium,61.3,22,Tablet,Dominican Republic,0
+72a44195-fd49-4a81-9160-38ca09b90a75,61,Male,Basic,107.4,21,Laptop,Guinea-Bissau,1
+e32f7c52-55a5-4ef3-9e58-0ddc9d7615f4,47,Female,Free,166.4,12,Mobile,Gambia,0
+fe89622f-891b-46e4-bc9c-c8a44f64d28a,55,Other,Premium,297.6,18,Laptop,Uruguay,0
+175fa9ea-2915-451d-8422-624ea7b03376,19,Other,Basic,200.9,7,Smart TV,San Marino,0
+e7da6c7f-c53c-4ebb-82f2-c3d2b71be70d,38,Other,Premium,63.8,20,Mobile,Mongolia,1
+7cebdae5-b18a-4ff9-80e5-948bad477b85,50,Female,Premium,18.3,24,Tablet,British Virgin Islands,0
+6c775f39-3712-4e6c-a734-76962c3c16f9,29,Male,Free,42.3,23,Laptop,Nicaragua,1
+22ad9cd6-8809-4e78-ba36-e403542fbc65,39,Female,Free,171,7,Tablet,Bulgaria,1
+07c0ed83-5ec1-4739-a5b2-4dffb08131e9,61,Male,Basic,230.7,9,Tablet,Japan,1
+c290e14e-1449-463c-aada-63e6d736586b,42,Male,Free,282.4,1,Mobile,Argentina,1
+a8cc085e-378a-4620-b06b-d81a4ff9a747,44,Female,Free,9.7,6,Laptop,Pitcairn Islands,1
+d5b74204-a1af-4a56-a50d-706ee9a00483,59,Male,Premium,159.2,6,Smart TV,Luxembourg,0
+e02e7450-1672-4dac-b4fc-40a2535dcc67,45,Male,Basic,143.9,22,Tablet,Jersey,0
+39c9d30a-0861-47cb-92fc-8d7fd586a1e3,33,Other,Premium,198.5,12,Mobile,Azerbaijan,0
+ec2c9ff0-2f78-4bc3-a4df-fd369ba5da3c,32,Male,Basic,170.1,22,Mobile,Samoa,0
+8908a54c-de03-47a7-8f92-7448fcd9307a,64,Female,Basic,207.7,12,Smart TV,Nigeria,1
+84a18b3d-0920-4eaa-908a-d01a11bfec42,61,Female,Free,199.1,10,Mobile,Argentina,0
+2b406949-a2c0-451b-8e9b-812cc7eafa57,20,Male,Free,39.5,23,Tablet,Brazil,1
+a5378fa7-ba47-4085-98ef-6a3e5f274beb,54,Other,Free,240.9,6,Mobile,Turkey,0
+c6e5fcfd-8992-4680-84c9-989aa104eaf0,24,Other,Free,41.4,17,Laptop,Singapore,0
+0c4684aa-3350-4952-a631-38f3164e54e2,38,Male,Premium,211.1,19,Laptop,Poland,1
+dae26995-1415-47ce-b03a-eb80ceee849f,26,Male,Free,127.8,18,Tablet,New Zealand,0
+461c82ff-ec85-4814-81c3-d6109a1ae296,56,Female,Basic,156.6,6,Laptop,Palau,0
+a854f1d4-32fa-4890-93c1-1065a109225c,35,Male,Free,271.5,24,Smart TV,South Africa,0
+c3c6364e-07ed-4dd0-807e-994493683ed4,21,Other,Free,267.5,19,Mobile,Rwanda,0
+56a821c9-20b5-456f-9f9e-c55addcd8171,42,Male,Basic,246.3,10,Tablet,Poland,0
+1b3fd7e0-ceec-4135-ab9e-c0b755e7d611,31,Female,Free,155.5,24,Smart TV,Saint Vincent and the Grenadines,0
+c7264ead-9782-4047-8c66-dcc9597b6907,26,Female,Free,222.2,8,Mobile,Philippines,0
+e5f5f2de-283c-48d0-82b2-c15b71ffeb72,43,Female,Free,156.3,21,Smart TV,Kenya,1
+f631a051-facf-4f23-b83e-f72755770f0b,19,Female,Free,261.5,24,Tablet,Portugal,1
+26fe93e6-330f-4901-942b-3594f5646886,37,Female,Premium,123.8,6,Tablet,Algeria,0
+4efcd2cd-3c15-4857-aae8-a228dc562942,45,Male,Free,291.2,21,Smart TV,Japan,0
+af55a052-d6f3-4003-8b13-fe2ce516d1b8,64,Male,Free,280,7,Mobile,Australia,1
+25bbb927-795e-4f9c-8a7b-e1a48ee5cb13,24,Male,Basic,223.8,24,Laptop,Sao Tome and Principe,0
+b8bf2189-ff21-4a62-9f66-9e4bfd1c5c56,61,Male,Free,87.4,1,Laptop,Cameroon,0
+fe2d13c0-6ab6-4621-aa4c-95a74fe389b7,25,Female,Premium,43.8,18,Smart TV,Monaco,0
+950694e9-7183-4b39-8350-ed42170323b1,64,Other,Basic,257.1,24,Tablet,Spain,1
+b4681830-ee07-49d4-9ac2-e65af60ba4f3,52,Male,Basic,53.8,20,Mobile,South Georgia and the South Sandwich Islands,0
+e4be6015-14f3-46ba-861e-eb07c82db216,31,Other,Basic,257,12,Mobile,Malaysia,0
+cf4f9695-04af-44dd-9274-b3e814c9e134,34,Male,Free,149.8,16,Tablet,Falkland Islands (Malvinas),0
+a8f4ab94-535a-41af-a768-21e476018ea7,53,Male,Basic,124.9,10,Laptop,Vanuatu,0
+c025385c-97e5-4e50-9e6e-a7d7ffab880b,57,Other,Free,271.4,10,Mobile,Montenegro,0
+f2516d8f-5b13-43bf-8a7c-7d330ec1a8d7,21,Female,Premium,183.1,14,Smart TV,Marshall Islands,0
+aa212e21-6aed-4f84-8c6c-d5f3adf5d167,19,Male,Free,175.1,20,Laptop,Israel,1
+e691e87f-ef42-4ea5-be54-a4aaf1b816bf,23,Male,Basic,169.8,10,Smart TV,Liechtenstein,1
+ac2b235e-cc1b-44af-91d2-8bb77edb76ae,59,Male,Basic,114.5,10,Laptop,Suriname,0
+8fb8b691-fd12-4aca-af8d-ef8e7b5f7e06,21,Other,Free,236.8,11,Tablet,Eritrea,0
+796d445a-e402-4120-8970-abaa974014d6,46,Female,Free,79.6,23,Smart TV,American Samoa,0
+da8a4e44-bc12-4c3f-9a66-d0eec48aead2,35,Other,Basic,282,2,Smart TV,New Zealand,1
+27b35e15-3dc4-455c-87d4-321be86f302a,43,Other,Premium,268.7,20,Tablet,Philippines,1
+a92e3b29-8695-42d1-b86d-030631f49b09,61,Female,Free,104.6,8,Smart TV,Morocco,0
+35fecaf5-3931-4eb4-afc7-ba5bc39819ac,51,Other,Premium,220.2,23,Laptop,Swaziland,0
+5c49baf6-16f0-4ed9-bebd-178da8d7c0c2,27,Female,Premium,174.1,7,Mobile,Uganda,1
+f942457f-eed8-44da-868d-ecb223756c2a,53,Male,Premium,104.6,8,Mobile,Sao Tome and Principe,0
+be588070-4d89-4182-984c-e66124f94278,31,Female,Free,296.6,1,Tablet,Western Sahara,0
+77920151-d256-4d0e-936f-a58f94d5cb5d,48,Male,Basic,12.4,21,Laptop,Madagascar,0
+c8fc2758-d9d0-44bf-8ad4-8cc59958a9ff,32,Other,Free,79.5,2,Smart TV,Saint Barthelemy,0
+dee4d42b-a535-4afc-968b-d4fe3a77474b,25,Other,Premium,158.4,18,Smart TV,Norway,0
+d018ae41-4abe-4ae9-9b42-1064bf338cfb,31,Male,Basic,159,15,Mobile,Kiribati,1
+5d577160-7f56-47cb-935f-3c2136d7c0ce,40,Other,Free,178.7,1,Smart TV,Ecuador,0
+bfb5db62-3850-46f9-84d7-64eba55fe294,57,Female,Basic,226.7,5,Mobile,Azerbaijan,0
+445af046-3895-430d-9632-946adcf66ba3,38,Male,Free,188.9,2,Tablet,Sweden,0
+36e03fe3-b1e1-4a8c-85e2-6407837bbdb1,33,Other,Premium,182.1,20,Smart TV,Papua New Guinea,0
+6dbbd083-bbca-4b35-8785-08cf10246304,62,Male,Premium,20.8,3,Laptop,Chile,0
+c4ce3d99-784b-4d0c-b959-ba8afa4b046b,35,Female,Basic,116.1,19,Smart TV,Anguilla,0
+3b90e60f-1b16-405e-baee-71c371b38c81,64,Female,Free,73.5,18,Mobile,Uganda,1
+4afa638a-d4d9-4615-a4df-db8db8db327b,41,Other,Basic,83.3,22,Tablet,Switzerland,0
+10e2f455-c783-46bb-8f16-d19148d8c791,43,Female,Free,168.5,18,Mobile,Myanmar,0
+36354b98-60e2-4eb8-97af-05f7cf684e6f,42,Male,Free,63.9,14,Smart TV,Zimbabwe,0
+50fcde44-c738-4286-a949-f7bb0c58e559,62,Female,Premium,91.7,24,Mobile,Eritrea,0
+70121e60-bd5f-40f2-beab-5e926d5f638f,58,Male,Free,74.9,8,Mobile,New Zealand,1
+33cbc7e0-4f42-4997-b4cb-f02aaaca277c,46,Male,Free,284.8,12,Tablet,Cameroon,0
+87bcb0ae-792f-4cc3-816c-e7b1f1d5a858,32,Female,Premium,283.7,21,Laptop,Syrian Arab Republic,1
+7b50e312-8cb4-42ec-a132-85a57c5d499c,62,Other,Free,184.9,10,Smart TV,Moldova,0
+750a18da-4771-4f32-9048-8e134d621b51,18,Female,Free,277.7,23,Tablet,Tunisia,1
+f78b0045-6f8f-4373-9070-4bdbb067c0f9,42,Male,Premium,236.8,20,Laptop,Italy,0
+b11ce847-b876-46cf-92ad-a03acda31d52,24,Male,Free,179,17,Mobile,Luxembourg,0
+66832724-bf5f-4c5c-96aa-036c00fd9cdd,26,Female,Premium,6.9,11,Laptop,Eritrea,0
+edc9ed3f-7ae6-48b1-a6f8-eb52faa99dd2,41,Other,Premium,232.9,2,Mobile,Burundi,0
+0e6b5616-d305-41b9-a9af-bdf22249414d,18,Other,Premium,212.2,4,Mobile,Portugal,1
+937ebbff-8e58-40ed-8a02-72883786a4a3,61,Male,Basic,186.5,1,Tablet,Cambodia,1
+9e034625-a7b2-44df-bb1d-cf5fefb9b951,25,Male,Free,229.3,15,Mobile,Slovakia (Slovak Republic),0
+b1cc45da-689d-4184-82cb-d2b4e1ca0f60,41,Other,Free,156.3,13,Tablet,Oman,0
+65dc2b1c-c526-4110-96e7-2cd96f56ddf1,28,Female,Premium,212.7,8,Laptop,Tunisia,0
+aecd46b1-be59-480e-85a1-c69954cd5419,34,Male,Premium,280.9,4,Laptop,Korea,1
+d47fee8d-2036-4f5b-bd69-99e034e54d3c,25,Male,Basic,115.9,10,Mobile,Afghanistan,0
+b37608d2-2270-43c4-8015-d1b8f296f2b2,52,Other,Free,213.9,19,Tablet,Suriname,0
+3b7995ab-0766-4b16-babd-4823e2251f0d,52,Female,Free,145.3,18,Mobile,Australia,0
+e7b4978f-6a7d-4c37-a2fa-f33999987d2d,50,Other,Free,203.9,5,Tablet,Brazil,1
+87e0bd84-e51a-4394-b304-80594ec99e40,22,Female,Basic,230.1,19,Tablet,Nepal,0
+cfc25e2b-a697-47ac-9237-f2a88e37eeef,59,Female,Basic,18.4,23,Tablet,Suriname,1
+69df72e6-fcab-4ae1-b792-a7d46ca2997c,56,Female,Premium,195.7,22,Laptop,Dominican Republic,1
+b6745644-70b7-4d42-aa67-f468e65fd4a1,58,Male,Basic,71.9,16,Tablet,Netherlands,0
+94443d0f-6781-4feb-97b4-c29c10a6f529,45,Other,Free,202.7,1,Laptop,Guatemala,0
+94e68fff-8015-46b9-878f-0ee518de9d01,24,Other,Basic,143.2,12,Tablet,Norfolk Island,1
+317ffbe1-329b-4d7d-93d2-15fb8d599c50,26,Female,Basic,233.2,24,Laptop,Congo,0
+66dd4375-e440-4365-b25a-a76abc2e880f,25,Male,Basic,41.4,2,Smart TV,Denmark,1
+81c04304-af0f-41d3-8477-7586369938c8,29,Male,Basic,189.8,21,Laptop,Equatorial Guinea,0
+10596f9f-b235-49ca-9928-0acaded9d875,51,Other,Premium,87.1,8,Laptop,Eritrea,0
+c38f14b8-bcde-46f9-8610-ee5761081eb8,50,Male,Premium,256.6,18,Mobile,Lao People's Democratic Republic,1
+f447b678-4eee-40f1-b3ec-1011e2cfb48e,40,Male,Free,278.9,16,Tablet,Saint Martin,0
+748871df-1358-4932-a5b8-f09d485fc87b,41,Female,Free,298.9,5,Smart TV,Equatorial Guinea,0
+6fdfae20-5f95-4927-a0e2-8cb19e1c59a0,54,Male,Basic,239.8,22,Mobile,Liberia,1
+8af15b14-85af-4e75-9136-89a3af33457f,52,Female,Free,227.4,13,Tablet,Lesotho,0
+c5926c22-ab86-4760-9064-f85e8805a38a,61,Other,Free,68.6,19,Smart TV,Palestinian Territory,0
+193cbe82-7da4-4b05-bf3a-167401f5e626,57,Male,Free,104.1,3,Smart TV,Cote d'Ivoire,0
+5e5dae2d-fd66-4754-a7ee-448528ba3aa0,39,Other,Basic,142.4,8,Smart TV,Albania,1
+fdf20912-cb87-42a8-9bb2-af24bea44b9b,44,Other,Free,233.1,12,Tablet,Uzbekistan,1
+85a89218-fa18-42fe-8f24-e56ec32a32af,52,Male,Basic,274.9,2,Smart TV,Wallis and Futuna,0
+50eff600-235d-418a-8c9a-ae3c05b15b76,18,Male,Premium,60.8,11,Smart TV,Gambia,1
+954ae37c-e613-45c9-a6ac-fadcf858d24f,52,Other,Free,277.1,12,Mobile,Puerto Rico,1
+ae96cbf3-4022-4d93-aee5-9fcaa5810131,54,Male,Free,210.2,18,Laptop,France,0
+d1850bf7-8053-4b6d-8f7e-0dbf833acc9a,64,Female,Free,185.2,13,Tablet,Equatorial Guinea,0
+e2f37ebd-e0a0-4197-9fd5-130230613716,31,Female,Premium,64,5,Laptop,Spain,0
+2d2b4930-c5bc-4146-81fe-361b86a06dc2,20,Male,Free,21.4,22,Mobile,Russian Federation,0
+140186fc-8f41-474a-84f2-f6818df4b69f,18,Other,Free,172.7,12,Laptop,Palau,1
+9c0655d1-91fc-417e-b586-d4b006d9acae,22,Male,Free,197.2,2,Smart TV,Fiji,1
+09820615-6d46-4c4f-ac7a-145cb6e7dbdf,43,Male,Premium,67.2,5,Smart TV,Cambodia,0
+3b9d9580-8e82-4771-b4f2-d6de2843cfd9,31,Other,Basic,169.2,7,Tablet,Iran,0
+e166d3a5-e792-4baa-8fb6-341e75ce3acd,56,Other,Premium,257.7,24,Tablet,Luxembourg,0
+1d0116e5-bf42-4ab2-a30d-7cf417dbbe9a,44,Female,Premium,251.3,12,Tablet,Faroe Islands,0
+d9a5fcaf-6824-49d4-ba3b-8a71f6b5fc40,26,Other,Free,278.6,16,Mobile,Russian Federation,0
+5819806a-ab50-4d76-8d12-c47b47337f84,32,Female,Premium,112.9,23,Tablet,Romania,0
+409eb95a-d155-4646-b13e-60617a0a74bd,32,Other,Free,98.8,8,Mobile,Korea,0
+2946916d-1613-4d6b-be45-c8fc77b2b59f,43,Male,Premium,226.1,9,Smart TV,Saint Lucia,0
+ef654189-dce8-4b29-9941-c507e62055ec,59,Female,Basic,132.2,15,Laptop,Nepal,1
+6330d93a-5868-4fd2-b8ec-97ceee1b3006,30,Female,Premium,30.8,5,Smart TV,Nigeria,0
+2049015e-d950-4739-831e-d10f7f50c9f4,49,Female,Free,88.4,13,Smart TV,Martinique,0
+119aed4a-5bc6-4f50-bfcc-52fe01ad0496,56,Male,Free,128.5,5,Smart TV,United Kingdom,0
+a9fe62ac-75b4-4dfd-a813-9860f3d9b6f0,49,Male,Free,91.3,11,Tablet,Gibraltar,0
+77d2a8e6-41d9-4b32-9334-ae16670b71a5,21,Male,Free,103,10,Tablet,Libyan Arab Jamahiriya,0
+8367a9bc-cb50-4221-b32a-38460f631c2c,47,Male,Free,91.7,20,Tablet,Azerbaijan,0
+c24b1c41-9119-479b-80fd-58031698afc2,54,Male,Free,17.2,13,Laptop,Brazil,1
+fe9cf848-0652-4b29-9bb1-d8184288968b,40,Female,Free,192.9,9,Tablet,Marshall Islands,0
+6e9bcf69-6d97-4a93-af2d-6040be11d27b,56,Male,Basic,181.2,21,Mobile,Andorra,1
+0b27024e-7a89-437f-a207-c84f64a024ee,62,Female,Premium,197.7,14,Smart TV,Somalia,1
+63a0214f-8ec6-4e95-8c98-6b6953fabf15,32,Male,Basic,61.7,18,Laptop,Monaco,1
+1cad061e-dc85-4a5e-8d15-911302d73bb2,60,Other,Free,92.2,15,Laptop,Denmark,0
+267b1677-05d9-4411-92cf-f49d6a46f3e2,46,Female,Basic,187.8,10,Laptop,Senegal,1
+41c4220e-1a12-4383-86bd-71d06b10320f,53,Other,Free,181.9,24,Laptop,Congo,0
+145053fd-47c9-4f3e-9795-7d88f3fcdae4,30,Female,Premium,154.4,7,Laptop,Netherlands,0
+1a75d5fe-fa02-4a76-b32d-5a7ae9cafb63,49,Other,Free,108.4,8,Mobile,Sweden,1
+6c8c515d-b714-475d-92ce-a449849132c0,24,Male,Basic,274.3,3,Smart TV,Mayotte,0
+0b14f9cd-d47b-4651-81fe-b6f8176715a2,39,Male,Premium,105.2,15,Laptop,Chile,0
+9336dbc0-d0f1-46e7-8838-caff2ae4e4eb,45,Male,Premium,139.4,16,Smart TV,Togo,0
+b492d473-f832-4ccc-b5dd-106e500fa7fb,19,Female,Basic,205,4,Tablet,Slovenia,0
+003a819c-d486-428e-9b76-15a609fae2c7,59,Other,Premium,165.2,21,Laptop,Western Sahara,0
+c3a5cdc2-b5fb-4b3e-aaa1-e657eff7dcaf,62,Male,Premium,107.3,6,Laptop,Ireland,0
+efb16ea3-8a75-4855-a237-d3761d8bba7f,23,Other,Basic,133.5,1,Smart TV,Saint Barthelemy,1
+e97e1489-c7f3-4c0a-8145-fcdf5ae11292,45,Other,Basic,239.4,4,Laptop,Cocos (Keeling) Islands,1
+9958b440-f980-4fd6-ade2-2877994fad00,45,Male,Basic,87,11,Laptop,Thailand,1
+c4d81641-8748-476b-a031-b670e2d3d22c,61,Male,Basic,47,12,Laptop,Suriname,0
+18d2f7e4-9bf1-4edf-8c0f-aba14d8e227c,61,Other,Basic,97.4,5,Mobile,Zimbabwe,0
+c73dd67d-3c6c-4615-85fd-3ca0130c527f,37,Male,Basic,255.6,23,Mobile,Mongolia,1
+d87d9ce7-dcc3-436d-b2a1-b0169b457c08,47,Male,Free,31.3,21,Laptop,Bahrain,1
+618abe55-31b4-4801-8a83-a7b8fdbac991,28,Male,Free,297.6,16,Mobile,Seychelles,0
+da437ef0-f35d-4e5b-90a1-5e86f1410c03,45,Female,Free,164.6,13,Tablet,Chad,0
+c081fe25-416c-4d3e-8d52-8953408a216d,42,Other,Free,295.5,13,Laptop,Uganda,0
+5db24086-5160-426a-b5ba-ff12d4a6ffdb,56,Other,Free,282,17,Tablet,Monaco,0
+04f34f63-8150-4b94-9a86-7e869e2ae320,50,Female,Basic,138.6,7,Smart TV,San Marino,0
+87033d21-f233-4ae9-912e-a1af8d2973da,18,Other,Free,63.6,8,Tablet,Guam,1
+6b9c8fc7-f8ad-410b-9cb7-b7a1b5423fce,44,Male,Premium,53.6,13,Smart TV,Papua New Guinea,0
+d9d15e84-5601-4316-ad0a-3bb315e657ae,30,Other,Free,75.8,23,Laptop,Guyana,0
+a251474b-7da9-44e7-938b-4b1b7f3e3676,58,Male,Free,214.5,16,Smart TV,Bahamas,0
+82527da2-45eb-48a4-8940-ef54c79f9ea6,20,Female,Basic,85.5,4,Smart TV,Liberia,0
+d5de6c38-b737-4b83-add2-b252d1df9a78,56,Male,Basic,105.7,8,Tablet,Ecuador,0
+e6750738-9090-4e69-9752-29e82a88b8f1,23,Other,Free,137.4,16,Tablet,Cayman Islands,0
+e2b605ed-3186-4cf2-8aee-17e10b210469,25,Other,Premium,274.4,21,Tablet,San Marino,0
+40b643f1-c34f-4268-828d-c5202fa4e414,44,Other,Premium,60.9,10,Laptop,British Indian Ocean Territory (Chagos Archipelago),1
+033b05a3-655f-447d-9ab8-d6b7f88df9ea,26,Female,Free,6.5,12,Laptop,Cocos (Keeling) Islands,0
+86c7bb7d-46a1-4914-bc31-9bfd8412dfb3,54,Female,Free,22.7,12,Tablet,Malaysia,0
+d8807e94-0ace-42ce-90db-3085b7098439,50,Other,Premium,271.9,5,Laptop,Turks and Caicos Islands,0
+95b7a4e3-9966-45ef-9eab-35c1dd0b96e3,59,Male,Basic,196,16,Laptop,Monaco,1
+b739a870-8805-4014-b4ce-be279f8cdabe,61,Female,Basic,85.5,1,Smart TV,Eritrea,0
+7dd5b7a4-f356-461c-bafa-1baaf61148cd,41,Other,Premium,57.3,9,Smart TV,Angola,1
+136d779d-f4d4-41f0-b275-a6774013827b,32,Other,Free,91.8,12,Tablet,Solomon Islands,0
+f19240d3-3d16-4eed-9463-4c15a36c371e,49,Female,Basic,38.9,5,Laptop,Slovenia,1
+6b0cbd26-ea64-48a3-b118-5881ea46a9a8,49,Female,Free,282.8,22,Smart TV,Trinidad and Tobago,1
+296731d7-5287-4bdb-83ec-b2b5e6fd9339,41,Female,Premium,236.3,20,Mobile,Serbia,0
+63fd7e47-7621-4644-854b-982ed840836c,58,Male,Basic,141.4,22,Laptop,Turkmenistan,0
+3aa3a813-9f07-456a-a17e-51d09e688e90,29,Male,Basic,260.2,24,Mobile,Haiti,0
+dcf437a4-bed5-4331-8c8c-98a4551f8634,56,Other,Free,78.6,3,Tablet,Antarctica (the territory South of 60 deg S),1
+5ebf028a-ae84-45ef-a7df-6d2362a74f9f,19,Female,Free,216.6,5,Laptop,Congo,0
+ef067727-8ea7-41a4-bd50-ed8fdace69e7,20,Male,Basic,257.6,2,Tablet,Estonia,0
+77d981a0-64e1-4d65-8f33-4e0e2a9ad655,54,Female,Basic,110.2,14,Tablet,Uzbekistan,1
+4f893382-6c12-4ccf-8935-e724aefea76f,34,Other,Basic,228.5,2,Tablet,Svalbard & Jan Mayen Islands,1
+2f608c1d-1ba8-421c-bd4c-e8ebcb6cd839,19,Male,Free,92,13,Tablet,Mongolia,0
+c6e0923b-014f-4c31-b8b7-72403d890039,19,Male,Premium,93.2,7,Tablet,Belize,0
+743fbef7-f086-4147-ab4b-b071fa21dc70,45,Male,Free,36.6,10,Laptop,India,0
+fb9d384f-ebb1-4b12-b9e1-c8c95ca30740,40,Other,Premium,134.8,13,Mobile,Poland,0
+fd84eb30-5630-4c30-a035-6daca04b13e6,54,Female,Free,220.3,16,Laptop,Korea,0
+552a52bd-12d7-469f-875f-8f6724244818,49,Male,Basic,282.4,14,Laptop,Mozambique,0
+45490a41-47a3-44f2-9163-4320c8770cd1,50,Other,Free,183.1,11,Laptop,Tonga,0
+58631d18-784b-40e9-8acf-d6b49a312636,18,Female,Premium,259.6,10,Smart TV,Indonesia,1
+d4ccfa8a-65b3-4d0d-b025-99350c98c430,36,Other,Basic,247.6,6,Smart TV,Equatorial Guinea,0
+8af67f6c-cca2-4aab-86ec-feeea0c8eee6,19,Female,Free,56.1,4,Laptop,Malta,0
+7aa17b03-8921-4dea-903b-aff5214e69b3,61,Other,Free,148.3,21,Mobile,Philippines,0
+2746b1fa-fa5d-4914-bd21-24107c94f327,43,Female,Free,39.5,1,Laptop,Aruba,0
+db15dcac-8611-4eaa-86e8-66789da7ca47,49,Male,Free,206.2,7,Tablet,Guatemala,0
+c40af518-2ebc-4bc5-b03f-29c8ecf0d0b2,23,Female,Premium,285.2,24,Smart TV,French Polynesia,0
+7d17019b-d108-4367-9767-896cbb347d5c,49,Other,Basic,45.4,9,Smart TV,Mexico,1
+c683f339-3233-47e2-914c-151ce11bc796,21,Other,Premium,221.5,8,Laptop,Belize,0
+86844d52-e4a4-4248-91c5-50bfe6a5028f,28,Female,Basic,191.5,5,Laptop,Bolivia,0
+2034fea7-8611-481f-8f82-bd16800eef4a,34,Male,Basic,177.2,19,Mobile,United States of America,1
+45b5d061-290b-429a-a6a9-2ffe8677b399,55,Male,Free,120.1,10,Mobile,Madagascar,0
+87a1e631-57d4-4706-b93b-7d99afaca867,41,Female,Free,109.8,11,Tablet,Uganda,1
+a056322a-5621-4b6f-a59c-582bf8fbec37,22,Female,Premium,18.3,15,Laptop,Pakistan,0
+e2673aba-b56f-4c08-88bb-52add2d187ee,51,Other,Premium,69.3,6,Laptop,Spain,1
+73d65718-7170-4190-859c-4e65e9baedca,23,Male,Free,9.5,15,Laptop,Qatar,0
+aa238817-b62f-4d45-8a86-8c34f76737b3,39,Female,Free,176.5,5,Smart TV,Sudan,1
+1615b068-c3dd-4c7f-bc27-ca3e1638a9a1,28,Male,Basic,36.2,19,Tablet,Guyana,1
+1514fc2e-0e8c-4f08-8a3e-c6df1e24e3d4,33,Female,Premium,262.5,22,Mobile,United States Virgin Islands,0
+ec020f71-3ead-4aef-b8bb-46ae71cfea53,50,Female,Free,159.3,19,Smart TV,Croatia,0
+4d794b03-4e7d-4eb6-8cfb-4c2a2c51dc14,26,Male,Basic,211.4,10,Smart TV,French Southern Territories,1
+98b4a3eb-65f6-4b9b-865f-94184a46becc,23,Female,Premium,126.2,12,Smart TV,Zimbabwe,0
+36577c1e-fe94-4615-b904-69fc867d8751,33,Female,Free,170.4,22,Smart TV,Pakistan,0
+c82abc1c-9578-4086-8b63-e42eea0095c8,46,Other,Free,283.1,4,Tablet,Niger,0
+749b6d86-bb05-43c1-bdc4-aac9907955c0,20,Female,Basic,29.4,18,Laptop,Turks and Caicos Islands,1
+9f62f280-a1b0-40a1-a860-ab42958bd291,37,Female,Premium,79.9,16,Mobile,Singapore,0
+42bdb82a-7900-4f4f-999a-7e9a511404ea,53,Female,Free,235.1,8,Mobile,Tunisia,0
+a2c756c6-7b53-4a97-88f6-e0f68832b29b,36,Other,Basic,34.1,4,Smart TV,Nicaragua,0
+afbeefcf-a757-4d1f-88b4-e47e1fa9b152,43,Male,Basic,27.3,23,Smart TV,Romania,1
+c22a7483-e6a1-4034-b53b-d25123715427,20,Other,Basic,111.7,12,Tablet,Cyprus,1
+95a25053-afa5-443a-b20a-e4ebcd64634f,36,Other,Basic,32.2,2,Smart TV,Kiribati,1
+6ee9b6a0-d036-4a4e-8147-f382a7b4b1b9,37,Male,Basic,177.6,4,Mobile,Finland,0
+a31bb22a-d939-4926-93eb-d7e5ac33483b,49,Other,Basic,71.8,5,Mobile,Uzbekistan,1
+05135ddd-31bb-4131-9153-6fecda712a19,24,Male,Basic,269.2,3,Laptop,Anguilla,0
+dbd27c59-fed4-4470-8a44-eb87e6e23fc5,58,Other,Basic,236.1,9,Laptop,Afghanistan,0
+cdc2ec1d-8cf9-4623-846e-1d6b4a25054f,50,Male,Basic,211.4,21,Mobile,Andorra,0
+d738399e-a1cb-43d6-a83c-51198e27ca1f,57,Female,Premium,187,18,Mobile,Malaysia,0
+42377efd-429f-469c-8549-b0f91547364c,56,Other,Free,259.7,11,Tablet,Peru,1
+949bf98d-876c-4b50-8a17-c0040fb970d9,35,Other,Premium,70.8,3,Tablet,Kenya,0
+97df198a-98d3-4772-8ab6-93c8c02f74e9,57,Other,Premium,262.6,23,Mobile,French Guiana,0
+34361388-dd60-45ad-a4d6-24d1d95080f3,18,Other,Free,237.9,2,Smart TV,American Samoa,1
+cba66940-10c1-49b3-b900-7a37f3650068,28,Female,Basic,225.7,9,Laptop,Micronesia,1
+59f67269-1ff3-47b4-9501-1c8661b725af,45,Other,Basic,170.6,14,Mobile,Haiti,0
+faf95b2b-dce0-4610-8671-b72d13dab58e,42,Female,Free,77.6,4,Smart TV,Suriname,0
+a1a1315b-9f13-48ed-b718-2d34046b1110,40,Female,Free,129.9,9,Mobile,Uganda,1
+ac2ac367-f928-4247-907e-50c3118faa2e,48,Female,Free,239.1,13,Laptop,New Caledonia,0
+6e677991-3e01-4b50-be1c-f8ecb826be6d,47,Female,Free,14.4,18,Laptop,Bahrain,0
+f1e961cb-d632-4f6b-a687-c460fd946a06,59,Male,Premium,235.7,15,Tablet,Christmas Island,0
+8552ef4f-15bf-4539-8b07-a0b7bedb8da9,52,Male,Free,75.8,10,Tablet,Sierra Leone,0
+fdd0f21d-0ae3-411f-8f04-85a6e32a683d,24,Other,Premium,47.6,16,Tablet,Sweden,1
+0d0f517d-b17c-4e29-99f0-c62d54aca59c,33,Male,Basic,39.1,12,Tablet,Ireland,0
+0c848ee9-09cf-4b08-b469-ba2c321174ea,43,Male,Premium,13,20,Laptop,Falkland Islands (Malvinas),0
+1bdd7de7-ede0-4bbe-87cd-4d7c21dfc098,19,Other,Basic,159.5,5,Smart TV,Hungary,0
+dcbf58f1-6a8a-4e27-a778-976439cce7d9,18,Other,Free,69.4,2,Smart TV,Sao Tome and Principe,0
+3dfcf575-51d5-402c-93a5-af706ac5cb41,29,Other,Basic,296.9,10,Smart TV,Nicaragua,0
+7f9419a9-bb26-4092-bec2-71a4eefa4e36,22,Male,Free,174.5,1,Mobile,Mayotte,0
+a6b1290d-9a24-4415-9dbc-8cf93f02aa09,54,Male,Basic,45.7,7,Tablet,Dominica,0
+775744c0-ac5c-41bd-8cd3-9ed8775cf29a,49,Other,Premium,208.2,17,Tablet,French Southern Territories,0
+517ec009-34b6-44cb-8f12-7b88061dddfc,26,Female,Free,269.8,16,Laptop,Mexico,0
+dd4b9585-db65-43a0-9f02-9b7021c11292,58,Other,Free,224.8,24,Laptop,Spain,0
+24aa4209-64c3-4568-aabf-b94c5a6bfea5,52,Female,Basic,27.5,3,Mobile,Greenland,0
+ccc034aa-1158-49f9-a2b9-91070c872639,36,Female,Premium,269.3,14,Mobile,Pitcairn Islands,0
+74b7c8b4-8091-49e9-831a-b7c65021b5aa,33,Other,Basic,239.2,10,Smart TV,Chile,1
+d0a8938d-ff0c-4364-9d8c-5365f224e2f2,20,Other,Free,51.7,22,Laptop,Djibouti,0
+305ee514-bbf3-4e55-8520-84d61a7a4f5b,37,Other,Basic,20.3,7,Tablet,Pakistan,0
+c65d6461-283e-42f4-999b-2ae9102aba08,41,Male,Free,169.4,17,Smart TV,Nigeria,0
+f44c725f-8141-4d3e-b10b-60656a8d411a,50,Female,Basic,51,6,Tablet,Solomon Islands,1
+40e945d3-03b1-4c2c-8fd7-01a77f441b8d,41,Male,Premium,251.2,23,Smart TV,Cocos (Keeling) Islands,0
+5c9f7825-26b7-40ce-93f0-bf12abca54fb,28,Male,Basic,110.7,22,Tablet,Fiji,1
+baf5c22d-bf4e-4d1e-9673-5760cd131bac,25,Other,Premium,274.3,4,Mobile,Bangladesh,0
+c1426e31-f1f9-41bf-8bc5-613bb2d7711d,53,Male,Free,171.9,17,Smart TV,Australia,1
+05a3aa08-84df-462d-a6c2-3f96ee70098c,55,Other,Basic,58.9,9,Tablet,Spain,1
+f5f2a033-d54d-4363-a95e-5b3cd9a8be2c,57,Female,Premium,46.2,4,Tablet,Bouvet Island (Bouvetoya),0
+07e60dbe-dfe8-4abb-81b5-f7c5da22692f,37,Other,Free,175.1,7,Laptop,Oman,0
+b4997f18-d2a3-44ee-b785-e62db4213ec6,52,Male,Premium,229.8,23,Smart TV,Antarctica (the territory South of 60 deg S),0
+d3b41eca-41a1-4348-868c-09bd3b0beda2,42,Male,Free,235.5,2,Tablet,Northern Mariana Islands,0
+cbcc0e0f-1dfb-404f-9e35-269fe8a3085a,52,Other,Basic,86.3,17,Laptop,Andorra,0
+e1eca657-8438-44ee-9c2c-9f3f831290ab,42,Other,Premium,65.3,24,Tablet,Moldova,0
+bd3f1b0d-d136-483c-a52a-1d612f247591,46,Male,Basic,9.9,8,Smart TV,Bahrain,0
+0a1d9a35-4367-4973-8d52-e824d3ce86af,35,Female,Free,205.4,23,Mobile,Saint Barthelemy,0
+475707e6-bae1-4a9d-a1a9-56f42c94b2f2,63,Female,Basic,27.6,15,Smart TV,Nigeria,0
+019189c8-0726-451a-b2f8-c796e8e86fba,35,Other,Basic,129.1,15,Smart TV,Trinidad and Tobago,0
+ec52af0d-24c9-41dd-83a0-88823e5fc1f4,19,Female,Premium,182.5,8,Tablet,Chad,0
+9d790e7f-f81c-4710-a0de-ce40a7c6339f,52,Male,Basic,281.4,16,Tablet,Zambia,1
+5635d158-425e-4a03-b14c-acbea82e3f7f,33,Other,Free,97,19,Smart TV,Belarus,0
+c0bb740a-8c93-4532-9e87-a03ac94f3f16,58,Male,Basic,78.7,11,Laptop,Mauritius,1
+f343043f-c5da-4c81-9d5f-7b02e0e825fb,53,Male,Basic,198,2,Laptop,Cote d'Ivoire,0
+fd285d65-f2ae-490e-88f8-4513690150df,50,Female,Basic,187.7,23,Laptop,Puerto Rico,0
+e88cbcd4-dd4d-4361-9183-ada3eb824d58,21,Other,Basic,103,24,Tablet,United States Virgin Islands,0
+1f7ead03-4051-42ca-a580-27a5a792eb41,50,Other,Premium,278.8,17,Tablet,Egypt,0
+bc19b645-ab3c-43f0-b81a-62af28cb8427,31,Female,Basic,254.2,16,Smart TV,Reunion,1
+60aacb6f-153b-473c-a38d-77b6423e6316,38,Male,Basic,71.1,15,Mobile,Morocco,0
+2c616f7d-01cb-4fb6-85b0-3d7058ceca71,37,Male,Free,75.5,13,Tablet,Marshall Islands,0
+87de3559-aaaa-4dba-aa14-f583ee7fdc6d,25,Male,Free,156.1,15,Smart TV,Philippines,1
+bb41c49c-03a0-4623-97a5-83a17bf27158,24,Male,Free,233.2,4,Smart TV,Croatia,0
+5accec4c-3450-4316-bccd-6916617e43c0,20,Other,Free,18,16,Mobile,Ecuador,1
+9e90e775-44c0-477a-8b45-3b894c616007,34,Other,Basic,209.5,12,Laptop,Turkmenistan,1
+b24e7f41-4ea2-468a-b2f1-8e7b88ad0783,50,Female,Basic,196.2,4,Smart TV,New Caledonia,0
+68882ad5-1fd4-4ddf-ab35-71a9d255744c,29,Female,Basic,73.3,3,Smart TV,Moldova,0
+16fd9dcd-efd2-4fba-a83b-fdd4af063fe0,39,Other,Premium,206,22,Smart TV,Lao People's Democratic Republic,0
+ef39f6f4-a925-474f-9bfd-bca82b9e58fd,39,Other,Premium,282.4,17,Laptop,Panama,0
+0afa7d1f-1c3e-4988-b19e-e83d4e1117a8,63,Male,Premium,18.8,22,Laptop,Afghanistan,0
+c9b4f5c4-1e9d-4b35-b857-ac12dff23b96,47,Male,Basic,99.3,18,Mobile,Turkey,1
+29d55bde-03e0-448d-a761-1627c2dd7aaa,55,Female,Basic,134.3,18,Tablet,South Georgia and the South Sandwich Islands,1
+be35a829-55bb-49ae-8551-4101f6257750,55,Other,Basic,270.3,23,Laptop,Sierra Leone,0
+b245c89b-96dc-465a-8d33-b256e2b4ce26,62,Female,Free,288.9,17,Tablet,Sri Lanka,0
+47a8c2f4-f9ff-4bdb-9d27-bc89bcad0686,25,Other,Free,136,12,Tablet,United States of America,0
+501d1cdc-7f3f-4337-bec7-d523066554b9,44,Male,Premium,226.3,23,Laptop,Peru,0
+002161b2-6722-4d6b-89c9-a7206b0e8270,44,Female,Premium,161.8,21,Smart TV,Maldives,1
+535c8f1d-518b-4e72-a95a-90873caa26d8,51,Female,Free,163.6,24,Mobile,Cape Verde,0
+cab75893-c007-498a-9440-47fc22e8a0f6,38,Other,Basic,87,4,Tablet,Christmas Island,0
+6e5531c1-4bfa-46da-bd7a-632adbf7f910,47,Male,Premium,69,12,Smart TV,Comoros,0
+75c4dc98-7543-4cbe-9387-64885bbc4275,50,Female,Free,90,23,Laptop,Uruguay,1
+e22cd3c3-82e7-49da-a40e-938dba9cf576,45,Male,Free,169.1,22,Tablet,New Caledonia,0
+b4905959-2366-4fb7-9a6b-26652c7bb185,64,Female,Premium,13.6,21,Tablet,Tajikistan,1
+12f5cd48-ad9b-43d8-8ab3-4ad2bfc7b36c,50,Male,Basic,272.6,20,Tablet,Northern Mariana Islands,0
+8eff72ac-2b06-4206-a228-28f4f2934b3b,22,Other,Free,51.1,15,Smart TV,Christmas Island,1
+f7877e46-b515-4a53-8307-23f78fb07bd0,36,Female,Basic,69.9,23,Smart TV,Eritrea,0
+3cd5027e-8c6f-4f13-87a3-1771485c2d32,21,Female,Premium,157.9,16,Smart TV,Solomon Islands,0
+4927701c-5604-4c28-bd26-4ec2c329031d,52,Male,Basic,214.5,5,Tablet,United Kingdom,1
+b8e73e05-a1cb-4997-9536-13511641d81c,34,Male,Free,33.2,21,Tablet,United States Minor Outlying Islands,0
+20602986-c9f8-4d41-af88-399b8248e132,61,Female,Free,98.7,15,Mobile,Switzerland,0
+d4a23790-b47c-4f4f-b91b-4e14ea131bd8,45,Other,Basic,290.8,17,Mobile,Nigeria,0
+60183095-90f0-4809-9c66-654cfe928d38,47,Male,Basic,82.4,18,Smart TV,Falkland Islands (Malvinas),1
+0253977f-1207-43f8-af7a-45c7478217bd,46,Male,Premium,97.3,5,Smart TV,Bhutan,1
+77bdb8d2-9bce-44c0-b165-56b8bfd98820,63,Male,Free,251.8,13,Laptop,Greece,0
+77aae7a2-59a2-48d7-8b06-c9c3a1976c6c,23,Female,Premium,19.8,19,Smart TV,North Macedonia,0
+a7fb3860-e3b4-4597-894c-bbb4ee565fdd,52,Female,Free,142.1,13,Mobile,Nicaragua,1
+b40f1de5-f818-4d48-8d9d-9eda67c832c7,58,Female,Free,117,18,Mobile,Samoa,0
+8d9af7d1-4eeb-48e7-8526-c31fbe7855eb,54,Female,Free,98.4,14,Mobile,Slovenia,1
+fc73d325-6aa0-4d06-82f7-717580917ce8,41,Other,Free,89.3,4,Tablet,Iran,0
+ad5d7b93-02f0-4b25-914f-f4c177934c29,46,Other,Basic,32,4,Tablet,Fiji,1
+9be2b358-0527-45d1-86ec-9c8e0c6b8a01,63,Female,Basic,97.9,20,Smart TV,Guernsey,1
+d04fd908-f9a3-4bbb-aa9c-04c8b421d222,48,Other,Free,17.7,20,Laptop,Ecuador,1
+fd29d982-488b-4554-8bd2-ea6a4c32f0e8,52,Male,Basic,235.4,19,Laptop,Fiji,0
+2f27b27b-79a2-4e24-a268-90b0b53845d9,50,Male,Free,122.5,13,Laptop,Greece,0
+9a0380fa-1843-44b4-a8d7-aa9cfc0f15b0,38,Male,Premium,136,12,Tablet,Kazakhstan,0
+79836a56-3bb3-48f7-80e0-493952c6f8ec,49,Female,Premium,268.6,7,Mobile,Zambia,0
+87cab133-97e9-413c-b96f-ddaa7c0fe497,40,Male,Free,199.1,12,Mobile,Namibia,0
+a05917a4-a5f3-4bb7-bc65-a26bf18dbc86,50,Other,Basic,7.4,21,Tablet,Swaziland,0
+6b942e1b-19fe-45ec-a3d5-c936782bf3de,20,Female,Free,283.2,4,Laptop,Lesotho,1
+68ddc585-97ea-4821-aa7c-c67f5a4c0b90,35,Other,Free,75,2,Laptop,Micronesia,0
+15b60ca9-ef69-40a2-8390-8214a0852e04,42,Male,Free,36.7,2,Smart TV,Equatorial Guinea,0
+14e52f96-73de-4b85-86a1-edcade130ed6,59,Male,Premium,231.6,5,Smart TV,Jersey,0
+e90cabe0-6fe1-4892-8f70-0472c06a8e7d,48,Male,Basic,152.6,23,Laptop,Germany,0
+e46a8115-1ed5-47d9-b5d3-eaa8bdc129d9,20,Female,Free,133,10,Tablet,Chile,0
+4acf3b56-6216-4daa-a714-0614b4e3ab19,57,Other,Premium,78.6,10,Laptop,Kenya,0
+6748cd6a-589a-44ce-8e79-4dcf74619fd0,63,Female,Basic,166.5,9,Smart TV,Lithuania,1
+13ad4011-8366-4bac-92fa-a5e9afa82b02,41,Female,Premium,85.9,13,Laptop,Tuvalu,0
+58ed02a4-694f-49dd-b4c5-684783121b04,49,Male,Basic,271,7,Tablet,Honduras,0
+797169cd-b679-4d78-a0d7-4994cdc44301,64,Female,Basic,68.5,5,Mobile,Reunion,0
+c6a7fa02-c955-40ac-afbf-975eebc25129,39,Female,Free,265.9,10,Tablet,Dominican Republic,1
+c3647675-cda5-478b-806a-5e2e20b64c59,40,Male,Free,170,10,Tablet,Turkey,0
+572ca1e2-83e9-4b0a-97ef-6a6f9a67fd51,19,Female,Premium,249.4,6,Smart TV,Egypt,1
+cf4a0824-7226-4160-b18e-bd9d495fbe81,44,Male,Free,215.3,19,Tablet,French Southern Territories,0
+cdf55ec8-87ed-4d0c-87f9-4dd9f88f7fb2,59,Male,Premium,210.5,21,Tablet,Sudan,1
+59af627a-8b4e-4f21-9331-033f64b53534,19,Male,Basic,100.7,8,Smart TV,Vietnam,0
+427842d8-3641-4b36-a1d3-724bcbca373b,43,Male,Free,74,1,Smart TV,Puerto Rico,0
+7afd5a25-b737-48c4-a50a-668d885831ef,34,Female,Free,67.2,17,Mobile,Bermuda,0
+de72de49-9f94-4a59-b547-6e92121be2f5,57,Male,Free,257.9,7,Laptop,Macao,0
+fd921fe3-9d13-4773-bf09-cdffcf6030c2,50,Male,Premium,247,14,Tablet,Bermuda,0
+96181203-4495-4bf5-8c67-cc87784d0d27,26,Female,Basic,135,21,Smart TV,Zambia,1
+040b4527-81b4-42ea-99fa-4d2666c55b88,60,Female,Free,44.1,21,Mobile,Guatemala,0
+1566db91-a4dc-40c6-9fe5-adc6781b66dc,56,Other,Free,117.8,17,Laptop,Isle of Man,1
+ca80ab49-30c8-41e5-b852-13928638827b,46,Female,Free,187.7,9,Smart TV,Samoa,1
+470f2fd5-fd82-412a-b962-ef0b53423a65,59,Female,Basic,139,17,Laptop,Norfolk Island,0
+4ce5a63e-3591-4032-884a-f546314cf479,43,Other,Free,235.2,5,Laptop,Guadeloupe,1
+44af2b49-585c-4daf-9204-35662919f680,52,Female,Premium,299.3,20,Tablet,Tunisia,0
+a661b446-0691-4c5c-9bcb-6a262912821b,42,Female,Free,61.4,8,Tablet,Angola,0
+9807a5b4-c8a7-4656-a5bf-8b7bd7582419,41,Female,Free,140.6,6,Smart TV,Thailand,1
+44b87c2e-84cf-43aa-a3a4-3de324ab1b25,30,Female,Basic,132.1,11,Laptop,Mexico,0
+dfbe36c7-32c8-4479-9f6a-8a1b7268962d,24,Other,Basic,94.8,19,Smart TV,Pitcairn Islands,0
+35f40535-d821-4b72-8cfa-b72ec1e0f745,53,Female,Premium,63.4,4,Smart TV,Papua New Guinea,0
+e810f01f-35f4-4fd8-b145-bf9b3b4974be,62,Female,Basic,24.4,18,Laptop,Tuvalu,0
+859c381b-cc6f-44c9-83be-842553ac71f5,37,Other,Free,266.7,1,Smart TV,Pitcairn Islands,1
+c9a67f77-f2df-42cd-ae00-1c2ad45cb7ce,18,Male,Basic,128.9,13,Laptop,Paraguay,0
+9a424d3b-1b0b-48b0-a8af-501f16cc86b2,25,Other,Free,151.6,14,Laptop,Saint Vincent and the Grenadines,0
+432f338c-737b-4ac8-92e1-35aeae476bc3,63,Male,Free,275.5,24,Laptop,Netherlands,0
+01aef3da-fb2c-4219-96bc-7248b53f59a8,33,Other,Premium,234,1,Laptop,Guam,0
+01cb7f81-8fc7-468b-99d4-2ac98e6f9532,31,Other,Premium,43.5,11,Mobile,Iran,0
+2d93aa00-2e62-4612-8fd7-6c09e298742f,29,Female,Premium,171.8,17,Laptop,Sri Lanka,0
+473ab78f-1ac1-4abe-ae43-c486feb9a0d3,40,Male,Basic,135.5,4,Tablet,Seychelles,0
+b14325d2-f27f-49e9-b888-b81f530f475c,32,Female,Basic,240.2,12,Tablet,Equatorial Guinea,0
+020946df-9e91-4a5e-befb-cbe0e93a65a0,45,Male,Free,218.6,10,Tablet,Algeria,1
+6c0e828b-219c-43e9-a0d7-f7aa2ced307c,51,Other,Free,208.7,6,Laptop,Bahamas,0
+e300ba77-bc05-48ea-a74f-93530fef3c09,19,Other,Premium,105.5,1,Tablet,Kyrgyz Republic,1
+25fbd9d1-4218-4725-87d0-04c944898f00,49,Male,Free,242.5,7,Mobile,Jamaica,1
+a3d0702b-f369-42ee-9679-85d149171bed,40,Female,Premium,20.5,21,Smart TV,Malawi,1
+e6783f87-6243-4c22-aac1-a3d4bb5f520a,39,Female,Basic,52.1,16,Laptop,Belize,1
+decdf6e7-2342-4235-b325-d33e2674903d,42,Female,Free,104,24,Tablet,Kiribati,0
+2cc6c7ff-2b15-4bc8-a4e2-704963c93f96,39,Female,Basic,27.7,14,Mobile,Chad,0
+1cecfee7-c9fc-4708-b7ca-3d4a3763ef7e,39,Other,Basic,74.3,23,Smart TV,Bulgaria,0
+8a39f4f3-f32a-4219-a47b-78c9f6b628c5,59,Other,Free,249.9,20,Mobile,Heard Island and McDonald Islands,0
+93c8c9bd-d111-4c4f-8b47-92e191a4c99c,23,Other,Premium,284.7,20,Tablet,Turks and Caicos Islands,1
+af6f9ff7-8b8b-4508-b747-ae4fcc73ab1d,32,Other,Basic,94.9,6,Mobile,Saint Barthelemy,0
+6bf31dc3-2325-4e3f-9bde-ae5b451a2e0c,60,Other,Free,83,22,Smart TV,Yemen,1
+4fb76c21-d27e-4066-adc9-f0ca582219c1,54,Female,Basic,87.6,5,Tablet,Western Sahara,0
+1c65f47b-d16a-4079-aae4-f72b5f872490,50,Female,Premium,86.9,24,Smart TV,Costa Rica,1
+265bde46-712c-41ba-a53c-c9f9b98f17e0,25,Female,Free,15.6,21,Mobile,Papua New Guinea,0
+b7794940-6e60-409f-9096-62805e33bf2d,61,Female,Premium,278.4,18,Laptop,Grenada,0
+4b164ac4-2363-422e-88d5-1293b1ce09a1,61,Other,Free,68,15,Laptop,Sao Tome and Principe,0
+ec736c87-abb2-4639-8f76-bff119e22eb8,22,Other,Premium,128.9,6,Laptop,Korea,1
+8df62264-2556-4517-ab76-e1904c220ae8,56,Other,Basic,7.9,19,Laptop,Suriname,0
+f2f14abb-8305-4bbc-a65b-3d434c52772c,21,Male,Free,258.1,1,Smart TV,Latvia,1
+12c831e1-9990-4458-8bb0-b5af2017b2ef,23,Female,Free,220.7,1,Laptop,Gambia,1
+3001625b-7df0-403b-9c61-69376c9605c8,62,Female,Premium,284.3,13,Smart TV,Faroe Islands,1
+3a080e0c-0eb7-43ad-881b-187a3e193e98,49,Other,Basic,235.6,3,Tablet,Samoa,0
+a6febfd1-8229-41ff-b9d7-dba77c112df7,47,Female,Basic,97.5,10,Laptop,Namibia,1
+bf8da28b-6157-4a76-adec-d061bb2205fe,64,Female,Free,78.1,21,Smart TV,Slovenia,1
+10014b30-08dc-46f4-b259-8b760f1fc367,52,Other,Premium,210.8,3,Laptop,Central African Republic,0
+c78ac7f0-40a8-4986-ad07-c6dd39a43d38,57,Male,Basic,112.4,9,Laptop,Mayotte,0
+128e4796-7c89-46f2-ac6b-351eef78902a,33,Male,Premium,172,8,Laptop,Russian Federation,0
+06affe1d-4c85-4684-a055-ede5137850b2,30,Male,Free,6.8,3,Smart TV,Papua New Guinea,0
+91aaf35e-7c14-4797-acad-e645cb5c679b,59,Other,Basic,23.3,13,Mobile,Vanuatu,0
+6b5d6996-1bad-4e4f-84f1-a2e94a5680c5,47,Female,Basic,162.9,6,Laptop,Venezuela,1
+0b5ee832-ae0a-4efa-a491-dad197152052,36,Other,Free,172,13,Laptop,Anguilla,0
+a3affd7d-79e5-4afd-a14b-efc2f5d0e786,34,Other,Basic,226.7,23,Tablet,South Georgia and the South Sandwich Islands,0
+d49a4b0a-7886-49eb-a1cc-b7538cc888d2,36,Female,Free,43.9,20,Mobile,Panama,1
+40b101e8-88df-4b3e-8049-022d8742edce,45,Male,Basic,156.4,20,Smart TV,Bahrain,0
+8a9d2fdf-5016-4a33-9cee-2f66686d72c0,43,Male,Basic,62.4,12,Tablet,Italy,1
+3d58266b-5d3c-488f-9c22-53a4beb77f94,54,Other,Free,32.5,13,Laptop,Iran,0
+39ad140b-54cb-4ba0-838e-78c032e35bf0,43,Male,Basic,126.1,2,Tablet,Cyprus,0
+2e7431d0-5232-4c3c-9f71-46a1922c520b,40,Other,Basic,53.2,21,Tablet,Afghanistan,0
+0ee93571-693e-48b5-bb63-8deea6f28e08,26,Other,Free,70.4,24,Laptop,Norfolk Island,0
+9d290361-eaa5-4283-b3cd-033ac538f197,29,Female,Premium,98.7,23,Mobile,Somalia,0
+c10e3211-5b8a-4c3d-a528-01ddc357d87f,18,Female,Premium,81.5,16,Mobile,Mozambique,1
+7508c70c-0fbb-4262-8f41-810f9c35747c,18,Female,Basic,30.8,23,Tablet,Congo,0
+2f40018d-5f54-422c-8cfb-43e3b493c7f4,64,Other,Free,31.5,6,Laptop,Venezuela,1
+37957982-a123-434e-b7d5-076f0f0df677,51,Female,Premium,62,19,Smart TV,Sao Tome and Principe,0
+60b74f6f-d44b-4ff0-b050-bac7d6b7e720,49,Male,Basic,19.9,21,Tablet,Ghana,0
+3a91c20a-2709-4746-8654-1a93e98c254f,42,Male,Free,189.8,13,Smart TV,French Southern Territories,0
+26c10ed0-e615-4c2a-8abf-bcedbb206ec4,57,Other,Basic,89.8,17,Tablet,Samoa,0
+28233db7-93e0-4fd1-8496-7887ec5ef0b4,62,Other,Basic,87.5,23,Tablet,Zimbabwe,1
+565caba0-f99f-43da-8780-e02bd401cb67,18,Female,Basic,102.9,9,Laptop,Madagascar,1
+f4ead0ba-5870-4ffa-8b46-aebf3933f8c6,33,Other,Basic,200.5,17,Laptop,Kuwait,1
+96fd4f74-90f6-4755-8bd2-673a97ab63b5,56,Other,Basic,261.8,2,Smart TV,Armenia,0
+62c41ef8-b1bc-4445-9cbe-0907436fb6a8,22,Male,Premium,228.9,19,Smart TV,Bahrain,0
+93e3b13d-df40-4b62-a22d-23a8d0997e4e,39,Male,Free,219.6,19,Mobile,Guinea-Bissau,0
+d9277161-60a7-4024-80ce-c18a3d6641b3,46,Female,Basic,147.9,24,Laptop,Estonia,1
+10a80c7e-387a-4e05-b236-f8b02702d106,20,Other,Premium,209.7,7,Tablet,Nepal,0
+08461bfd-a60e-48f4-89b6-2a94d4cb4d13,29,Other,Basic,168.1,22,Tablet,Luxembourg,0
+92b145fe-dcca-45a8-a318-cdc3bb585e44,43,Male,Basic,68.8,10,Mobile,Qatar,0
+08e1e9dc-1a42-4190-ad1f-9797ddf0c3df,33,Other,Basic,66.5,10,Laptop,Somalia,0
+2ded8046-3cb9-421f-94f6-210ceaad5540,54,Male,Basic,92.4,20,Tablet,Kiribati,0
+6e070f4e-c8d3-4450-b014-19e17bedc7dc,39,Female,Premium,273.7,9,Mobile,Venezuela,0
+1d31a9ef-d2c7-478f-9b0e-0e9ef5bd5f60,46,Male,Basic,166.5,17,Mobile,Norfolk Island,1
+686a40f2-edbb-465b-95a3-c6d2770d1169,31,Other,Premium,221.5,15,Tablet,Palestinian Territory,1
+53f688fa-dead-46ce-a36c-246f4b2b9151,45,Female,Free,107.2,2,Tablet,Qatar,0
+36459780-08dd-4099-800d-46dfe582df9f,22,Male,Free,125.3,4,Smart TV,Morocco,0
+6d617d36-cb2f-4761-92c3-4debd79d877a,64,Male,Basic,42,19,Laptop,Cyprus,0
+8b33d2c2-ca5b-4bff-89a1-f9c622bd43bb,47,Female,Free,55.5,17,Smart TV,Saint Martin,1
+8e6fc09e-d35e-4044-92f1-7cd7e02021c4,63,Female,Free,249.1,5,Mobile,Chad,1
+1ad326e0-aeaf-48bc-a29a-38bceb7a4ade,22,Male,Free,177.5,7,Tablet,Ghana,1
+16065795-2d74-49f8-8bd7-dc1d246fdf49,29,Other,Free,104.6,18,Smart TV,Panama,1
+950bebd8-b844-48c8-9bf2-f74a35f2e115,33,Male,Free,241.8,21,Mobile,Morocco,0
+19288366-f54b-4a3b-bda3-b477ac7aa18c,43,Female,Premium,77.7,22,Laptop,El Salvador,1
+15cfabb7-0c0c-48c9-b23e-3dc2b9887565,43,Male,Free,292.9,7,Tablet,Croatia,0
+acd11d41-b5d9-42e7-9138-7d72cce66532,38,Female,Basic,106.7,17,Smart TV,Romania,0
+96d46952-2eb9-47a1-a0b2-26304eac4f44,56,Female,Premium,104.5,7,Laptop,Montenegro,1
+46e911e7-13fb-40bb-b893-8d1c74a10c5a,53,Other,Premium,97,4,Smart TV,Korea,0
+1b15c7aa-a065-4185-a25a-358beef68a02,50,Female,Free,41,8,Mobile,Gibraltar,0
+75740b6f-f90d-4cdc-8c48-ccd1cecd00fd,47,Female,Premium,37.8,13,Laptop,Uruguay,0
+e6ac3f6c-60a0-4a7c-a8be-5eba0660ea57,54,Other,Basic,196.2,4,Smart TV,Trinidad and Tobago,0
+e7cf9ed0-f5f7-4817-be8e-05dfdb293836,40,Female,Basic,263.2,6,Laptop,Greece,1
+528957ed-311d-433d-a778-023af3c88a40,27,Other,Basic,238.2,5,Mobile,Canada,0
+08488794-c1e6-453d-b2ab-2ac8d0c7be03,22,Other,Premium,46.6,12,Laptop,Liechtenstein,0
+2fc48616-5612-4762-bd92-f2eb2f50b442,53,Female,Free,165.9,4,Smart TV,Norfolk Island,0
+7e556fe5-e2af-4e93-957b-5aa9922dca2d,51,Female,Basic,36.1,24,Mobile,Greenland,0
+1ebfbf22-ece3-45f0-b7e9-b55d2fb750d4,48,Male,Basic,18.4,9,Tablet,Ethiopia,0
+13a78828-3e1c-40dc-8b9b-b67b6b8993d5,27,Other,Premium,198.6,4,Smart TV,Mauritius,0
+103a5d50-6278-4d9d-a3f1-c7103ae2a320,36,Male,Premium,162.9,19,Smart TV,Hungary,0
+c3a9cb72-5a38-4c75-89a7-3b1201e8d759,49,Female,Free,29.2,24,Mobile,Hong Kong,1
+5a883807-2fe5-4d55-85c5-c4e3d0c8c278,18,Male,Premium,15.3,14,Mobile,Niue,1
+686a1261-3b95-4360-9e3a-5d0101050bca,22,Other,Free,297,5,Tablet,Guernsey,0
+94bb251b-8d35-4e4d-a113-998a73b90cc2,62,Male,Free,13.9,18,Smart TV,Myanmar,0
+2bd138a0-cd30-43ab-b678-1d4ad4224f32,21,Other,Free,136.1,10,Mobile,Norfolk Island,0
+0f9b5b0f-7af4-4392-8ed5-517816f003ef,33,Female,Free,153.9,19,Tablet,Antarctica (the territory South of 60 deg S),1
+a06fbafd-821d-4cf5-ad10-ab927865ba80,41,Female,Basic,39.6,12,Tablet,Andorra,0
+8e67fc1e-7cd7-4d40-ab66-ac2aaddfeffd,33,Other,Free,54.9,18,Mobile,Israel,1
+7031589f-f981-41ed-b5c2-8bd3d6c740a6,19,Female,Free,108.8,17,Smart TV,Andorra,1
+7a897810-5c97-4792-a02e-984474c74002,45,Female,Premium,229.7,24,Laptop,Turkmenistan,1
+3983b1c7-b255-4229-be96-0256554db7aa,49,Female,Premium,154.6,11,Laptop,Malaysia,1
+9119805a-10fe-4e00-9d2b-4243c4c6d1ee,44,Female,Premium,193.2,3,Tablet,Qatar,0
+06ff46fc-8108-4743-a7b8-ef16adacac87,37,Other,Premium,295.6,23,Laptop,Russian Federation,0
+efa11b6f-d821-48ef-8419-44d8afa535e3,41,Male,Basic,231.6,17,Laptop,Cook Islands,1
+98d46bde-b58d-4e9f-8056-eeb42abb649f,29,Male,Free,133.1,1,Mobile,Guyana,0
+7dfcf9f5-e8bf-4278-aadd-374b078b7fd5,52,Female,Free,136.7,15,Tablet,Eritrea,0
+b37419d5-b116-4989-9667-72911137f382,50,Male,Basic,187.5,9,Smart TV,Zambia,0
+b4a384d7-cfa0-4658-88a5-5483a5615989,50,Male,Free,201.3,15,Tablet,Belgium,0
+6a06395d-9375-4466-97d5-50f53a8371f5,60,Female,Basic,152.7,24,Mobile,Hungary,1
+504f065b-5557-4d4f-b537-a6cb44316c41,54,Female,Free,195.2,3,Laptop,Palau,0
+cddd39f8-dda7-4ab0-bd30-978c8418c9fd,29,Male,Free,11.9,22,Smart TV,Korea,0
+97341599-5e10-42f2-825e-fbad0da663fa,20,Other,Basic,131.7,19,Tablet,Yemen,1
+8411f3a6-80d8-41e4-871e-f369cf5bbc77,18,Female,Basic,87.3,13,Laptop,Bouvet Island (Bouvetoya),1
+9ca9b0f2-6219-402a-94ed-e26adf994434,50,Other,Basic,43.1,12,Tablet,Yemen,0
+ba98758a-9ae2-4780-9f31-b32d6e9a7026,57,Male,Basic,34.4,20,Smart TV,Papua New Guinea,0
+3728cee3-0980-4882-a3fe-a8a44e139ad1,27,Female,Free,182.9,1,Tablet,Grenada,0
+129c0b2e-72f1-4340-992d-95117e1d9c47,60,Other,Free,159.5,21,Tablet,Jordan,0
+2da0e2ab-a4d1-4d84-8340-93f6ae536ea0,61,Female,Premium,79.8,17,Tablet,Finland,0
+e7fce5ae-8df8-440d-bece-e2c3a9a28540,46,Male,Basic,143.9,13,Laptop,Djibouti,0
+5cba9054-6a23-41a4-84be-48629e3771eb,30,Other,Free,150.2,1,Smart TV,Iran,1
+fd74b602-be56-43d4-ad07-095a3378b7d4,29,Male,Premium,62.5,10,Smart TV,Cuba,0
+4025edc7-d8f5-452c-b1a2-59482e35bd31,48,Male,Free,197.4,15,Laptop,Russian Federation,0
+7b507072-4ac2-4e04-b6c9-8cbaa90ebfd8,63,Female,Basic,235.4,7,Laptop,Guyana,0
+d7b1bef3-aedb-4c05-8b06-a6171aec2f64,19,Other,Free,238.5,22,Laptop,Palestinian Territory,0
+08f441d1-e2c9-4865-92ab-d64363a55c47,52,Male,Basic,182.7,18,Mobile,Australia,1
+61ea32c2-1772-4973-8e52-17cd658f65e1,40,Male,Basic,155.9,16,Tablet,Switzerland,0
+6dee3d8d-3125-441b-9a6a-0f86d267e066,34,Other,Free,23,14,Tablet,Palestinian Territory,0
+635c207a-7df4-462e-9043-cf3bdf5b6da7,43,Male,Premium,89.9,18,Smart TV,Andorra,0
+7a80fe50-c5e2-4631-aae2-451ec95d1dce,25,Male,Basic,32.5,7,Tablet,Bolivia,1
+a80122e1-2acb-4d94-9952-af0cf3520a0a,46,Other,Free,289.3,17,Mobile,Ghana,0
+51362c93-cfce-46f3-b5d5-70172fdaa0da,43,Other,Free,44.8,18,Laptop,Benin,0
+895afebc-d0e4-4a14-b695-adfcc45f7531,27,Other,Free,49.8,12,Smart TV,Korea,0
+1b79d020-863d-42a1-8965-e340708f40f8,43,Other,Free,267.4,8,Smart TV,Barbados,1
+2fda4da9-c5c3-41c8-b045-340d7dd1dd26,51,Female,Basic,283.5,22,Tablet,Romania,0
+5ec29686-4a72-4fd1-9e4c-38429f7615a9,58,Other,Premium,230.9,2,Smart TV,Bermuda,0
+dd4a973e-24c1-48ee-bd08-0b9546adbb84,24,Female,Basic,6.6,7,Laptop,Morocco,0
+7da3a17a-ac38-40e3-8809-aaf6cf3171d7,21,Female,Free,5.4,4,Smart TV,Dominica,0
+bc8b4c00-596f-4e72-ac9e-593bce2b95e5,62,Female,Free,116.5,18,Laptop,Japan,1
+ae3829c8-490a-4ea8-80f8-3ad226a458aa,28,Male,Free,47.3,6,Mobile,India,1
+93ce885b-c01a-46d8-98c4-5070bbcbbe84,46,Female,Basic,10.4,9,Mobile,Sudan,0
+871bdf61-c15e-4cda-bba9-2b7cbb252944,53,Female,Premium,141.9,9,Laptop,Azerbaijan,0
+7e9f6fd2-114b-4a97-8cfe-68192aa4d728,42,Male,Free,283.2,14,Tablet,Czech Republic,0
+cc53ac5d-75ce-406c-b3ad-c29801f9acc2,38,Male,Basic,100.5,8,Smart TV,Benin,0
+93edf3ac-3ba5-40bf-9bf9-e23a33ae353f,53,Male,Premium,200,19,Tablet,Seychelles,0
+8292d41d-6331-4cdb-b4f2-f14264937589,27,Other,Basic,197.4,3,Smart TV,Svalbard & Jan Mayen Islands,0
+0491e427-7476-4215-9650-6a8ad609e31a,54,Male,Premium,79.1,18,Mobile,Switzerland,0
+4035c9f0-1f6d-4611-b576-3cfb69c6eb3d,26,Male,Basic,196.9,5,Mobile,Belgium,0
+cf7f61a3-c459-4eaa-a6f9-d431c1e99a40,41,Female,Basic,67.6,14,Mobile,Nauru,1
+908e58a7-38ee-4153-9a91-8553f737613a,52,Male,Basic,41,4,Smart TV,Montserrat,1
+eb0caa8a-3d3c-43c3-a446-f3fd59a2e34b,52,Other,Basic,211.9,7,Mobile,Botswana,1
+687c41e5-fd28-4939-b5ac-b3d6f9fc19ad,53,Male,Free,38.5,20,Mobile,Estonia,0
+f4905a97-1c02-4841-bde4-316e4027458e,35,Other,Free,299.1,12,Mobile,Albania,1
+e5033e6a-7342-4113-b723-5b252b777852,56,Male,Free,59.1,2,Mobile,Samoa,0
+defff568-092c-4535-a7fd-4764273ff32a,49,Male,Basic,180.3,11,Tablet,Slovakia (Slovak Republic),0
+1f268193-fb7c-4261-bb47-bfd076247d6d,41,Male,Free,126.4,14,Mobile,Tajikistan,1
+a7acc626-4459-4c37-a8cd-46b23911a750,40,Male,Premium,42.3,22,Mobile,Brazil,0
+de3f7979-2133-48d7-9bac-e9db54f8277a,49,Other,Basic,13.2,23,Tablet,Croatia,0
+5ab0a004-3e47-413e-8618-05483b709838,54,Other,Basic,188.7,16,Tablet,Nauru,0
+f5168383-b387-4bda-abe8-0ab8db344922,29,Female,Free,243,20,Smart TV,Mayotte,0
+f63315b6-c16a-4bdd-bca5-646f4a047e76,30,Other,Premium,253.4,6,Laptop,Montserrat,0
+310a70ab-8e6c-4f87-a07b-cdcc65bb44b9,40,Male,Premium,147.4,23,Mobile,Guatemala,0
+d0baa6cd-6767-40ec-b2f1-4c5118abbf55,42,Female,Basic,234.3,4,Mobile,Antarctica (the territory South of 60 deg S),1
+1f275b28-3463-423d-981c-ec4a9c98c33d,52,Female,Free,203.5,15,Mobile,Korea,0
+ecdeba7f-915c-4613-8ceb-b82fd224f633,58,Female,Basic,218.7,24,Smart TV,Switzerland,0
+45f171d2-086f-4b07-8d92-4ae60df722a5,47,Male,Free,150.3,1,Mobile,Saint Vincent and the Grenadines,0
+854184ce-5f39-46bc-8c41-272494b5c59c,34,Other,Free,191.9,7,Laptop,Belize,0
+57cbafbd-53a1-4a07-82fc-d7de05668683,37,Male,Premium,242.6,12,Tablet,Saint Martin,1
+dbf4a89d-eb73-4364-995b-856fab6f9a79,42,Female,Basic,122.4,10,Smart TV,Saint Barthelemy,0
+844797b9-822c-42f1-a4fa-708d0cced158,39,Male,Basic,242.8,5,Tablet,South Africa,0
+6349f16c-7398-481b-9262-9b767a607879,30,Male,Premium,179.6,12,Mobile,Turks and Caicos Islands,0
+c0b6d940-d88d-4fa4-8c59-0008080e454d,36,Other,Basic,53.9,18,Mobile,Antarctica (the territory South of 60 deg S),1
+bcd396d0-fae0-4b72-9bd6-ecb88344c0a5,53,Other,Basic,12.3,10,Mobile,France,1
+64a793a1-e6fd-4eee-b5c5-8d42fc55404e,29,Female,Free,112,6,Laptop,Sudan,0
+645f557a-bb35-4eac-84d6-d938506117d0,58,Male,Premium,166.3,12,Laptop,French Southern Territories,0
+94b1ec6d-ef71-45d0-9025-b1b3e2ba899a,36,Male,Free,252.7,7,Smart TV,Lithuania,0
+edeb9c35-94fd-452e-bf19-4507d5dd71d4,29,Other,Premium,42.6,18,Tablet,United States of America,0
+acd3e4ce-e5e0-4446-8cf2-167338a61872,26,Male,Premium,241.1,2,Mobile,Bolivia,0
+bb17732c-4d13-4ed7-a207-fa616f88c856,24,Male,Free,259.6,10,Mobile,Burkina Faso,1
+68d76a5b-f71c-4aca-a450-c2fbfcb5386e,45,Male,Basic,49.5,15,Mobile,India,0
+4b9bf846-4068-40d5-931f-046d6bf655dd,31,Other,Premium,256.2,12,Mobile,Venezuela,1
+17e49c58-59f7-4e8f-93cf-206a79eac132,48,Female,Basic,297.5,17,Laptop,Christmas Island,0
+49e3eb43-fc1e-4865-ae3a-3359e4b6beb3,36,Female,Premium,219.4,4,Tablet,Jersey,0
+98a67f84-d6eb-48fc-92fc-60a38175826d,64,Male,Premium,236.5,7,Tablet,Romania,0
+23c34f98-e595-446e-9c56-0e966be23ae9,33,Female,Basic,298.4,9,Smart TV,United States Minor Outlying Islands,0
+0a0495b9-60dd-4e4b-8845-7caacf776b06,22,Other,Free,183.6,19,Laptop,South Africa,0
+1d66cc34-87b1-4e95-85bd-9bf01fe6fb91,52,Other,Premium,95.8,23,Mobile,Saudi Arabia,0
+13e849a9-a854-4b67-a5b1-0ea2b8ec1161,29,Female,Basic,252.1,7,Tablet,Gabon,0
+b37fc616-3eae-452e-829d-be35b6fbc624,42,Female,Free,186.3,23,Tablet,Indonesia,0
+f69fe91d-3132-463c-a480-e7c44d27e16e,38,Male,Free,176.5,2,Laptop,San Marino,0
+c1363514-8fdf-4ce9-85e0-b704b18fb499,53,Female,Basic,79.8,6,Smart TV,Heard Island and McDonald Islands,0
+4047a6d5-beee-45d6-af52-ddd04410ada2,40,Male,Premium,228.1,18,Smart TV,Norway,0
+df4c6545-9247-4fa5-bf99-81e9fe6db782,33,Male,Premium,29.1,6,Mobile,Peru,0
+ce67120d-970b-46f1-8afd-b54d5fc424b6,56,Other,Basic,277.7,13,Smart TV,Qatar,0
+af6b2d18-1d55-45ec-a772-dbbc1b7032f7,62,Other,Free,101.1,19,Tablet,Tokelau,0
+95e4256f-6c5c-47c0-9924-a9b285e99741,59,Other,Free,42.7,2,Smart TV,Georgia,1
+b3b59276-f01c-42d6-9fa6-c4e353d7e006,56,Other,Premium,135.5,12,Mobile,San Marino,1
+0184c9e5-7f8d-4332-8106-201fa1c152e0,31,Female,Free,17.5,15,Tablet,Portugal,0
+1540e60b-39a5-49e1-a9e9-3eafb31cfcaf,48,Other,Free,207,14,Smart TV,Liechtenstein,0
+2a71d20c-821c-4e1e-8797-9f941f3535b9,22,Female,Free,271.3,6,Smart TV,South Georgia and the South Sandwich Islands,0
+f7500d9c-f500-4d95-bf41-8313a761080f,52,Other,Basic,252,18,Laptop,Dominican Republic,1
+ef1257d8-3aae-4c55-b230-8f3ce69d29a1,40,Female,Premium,42.6,5,Mobile,Tanzania,0
+4bc60501-dafa-4be9-b9da-3eee4288cd3a,46,Male,Free,42.2,18,Smart TV,Guernsey,0
+3ddabca9-b7b1-4dc8-8367-8c24d1072338,60,Female,Basic,245,3,Laptop,Kiribati,1
+68235834-7429-424d-8c98-43a6f17d517d,28,Female,Basic,277.7,3,Tablet,Faroe Islands,0
+5e6dd8b3-80fc-4962-8129-d74e400a476d,35,Other,Premium,140.9,22,Laptop,Monaco,0
+512bc06f-4b85-41b2-a449-d03845f8d68a,64,Female,Free,152.2,22,Laptop,Haiti,0
+7f091501-3cf3-418c-b457-6a8e3164e45d,29,Male,Basic,98.9,10,Smart TV,Montserrat,0
+3f4c9ca7-c788-4c07-b27d-7a71f50dcfaf,26,Male,Free,268.8,19,Smart TV,Thailand,1
+82b15caf-f95e-4e76-a1f5-59eb3974386f,27,Other,Premium,195.2,3,Smart TV,Yemen,1
+8bb89bad-5e63-433b-86b6-845483631182,61,Male,Basic,90,12,Laptop,Bhutan,0
+c467be04-46fb-46cc-8340-235397f50801,34,Female,Free,93.1,16,Tablet,Kyrgyz Republic,0
+f3d8fd9f-325c-49a9-8a47-8ff38e0d58df,55,Male,Basic,267.9,17,Mobile,Moldova,0
+eb3ec237-3e43-4eb6-9410-07b57f898632,24,Other,Premium,9,7,Laptop,Gabon,0
+e332f3cb-c43c-446d-84cb-04ef9fc80117,63,Female,Free,100.2,13,Smart TV,Saint Barthelemy,0
+804c1ee5-6574-4b96-bfae-9589fb31a815,30,Other,Premium,168.5,24,Mobile,Turks and Caicos Islands,0
+cdc4434f-6619-47ff-bbea-39f34c02ce37,57,Female,Free,48.7,2,Tablet,El Salvador,0
+298cf06c-493f-4e5c-a4f3-5f764f9fb62a,59,Male,Basic,32.2,4,Mobile,Thailand,0
+f610be87-38ee-4b69-8952-d8810a6a2520,26,Other,Basic,245.5,10,Smart TV,Jordan,0
+3d92bb65-8be4-4d8d-9c2d-ace6a51667f0,44,Other,Basic,268.8,7,Laptop,Vietnam,0
+8c24a43d-32c5-4bf7-b414-9d5badb07f9a,19,Female,Free,248,24,Laptop,Nicaragua,0
+270b86cf-839b-4b76-bc4d-7c01a6fbabc5,22,Other,Premium,270.1,17,Smart TV,Greece,0
+c0e45585-55f9-45ed-8735-2b0b1c101692,46,Female,Basic,168.2,20,Laptop,Mauritania,0
+f27ad5fb-00de-4f23-a3e9-a533615fc270,54,Female,Basic,244.6,6,Smart TV,Palestinian Territory,0
+dea45b05-2640-4fde-8dae-7d539a48bad4,55,Female,Premium,118.3,19,Laptop,Sri Lanka,0
+9718c26e-548a-44bc-9ebb-790a6263b685,36,Female,Premium,201.5,5,Laptop,Poland,0
+b44b3615-1a27-49a6-a504-d286e669dc7e,25,Male,Free,296.7,10,Laptop,Egypt,0
+8bbc88e8-cfd7-4a89-b774-72e087cfc7a1,62,Female,Free,71.6,9,Tablet,Vanuatu,0
+6410d390-a1c5-417f-8a80-522574d80aa5,18,Other,Premium,120,13,Tablet,Andorra,0
+5a99f2c0-6645-4c7f-99ec-7eeab920f638,39,Male,Free,146.6,19,Smart TV,Bahamas,1
+791da90f-2aec-43fe-905c-3923e0f9b556,34,Other,Basic,45.7,21,Tablet,Northern Mariana Islands,0
+4f3deeb8-09e2-4583-b808-55971cf87f7c,24,Male,Premium,28.9,24,Smart TV,Saint Martin,0
+b16e633d-e25a-42fc-9005-27685b340fd8,42,Female,Free,249.8,6,Mobile,Paraguay,0
+6a1cee22-ad9e-4a52-a73f-1a56f105e257,62,Male,Basic,293.2,4,Mobile,Trinidad and Tobago,0
+3f940868-39ca-4e3b-aaf7-2844c6b3cba4,21,Male,Basic,124.4,24,Tablet,Finland,0
+9f9ce0f2-c176-48da-9477-43ec57ea4a86,53,Other,Basic,30.9,3,Mobile,Estonia,0
+864673df-a5ab-453a-ba8e-7d29797d5b37,23,Other,Free,24.4,3,Mobile,Saint Helena,0
+4a81e9cf-5cfa-4f4e-ae8b-b7e248611d93,48,Female,Free,267.9,4,Laptop,Zambia,0
+57152825-bbdb-45f4-b7ba-1136c825399a,36,Male,Basic,141.8,5,Laptop,Antarctica (the territory South of 60 deg S),0
+f4cde8da-83f4-4297-96a2-8db68c6de6bb,61,Male,Premium,99.4,8,Smart TV,Sweden,0
+d36fdd53-7434-418e-9d94-cc5712e4e91e,56,Male,Premium,145.6,16,Mobile,Jamaica,1
+cf17841c-01be-4444-9e60-ec7805c3b342,44,Female,Basic,98.9,22,Smart TV,Palau,0
+dabb1415-f7ad-45e0-a3ba-e32860c094c5,27,Female,Free,149.3,3,Smart TV,Sri Lanka,1
+9cb9d9a8-1fcf-4def-aa7a-32fb98ff469b,43,Female,Basic,258.6,24,Mobile,Indonesia,1
+a4486bd3-3fa3-4af4-a420-ba575706cf9c,36,Female,Free,179.7,12,Tablet,Central African Republic,0
+445f04b5-dcb9-4e8e-88f6-cbd5f6d57429,56,Female,Premium,209.9,8,Mobile,Sudan,0
+171b9e6d-3ac2-466c-b656-85a49fe4aaa2,20,Other,Premium,112.6,13,Laptop,Antarctica (the territory South of 60 deg S),0
+139b06ac-4ee4-4f2c-9202-976a62e56eb8,62,Male,Basic,222.9,4,Mobile,Ghana,1
+75128511-0ebf-4e30-a32d-98f092f474f0,30,Male,Premium,201.7,14,Tablet,Micronesia,1
+6119aa17-cb38-4dec-8b31-e3334ee07479,45,Male,Free,40.3,14,Smart TV,New Caledonia,0
+5520c5b7-3830-478b-991c-5ebd5b3aed12,37,Male,Basic,173.9,13,Smart TV,Northern Mariana Islands,1
+90cda5e1-5011-4ba5-b1b4-8767ba7be194,45,Male,Free,80.7,6,Laptop,Estonia,0
+1b7ef169-620c-49e8-8efa-fd7794e8efae,25,Male,Premium,242.2,17,Laptop,Burkina Faso,0
+a1e6902c-e85b-447e-97db-ccd7cfec6853,58,Male,Free,130.7,4,Laptop,Belize,1
+b5ba224d-706c-4b9c-844b-21b927e6b357,56,Male,Basic,298.4,8,Smart TV,Bouvet Island (Bouvetoya),1
+f90f1b27-af2c-4e19-95e1-493f21578a58,18,Other,Premium,32.3,17,Laptop,Sudan,0
+315435f7-e3c6-4af1-a7a2-a2eae1e60aa6,20,Male,Free,235.2,3,Mobile,Angola,1
+68b4bacd-ecc5-4823-879a-9e242e7b182d,30,Other,Free,203.7,17,Smart TV,Libyan Arab Jamahiriya,1
+96d81791-eabb-41bc-91b9-4306b1b2a851,45,Female,Premium,231.4,9,Tablet,Cyprus,1
+3f084277-e379-4c4f-8cf1-c0e2bd9d8dca,42,Male,Basic,95.7,2,Smart TV,Egypt,1
+3fa6f993-5263-46c4-a445-6acf7899b8fd,50,Female,Free,150.2,13,Mobile,Saudi Arabia,1
+5e00d234-9b3b-4ac7-ac4d-a5e39a213918,55,Female,Free,240,20,Mobile,Saudi Arabia,0
+abb2473f-fadb-425b-aa6c-1a2dc7e7e04a,23,Female,Free,73.6,2,Laptop,Uganda,1
+8977b338-8c0e-48eb-8738-3c32d575faba,61,Other,Premium,71.7,20,Smart TV,Mauritius,0
+99c31e76-ef00-4d75-9988-03438efa22b9,62,Female,Basic,167.6,11,Smart TV,Pakistan,1
+2d6ff28f-0665-434a-aed9-c7870a1073a3,49,Female,Free,159.5,22,Smart TV,Liechtenstein,0
+39a682c7-cc81-434e-881b-02aa25bdf4ba,62,Female,Free,88.3,15,Tablet,Angola,0
+5ed20ec1-6a3d-474b-a399-c3a0033ce956,64,Male,Free,92.9,11,Laptop,New Caledonia,0
+0c22f7c4-8ef0-418b-8d9e-4b2e01910afa,38,Male,Free,87,23,Mobile,Comoros,0
+08b683dd-0b07-4730-906c-8d4c139e141b,33,Other,Basic,232.6,3,Mobile,Armenia,0
+c72742ec-e4e1-4b65-997c-122f3f4aba8b,38,Other,Free,197.3,3,Laptop,Equatorial Guinea,1
+778f3ad0-32f2-4664-9a46-0a261f5bd03b,28,Male,Free,250.6,12,Mobile,Tajikistan,1
+768ba43c-d06f-4670-a4fe-2e05faa5e026,54,Other,Basic,292.8,24,Mobile,Tajikistan,0
+86bcbeb1-493f-40bc-9dd1-16bad910bc60,53,Male,Free,144.9,5,Laptop,Reunion,1
+8a8ecfc4-e499-4241-996b-5c11c9adb97b,52,Female,Basic,24.7,20,Mobile,Liechtenstein,1
+f3d4c0f3-7557-4177-9a5e-54bc1683ddcd,36,Female,Basic,19.2,7,Smart TV,Suriname,0
+0c664aea-3c2b-4436-a6c1-9f1ba1f9e675,37,Other,Basic,92.2,7,Tablet,Niger,0
+d16b9536-f376-4fcf-81c3-6c1f3cd4e7ef,35,Male,Basic,280.1,13,Laptop,Martinique,1
+3e5b100d-205a-487c-80e5-6e61d4040483,64,Male,Basic,159.3,9,Tablet,Bosnia and Herzegovina,0
+0d469859-98b8-4808-89b8-74eebfe678f2,58,Other,Premium,85.2,21,Mobile,Turkey,1
+d36cf603-bfdd-46dd-9df0-6a3807202ea3,31,Male,Basic,122.8,13,Mobile,French Polynesia,1
+1c4637cd-20f7-4c67-b1e6-9ad5a96b8d56,32,Female,Basic,181.6,12,Smart TV,Albania,1
+2b10cdd6-97c4-4e4c-8dc8-dd7b2e066349,48,Other,Premium,197.6,13,Laptop,Serbia,0
+1f7ba5bd-0541-44ac-b644-675ed8b6bc64,18,Other,Basic,50.4,24,Mobile,Guam,0
+b958ea49-f131-435d-a9dc-a62b09202d69,20,Male,Free,293.2,10,Laptop,Bosnia and Herzegovina,0
+857cd7c0-23cb-4b57-ba84-a44b7c8decbc,33,Other,Free,165.7,1,Laptop,Cocos (Keeling) Islands,0
+4bbf8311-ef2c-46d4-a14e-c2e741e34045,40,Male,Free,45,8,Laptop,Cook Islands,0
+419916fe-0079-4eb9-8e1c-d50b0cece03e,28,Male,Premium,268.6,22,Laptop,Brunei Darussalam,0
+921a5277-ebc5-443a-9c2c-ebefd7e17f48,29,Male,Basic,27,16,Laptop,France,0
+7f06e137-6197-41fc-911d-263af29bbb03,27,Male,Premium,272.8,13,Tablet,Svalbard & Jan Mayen Islands,1
+a41a027d-7434-4f47-84eb-f453ee1ab111,49,Male,Basic,299,3,Smart TV,Suriname,0
+3dcfacd8-5a87-497e-82ef-525d69ff6b2e,33,Other,Basic,211.6,3,Laptop,Ghana,0
+73360921-5a07-4deb-be6b-0a72789e577d,25,Female,Free,232.3,24,Tablet,Mauritania,0
+d0120431-4be6-4e77-b323-d1674795b315,55,Female,Basic,104.5,5,Mobile,Latvia,0
+96a0b333-ec14-497b-8b58-63bbaa518ada,29,Other,Basic,282.8,11,Laptop,Martinique,0
+f3faf9ac-4e40-4ed3-838c-d514ed6afebd,41,Other,Premium,161.3,7,Mobile,Tanzania,1
+bf5700f4-8a2f-4c7f-9c83-a6ecbfc0b48e,45,Female,Free,221.1,21,Laptop,Latvia,0
+cc147afe-61ae-4239-9738-6e4be8aaeb1a,25,Female,Basic,277.6,24,Tablet,Paraguay,1
+90b486cf-9b42-413a-88b0-c825f0cc9bc0,45,Female,Basic,292.7,10,Tablet,Pakistan,0
+379f04a9-3cbf-4739-9432-73014a0a2abd,53,Female,Basic,250.8,10,Tablet,Haiti,1
+1563b55a-7a22-4e65-b4cd-f8cdf98fc564,43,Female,Basic,94.4,20,Smart TV,Philippines,1
+644a4a8b-6e95-4f78-b8f1-31a2b0aefccb,25,Male,Premium,290.1,2,Mobile,Isle of Man,1
+37297c7e-44e0-4392-9f08-89e68f898005,45,Other,Free,190.3,3,Smart TV,Nauru,1
+1c7fa883-2681-46fc-9d04-b7f80d14fa27,45,Male,Basic,279.5,8,Laptop,Slovenia,1
+1d0731fe-0626-42b4-ac50-e816532d0026,54,Female,Basic,204.5,11,Mobile,Cook Islands,1
+e44699c8-f1f6-4b6a-b35a-0efd30200808,58,Female,Premium,95.6,13,Tablet,Liechtenstein,0
+c2b0ac19-2238-47f2-82bd-f8cb14064dc1,53,Female,Premium,114.2,7,Mobile,Costa Rica,0
+39992a6f-e2ef-4c70-bc4f-e4242052f7b9,44,Male,Free,167.4,13,Tablet,Nauru,0
+a1358f17-06f9-4f75-a792-11a5058e55eb,34,Male,Free,238.1,2,Smart TV,Saint Vincent and the Grenadines,0
+a47f43cc-4a37-4e2e-aa57-3ddf14da59c9,26,Female,Premium,98.8,6,Smart TV,Cote d'Ivoire,0
+a54a4fc7-e9db-43c1-8ea8-73fd19537cf8,50,Male,Basic,176,9,Tablet,Nigeria,0
+6867dcd7-70cd-44bd-be3a-9e9f0050907f,37,Male,Premium,107,20,Tablet,Qatar,1
+a504c6f5-f35d-4a5c-92bd-3ae43db5dd2a,30,Female,Free,245.7,2,Laptop,Czech Republic,1
+ffd25e35-10ac-4772-b28b-622f26dd6c64,45,Male,Basic,142.7,18,Smart TV,Norway,0
+83cc17b0-a26b-4e67-b02d-818ec37071b0,46,Other,Premium,27.6,16,Smart TV,Gabon,0
+a27774c2-7e88-4366-b103-dd46c6929b24,30,Other,Premium,54,12,Laptop,Botswana,1
+1b2c8e72-f648-4df3-b837-9e9f9c6fe5af,63,Other,Free,23,7,Smart TV,Palau,0
+f683834f-df0e-42c4-9c4a-26402ebce618,52,Other,Basic,152.3,7,Tablet,Uruguay,1
+ee5069a3-ec95-4f20-bc98-07bcfe9be529,23,Female,Basic,36.4,17,Mobile,New Caledonia,0
+c2bc67dc-920c-4a29-bbde-f18171416880,35,Female,Free,38.7,13,Mobile,Brunei Darussalam,0
+6eb5fe46-fb2f-4a43-a336-ae4ea66571e6,22,Female,Basic,282.6,11,Smart TV,Somalia,0
+095e8f68-2452-48c5-8e88-d4993aab7fca,64,Other,Basic,262.4,6,Laptop,Netherlands Antilles,1
+09d2c8cc-4492-4fbf-8f95-9d0f0a63a4fa,42,Other,Premium,138.4,23,Tablet,El Salvador,0
+1d5b1e1e-3827-4b09-919d-3ff704450a4d,19,Male,Basic,295.8,14,Mobile,Croatia,0
+cd1e682c-6b02-4485-81ad-203a548043ba,27,Male,Free,5.1,6,Tablet,Heard Island and McDonald Islands,0
+c209de07-4299-473e-9d92-f8ee04151155,47,Other,Free,186.1,6,Smart TV,Tanzania,0
+c19cf719-bdc2-4296-bfde-8d38c7195baf,62,Other,Basic,186.8,2,Smart TV,Malawi,1
+a55346ca-90d7-4ae6-9e4b-9d8510821116,22,Other,Free,139.9,22,Mobile,Mali,1
+df5ef77c-b6e2-4a30-a4d2-59890299853e,50,Other,Premium,122.1,20,Smart TV,Austria,0
+dc184cc6-d54a-4988-9425-688a4d60c0bb,18,Male,Free,139.3,15,Laptop,Andorra,0
+145d9b9d-c787-44c0-a30a-df08e28eb162,35,Other,Premium,127.4,17,Smart TV,Vanuatu,0
+1382a355-bdfc-46f8-993a-a32f91b22d33,49,Male,Premium,220.5,8,Smart TV,Samoa,1
+4be93655-36d8-43d7-bc0d-cf699e773ddf,64,Other,Basic,44.9,5,Smart TV,United States Minor Outlying Islands,1
+d58a0c2b-dc56-40d2-b0b4-a40e3569d896,28,Other,Premium,63.3,17,Tablet,Syrian Arab Republic,0
+f99129ce-9bcd-4462-84be-157d85df5121,38,Other,Premium,58.3,20,Tablet,Bahrain,1
+6c8f23b8-b476-4678-9b42-813506967bca,43,Male,Basic,82.4,1,Mobile,Aruba,0
+176f1514-2109-4e1a-8972-589444502208,42,Male,Free,160,22,Mobile,Myanmar,1
+937a70d4-3c9c-496f-a147-1ccb402c360a,39,Female,Basic,37.8,18,Mobile,Dominica,1
+c90f52da-68ce-4ffb-b910-292f87834bae,44,Other,Basic,261.1,15,Smart TV,Gabon,1
+b3d392f5-f86f-49d6-8f5a-bf483a3432c3,30,Female,Premium,92.7,5,Tablet,Cambodia,1
+776d8a57-5b95-4a7b-8ac9-d10b32851a6f,50,Female,Basic,52.9,7,Laptop,India,0
+b2ccb918-da7e-451c-a5c5-ed17d08023e1,51,Male,Premium,204.3,18,Smart TV,Kazakhstan,1
+eedb20a6-5afb-499e-8e25-f3d0b78ab2ce,58,Male,Basic,16.2,6,Smart TV,Somalia,0
+d5c09271-d59a-43b8-befd-63d07470c086,52,Female,Free,187.9,22,Smart TV,Kyrgyz Republic,0
+120c4ba9-4bbc-4153-bb32-11203b0c2b86,18,Other,Premium,211,21,Laptop,Congo,0
+73826bb8-d306-41a4-9a75-fc27a36fa24d,38,Male,Basic,68.4,5,Mobile,Nigeria,1
+9149d916-8f96-4eb6-95bf-56f9325f9d9d,23,Other,Free,17.4,19,Laptop,French Southern Territories,0
+79685a0e-47a0-40f1-804f-1b66896c6079,45,Other,Basic,112.3,10,Mobile,Dominica,0
+602d3932-4504-4e21-b11b-53033d508375,34,Female,Free,34.1,15,Laptop,Sweden,0
+537d84fa-fbb0-4eca-99d1-650e5641b701,22,Female,Basic,39.4,10,Tablet,Bulgaria,0
+31d15be7-4d57-4081-b9d7-72ae3cbd4ef9,48,Female,Basic,80,16,Smart TV,American Samoa,0
+adcadd65-b180-4a39-8e4d-12466e13ac9d,22,Female,Basic,92.2,12,Smart TV,Libyan Arab Jamahiriya,1
+0899d559-4df9-48e8-98d7-bd17d2aff859,55,Male,Premium,161.3,18,Smart TV,Israel,1
+6f14bac1-1f96-4d06-8f68-5a4ff8c5a252,20,Male,Basic,205.1,23,Mobile,Bangladesh,0
+b85b0ddf-a1d0-44e2-b7d3-e12b557e0cb9,40,Female,Free,179.9,1,Laptop,South Georgia and the South Sandwich Islands,1
+8148080f-ae15-4466-bdf5-3ed245cd0802,54,Male,Basic,48.8,16,Tablet,American Samoa,1
+8f885166-25a0-4d4b-822a-05b6c2d0b018,54,Female,Premium,55.8,22,Laptop,South Africa,0
+b3ecf6d7-82ea-46ff-9727-fc920556043a,27,Other,Free,264.2,6,Smart TV,Georgia,1
+77099c90-ae1d-4fe6-92b0-9e53cda028ba,27,Other,Free,169.7,3,Tablet,Austria,1
+ddf8300d-f49e-45f5-9d31-ccf4f9344357,36,Other,Free,261.6,2,Tablet,Moldova,0
+36769e4e-39f3-4dfe-b7e6-44c64df75ecd,34,Female,Free,114.6,2,Smart TV,Lao People's Democratic Republic,0
+28d110ce-5703-4ceb-8df8-94e4d4fd5cbf,38,Other,Premium,186.2,13,Laptop,Mozambique,1
+848f1ce1-a0ed-4ef9-8fd7-ccc24b0cb4fd,31,Male,Basic,159.5,9,Smart TV,Israel,0
+624af200-98c1-4a6d-8148-093f36f5ef9d,26,Other,Free,99.1,16,Laptop,Austria,0
+3ce79961-a58d-4c99-86b7-bf9dbf185606,63,Other,Basic,143.6,5,Tablet,United States of America,0
+9a306317-bf2f-4650-bff6-8966a005e50b,18,Other,Free,153.2,23,Tablet,Philippines,0
+0901465b-00d9-4684-8949-012973800d16,62,Male,Premium,64.2,21,Smart TV,Saint Helena,1
+ced69e39-ca59-4384-96e5-967e99f7e262,30,Female,Premium,97.9,7,Tablet,Lebanon,0
+f96754f6-b8a3-4012-af11-911c85fb3e5e,21,Male,Free,238.5,13,Mobile,Cameroon,0
+178fbf4b-d515-4a8d-a80a-a0d3a69922f5,18,Female,Premium,275.2,20,Tablet,Syrian Arab Republic,0
+e3e4a6b9-3fa8-4a68-97da-9c9e41d4641f,57,Female,Premium,111.1,24,Mobile,Vanuatu,0
+137cad04-7d0a-4fb3-bc3e-e51e1787289c,49,Other,Free,95.6,13,Tablet,Saint Barthelemy,0
+8d21625a-f057-409c-8192-efdc1d669d9b,51,Female,Free,62.6,7,Smart TV,Sweden,0
+c07da2f5-d681-41de-8231-f2241b01d8be,45,Male,Basic,205.2,10,Smart TV,Colombia,1
+92380152-d764-4f3e-8c22-856fcd744a25,48,Male,Premium,100.3,15,Mobile,Aruba,0
+936392ba-04b6-4c13-8d58-ade997125ca1,25,Female,Premium,296.4,21,Smart TV,Kiribati,0
+aee48e3b-a18b-418b-9c88-5ee229b198b5,56,Other,Premium,101.1,6,Tablet,Afghanistan,0
+3a41c7f2-5f83-44cd-8b74-c79d64dbb7f5,43,Other,Premium,121.3,5,Tablet,Malta,0
+86b09654-1501-47a1-bc7d-9f0eb7616600,51,Male,Basic,183,23,Smart TV,Korea,0
+d40a61fd-2bd3-48f7-b67a-298ff4630556,20,Other,Premium,241.5,2,Tablet,Mexico,0
+c19941fb-bd22-4956-8cf1-21d27c4bf2d7,29,Female,Premium,143.5,21,Laptop,Samoa,1
+8328bb68-1105-41b7-9215-bac6ef5bb5d5,18,Female,Free,129.7,15,Laptop,Libyan Arab Jamahiriya,0
+bb95766c-5360-4357-bc41-d6df79d41095,61,Male,Basic,298.7,16,Tablet,Argentina,1
+721593f3-8a31-4131-bdb6-233597fc08a7,22,Female,Premium,8.1,19,Smart TV,Australia,0
+ffa81f03-145c-4ac3-bb5e-fd03d53ab65b,47,Male,Free,269,9,Mobile,Falkland Islands (Malvinas),1
+813e6d18-266b-4282-a991-fe9b7a127631,47,Female,Premium,49,22,Smart TV,Cyprus,0
+a9a08f08-40be-404b-90a0-d8598a0c249a,34,Male,Free,236.8,19,Mobile,Svalbard & Jan Mayen Islands,1
+d8375698-87ac-4c1a-8015-6f500cae6122,64,Other,Basic,187.3,7,Smart TV,Reunion,0
+48153785-e7e6-407f-8a2b-2eb8c5b7a8b1,40,Female,Premium,105.8,4,Tablet,Kyrgyz Republic,0
+f615c004-f5f6-4ac0-b915-d8b73b3e0b29,32,Female,Free,262.8,3,Laptop,Falkland Islands (Malvinas),0
+c6b53345-7e69-4455-8513-4ee7dbfcd6a9,54,Male,Free,8.8,24,Smart TV,Jersey,1
+28af5fb9-b9ed-4a52-a7a5-cefbe9ae5448,38,Male,Basic,71.9,20,Mobile,Philippines,0
+8002d419-1bea-438f-9fb2-23e8dc7a2cf7,31,Female,Premium,172.2,11,Laptop,Sweden,0
+a8cf1872-0644-4529-9afa-70decf0a5a63,19,Male,Free,108.7,1,Mobile,Guernsey,1
+74b5fdb3-88c2-40ca-9293-47ed282404ff,28,Female,Premium,185.1,6,Tablet,Gabon,0
+89152118-b7e6-4a9d-9dfb-9e4a2c31a0a1,56,Other,Free,12.1,11,Laptop,Peru,1
+101f1219-1f79-4852-ba98-b2a343797010,55,Male,Premium,39.4,1,Mobile,Bahrain,0
+ade76782-a462-4138-b915-6d47a66c0a9b,51,Female,Premium,42.5,21,Smart TV,Pakistan,1
+e65c3fe9-8475-492b-a6d2-2ef2b1dbd473,55,Other,Basic,60.8,7,Tablet,Argentina,0
+c654b461-edc4-4ea2-8abb-c58010141c67,51,Other,Basic,140.5,6,Tablet,Mayotte,0
+89de13b5-2343-4bb8-b9de-df2751078908,35,Female,Basic,226.9,14,Tablet,Cyprus,0
+697c77ed-57d3-488f-8ce2-6c541c5cd946,47,Male,Basic,272.1,2,Smart TV,Maldives,1
+48251843-f05a-4b12-a457-80570d777cf6,32,Female,Free,251.4,4,Smart TV,Netherlands Antilles,0
+8a1779c1-974c-4932-a8e3-0c61d3f99354,44,Other,Free,63.1,11,Laptop,Colombia,0
+948f1feb-0a56-4fab-919f-db382b3a202f,51,Female,Free,135.1,15,Smart TV,French Southern Territories,1
+9d5b8d29-ac0a-421a-b56d-4063bfdee58d,55,Male,Basic,63.8,18,Laptop,Djibouti,0
+c372d60f-b2b0-4936-be44-77fd9031678b,50,Other,Free,83,1,Tablet,Tanzania,1
+0fff21e5-50e3-47c2-baf2-bfb132f88029,41,Female,Basic,153.5,3,Laptop,Malta,1
+b8e47256-9db8-4722-8a59-e9f31da24999,32,Male,Premium,25.1,3,Mobile,Papua New Guinea,1
+987a1be3-f642-46cc-b14e-68f1c80fd0b8,47,Other,Free,69.4,7,Tablet,Sweden,1
+116cfdfb-501b-4a53-a24e-b53a7e321bc5,59,Male,Basic,280.9,1,Tablet,Tajikistan,0
+cb44f246-655d-412c-a1b5-d7db86f78fc8,34,Other,Basic,142.5,11,Laptop,Taiwan,0
+0f9e931b-4f07-4a84-b2c1-3f1ad759cc31,22,Female,Premium,136.4,6,Tablet,Pakistan,1
+66ada6d3-1655-4a28-8001-dc63563517d0,46,Male,Premium,9.3,20,Smart TV,Liechtenstein,0
+4f67d01d-a2d1-424b-a2ce-12b6aae32857,21,Other,Premium,78,3,Mobile,Netherlands,0
+1434bfba-7525-42c8-b52a-1a6a018d36f3,27,Male,Premium,260.6,19,Laptop,Pitcairn Islands,1
+71d1ba0c-50df-44f9-b4bd-d49a9b76310a,34,Male,Free,53.6,2,Laptop,United Arab Emirates,0
+3a451641-47ec-48bb-bcf4-82fb5d41605e,27,Female,Premium,127.5,18,Tablet,Mauritania,1
+5fe50ff4-6469-4480-a4ed-472615b3a72d,34,Male,Premium,9.2,12,Smart TV,Senegal,1
+c359b3b5-bd85-4351-8d40-e0663c7c93d6,37,Other,Free,146.1,10,Tablet,Suriname,1
+38cef3e9-3168-4b4b-a974-f01ab90ba0b6,41,Other,Premium,11.2,5,Tablet,Luxembourg,1
+2a5bb97f-a648-4369-9b44-93cb646a883b,22,Other,Free,246.8,9,Laptop,Jamaica,1
+6597ed56-5130-4e00-9c26-bf2532ddce33,51,Other,Basic,248.3,2,Tablet,Mozambique,1
+4b487602-6768-4972-81f4-892dd569474b,23,Female,Free,237.4,2,Mobile,Anguilla,0
+ea1ec590-f1d1-4fd7-9954-5b9c47a8b649,19,Male,Basic,88.6,6,Tablet,Oman,0
+4e88361d-fe3f-4c91-92b4-6c2f03c7760b,30,Female,Basic,252,10,Tablet,Malta,1
+cb772148-3702-42f3-ba58-4d30a12f79eb,60,Male,Basic,165.2,18,Laptop,Mali,1
+17111377-c968-460a-88e8-8b9d9a168476,60,Male,Basic,115.3,12,Tablet,Thailand,0
+0c52008d-d6ee-452f-91d5-2d718c1a5b43,28,Male,Free,189.5,4,Smart TV,Saint Pierre and Miquelon,0
+e56eb3e4-d787-4bb5-971c-44f7e0032edf,64,Female,Premium,8.6,22,Laptop,Eritrea,0
+5a96baab-f5d9-40ef-8d96-3b68d6d1a7b0,40,Male,Free,47.2,21,Tablet,Swaziland,0
+ff13542d-61a9-4235-bb0d-fab52dc584c3,33,Female,Basic,224,17,Mobile,Falkland Islands (Malvinas),1
+9e0a20ff-2dae-4530-8e93-834de9ef8218,48,Other,Premium,77,15,Mobile,Italy,1
+cb363106-0967-4b24-8d7b-eaf7c6350af3,28,Other,Premium,181.4,6,Laptop,Equatorial Guinea,0
+4e5a130b-878a-438d-acf9-95ef621056e8,33,Male,Basic,118.6,16,Laptop,Palau,0
+95a17253-73b1-4690-aaa1-7393821e5e9f,25,Female,Premium,257.2,17,Tablet,Nigeria,0
+29c8a078-25b8-48fd-9567-cb4f999945d5,21,Other,Premium,286,3,Smart TV,Bouvet Island (Bouvetoya),1
+fdfab519-cf07-4f32-870a-4c38fe93771c,57,Female,Premium,265.7,10,Tablet,Lesotho,0
+d8354d89-a4d4-459e-bfc0-d298cc4c2f5d,21,Female,Basic,84.8,5,Mobile,Turkmenistan,0
+3c765d95-a4d8-484e-b6fd-2dce3e10f2ec,42,Male,Free,62.3,14,Smart TV,Palau,0
+41212f52-6bd4-424c-9b97-1e903877616b,20,Other,Free,145,21,Smart TV,Fiji,0
+1d66eab2-5dd4-4c5a-8997-186abd46b170,49,Male,Free,7.2,13,Smart TV,Thailand,0
+27531f0f-e2ab-45cb-b882-2677bf264e25,20,Male,Basic,12.6,6,Tablet,Canada,0
+48e72c21-e6cf-4ed6-83c9-36054b3859b0,44,Other,Free,168.2,12,Mobile,Guam,0
+c87b2150-518e-43ce-a134-8a1960003027,46,Other,Basic,158.5,8,Laptop,Azerbaijan,0
+636388fc-3551-4a2f-983c-a24c9027590c,49,Female,Free,298.4,5,Tablet,Montserrat,0
+4c8f3f9d-02c6-444d-9b9c-00ff9cc84334,36,Other,Free,64.5,15,Laptop,Rwanda,1
+96a8eeed-ca0d-4c37-8062-34b1b18deb33,38,Female,Premium,81.1,16,Smart TV,Thailand,1
+943b06d6-9312-47e9-93a3-e0bd7328192c,22,Female,Basic,38.5,1,Smart TV,Lithuania,1
+35dc7038-1801-420a-936d-2b20946f7341,35,Female,Free,275.7,16,Tablet,Timor-Leste,1
+5cd7f7b9-f6d3-4078-b803-a607be572003,45,Other,Premium,234.5,5,Mobile,Australia,0
+49bea9fd-1f23-4436-a427-08dbb20048f2,59,Male,Free,247.6,3,Smart TV,China,0
+879065b2-d6b3-4c68-b256-b98bb6bcd834,39,Female,Basic,271.3,20,Laptop,Mongolia,0
+83d9d986-a5f4-4217-8dc7-481d0ea03666,38,Male,Premium,159.8,15,Laptop,Turks and Caicos Islands,1
+1801cfda-4c72-435f-9e0b-14d7a5673f1f,23,Male,Free,138.1,13,Tablet,Eritrea,1
+5438912f-accf-4d23-b062-70ec41dde83e,18,Other,Premium,102.5,24,Laptop,Tunisia,0
+7c4f0763-ec92-4318-976c-f93ee4905975,22,Male,Basic,178.8,16,Mobile,Tanzania,0
+6bd94c94-f6d8-44b1-802c-ec4d1546d307,58,Male,Basic,139,23,Smart TV,Lithuania,0
+8110ae97-a052-4535-a4cb-b59c56d2e983,29,Other,Free,138.2,11,Laptop,Saint Barthelemy,1
+20463c8d-151a-488b-a9ba-628d9ad9d3e8,43,Female,Free,281.4,21,Laptop,Guam,0
+f7221529-1a79-4b45-924d-d1e5c624db98,63,Male,Premium,295.3,2,Smart TV,Sierra Leone,0
+3977d047-9ebf-4c02-8158-2b23fbeaf070,51,Other,Free,240,22,Tablet,France,0
+388b7b33-d593-4948-ab8e-b40c54975866,31,Male,Basic,228.2,6,Laptop,Bhutan,0
+ce086018-ae39-4a50-a1a8-a21c7413087a,43,Male,Basic,205.8,6,Tablet,Kiribati,1
+8b385f80-fd09-4a75-83c5-0cae00a98547,62,Female,Basic,54,14,Tablet,Liberia,0
+6292bb00-7a25-434f-9ade-8523f925e340,44,Male,Free,22.4,11,Laptop,United States Virgin Islands,1
+27627d64-acf5-4583-a360-c29ff4c08930,26,Other,Free,208.8,8,Mobile,Czech Republic,0
+bddb8ca9-fd9e-4420-8381-963b07787df6,43,Male,Basic,220,8,Tablet,Zimbabwe,1
+4fd4d972-f5c9-473f-b63c-fb3825b1793f,64,Female,Free,18.9,1,Laptop,Micronesia,1
+e60b9720-be58-4a83-9df2-5e9cb9a0668d,39,Female,Free,278.8,21,Tablet,Cuba,0
+d03043a3-1613-419d-b652-b95e7e8ba90a,64,Other,Free,31.9,7,Smart TV,New Zealand,0
+5c37edc7-ad04-4623-94b6-e0b000b6a32b,47,Female,Basic,89.3,6,Mobile,Malta,1
+9ce0debd-3033-4bee-9211-23754e7a2d3e,60,Male,Premium,203.4,21,Mobile,Saudi Arabia,0
+1c4849d2-e4c4-4cb7-a21e-fe439ac35665,34,Female,Free,55.1,8,Smart TV,French Guiana,1
+b9370264-4b28-4ec1-8c00-544b98c6a33a,43,Other,Free,21.3,19,Smart TV,Qatar,1
+9a96feda-bd68-4567-bc15-8d4a33fd78d9,53,Female,Free,102.7,22,Tablet,Guatemala,1
+96ce4bf7-9653-4cc2-be25-fcb4eb139273,18,Female,Basic,231,21,Smart TV,Solomon Islands,0
+09248d90-3501-4e8c-bb52-b824edcb0321,25,Female,Basic,127,24,Mobile,Aruba,0
+8bf830d4-40ab-4fd6-b860-2227afdc7118,52,Other,Basic,197.6,20,Smart TV,Jamaica,0
+c0da98a3-97b0-4d7b-a68b-b96e22d65951,32,Female,Premium,176,8,Laptop,Albania,0
+08ae39a0-d205-4524-8f62-f51276a1d5d9,64,Female,Basic,11.6,14,Laptop,Fiji,1
+f441c69e-fe96-43f9-9b36-07ebdf575d59,39,Male,Premium,296.6,18,Tablet,Nigeria,1
+0fab1551-5033-4f8c-a582-7044750de02f,31,Other,Premium,17.2,16,Mobile,Andorra,0
+10d1d542-dda6-43fa-ab9f-1e7d541d6b23,43,Female,Free,290.5,9,Laptop,Cote d'Ivoire,1
+2c659724-92f9-4fd1-a5b1-e6f855ab549a,45,Other,Free,167.2,15,Smart TV,Maldives,0
+1551d262-477c-4fa6-9c32-d83c85221b04,40,Female,Free,289.1,10,Laptop,India,0
+f4dfde5c-d085-4412-bb7b-e71337c69aed,31,Female,Free,38.9,22,Laptop,Palau,1
+783c0c1c-2bd2-4860-9754-f54fb924f1fd,41,Female,Premium,149.7,16,Tablet,Benin,1
+ca5a1113-a919-4f71-8b50-aab2bd73139f,19,Male,Basic,55,4,Smart TV,Kyrgyz Republic,0
+39904df8-105d-4f8e-94f3-5c0dbebbeb96,62,Male,Free,20,20,Smart TV,Guernsey,1
+f09876bd-fc19-4ad1-bf1a-f6fa26e0e6b8,43,Male,Premium,187.2,13,Smart TV,Botswana,0
+e7acce34-5d64-4a00-85ad-8abff5467c7b,31,Other,Basic,66.3,22,Tablet,Finland,0
+c808b7b8-ec68-40cf-be29-22dae025b11f,24,Other,Free,178.4,5,Smart TV,British Virgin Islands,0
+97161c93-1f32-420a-a5ce-5bc4eb307217,20,Male,Free,38.1,22,Smart TV,French Guiana,1
+a882ec80-55c9-4b19-8fc0-25e7204de3d5,64,Other,Basic,102.9,7,Laptop,Israel,0
+43b4822b-a4f1-48b1-92c5-a7f5a2254367,40,Female,Premium,235.6,23,Laptop,Mali,0
+aa171e53-a3d9-40b8-9a45-542612125c20,63,Female,Free,133.9,9,Smart TV,Sweden,0
+3eb74253-c090-4862-8bac-0e1ad6930b2b,60,Female,Free,190.2,8,Mobile,Latvia,1
+cbcf8c1b-1d85-4302-8f23-6f77423e1ba5,64,Male,Basic,196,16,Mobile,Zimbabwe,0
+4f38ee1b-f58b-4879-a90c-ec84dc2075e1,62,Other,Free,253.9,6,Smart TV,Malta,0
+0bff1f5a-ca24-46cd-9783-1b1222e348b9,35,Male,Basic,100.9,16,Mobile,Falkland Islands (Malvinas),0
+43773094-442e-4de9-b51b-e450e3d79635,55,Other,Basic,207.8,6,Tablet,Venezuela,0
+67b18132-4ef4-4c3b-8a5c-0f850b999fa7,52,Female,Free,288.7,14,Laptop,Brunei Darussalam,1
+c2884ceb-c2b1-4e71-a8ad-5f521db314c7,32,Male,Premium,220.4,21,Tablet,Norfolk Island,0
+289b0f81-323d-4e5d-b032-b8412d6cd110,42,Other,Basic,149.5,1,Laptop,Benin,1
+d9cb600a-aab4-4827-b4bb-a7908c88ef03,54,Other,Free,191.1,9,Mobile,Congo,0
+de75528e-63d7-4ffa-9137-b4adf470804a,45,Female,Basic,223.2,24,Mobile,Papua New Guinea,1
+1591bbef-80df-4e70-8b80-8d09409f88c3,27,Male,Premium,185.6,13,Smart TV,Ghana,0
+ec33ed2f-ca08-4a26-b207-4a7d94a6b1ea,56,Male,Basic,9.9,19,Mobile,Mongolia,0
+f073a9e8-dd3b-429a-b50d-fc7fe4d5dda1,34,Male,Free,62.5,17,Mobile,Honduras,0
+050032b7-c6c3-4c2d-9ce4-7ad162f9a87d,56,Female,Premium,244.1,11,Smart TV,French Southern Territories,1
+23ac99f4-362d-4076-91a5-86523407120a,39,Male,Basic,85.4,8,Smart TV,Belgium,1
+5ce20c1e-e14a-4178-94e8-b4b21af225d6,43,Female,Free,220.8,23,Laptop,Saint Vincent and the Grenadines,0
+0ee8ac85-628a-44c4-a16e-ba054f117f4c,61,Female,Free,114.8,5,Mobile,Algeria,1
+2d815813-b839-4c45-9e51-f1aa21ac51db,42,Female,Free,159,10,Laptop,Guinea-Bissau,0
+7613f74b-15b0-44c6-8ecb-1e7a285d2765,34,Other,Premium,25.1,7,Laptop,Martinique,0
+68e7f1a1-ec2e-47f7-ad1b-a7cae919feb3,30,Male,Free,58.5,10,Tablet,Aruba,0
+54098517-17a3-49bd-9102-7dce77e5d7c2,37,Male,Free,287.4,4,Mobile,Japan,0
+3a4a6f88-0bca-4289-8b99-52aa32c350d7,42,Female,Premium,267.6,9,Mobile,Afghanistan,1
+cab56b33-aaff-4b2e-af43-39dbe5ae1f3b,21,Female,Free,197.4,14,Tablet,Montenegro,0
+5b46e0f0-3648-446d-a02c-f2e19ac2ba97,27,Male,Free,140.6,2,Laptop,Wallis and Futuna,0
+440f6c38-a15c-4314-a7e7-b18a4a659402,20,Female,Free,204.3,9,Mobile,Tanzania,0
+3ed67c7a-4bc1-42d0-a825-4816e52667a0,58,Male,Free,187.5,21,Laptop,Portugal,0
+3207b739-d30d-42f0-850a-e6bc53c4abdc,62,Other,Free,172.7,1,Tablet,Vietnam,0
+dba3b7d2-de93-48ec-8da6-1efa8c1f4cb0,35,Female,Basic,22.5,23,Smart TV,Chile,0
+e78d86fa-1b89-4931-aa51-673da728731c,64,Male,Free,191.7,10,Laptop,United States Minor Outlying Islands,0
+54df4861-8ddb-42f4-b573-af41c2b545f9,53,Female,Free,231.8,10,Mobile,Gibraltar,0
+3a40053e-7cc8-48b0-a602-81a152e3c93a,64,Male,Premium,298.3,20,Smart TV,China,0
+27121092-68f3-44ff-9ea5-74cf38f1e07d,39,Male,Basic,8.3,22,Laptop,Angola,0
+df6f27b2-b28e-44d3-8406-f15c8e963849,51,Female,Basic,220.4,3,Laptop,Azerbaijan,0
+26c4c948-5afe-4ad8-950d-ac76f2614de6,64,Other,Basic,173.7,6,Smart TV,Grenada,0
+3e21a682-9ef1-4d6d-8c13-e959a2eb0d6e,25,Male,Free,133,6,Smart TV,Chile,0
+dab459bb-a0b4-4213-b980-85a0717bdaf1,57,Male,Basic,42.6,21,Smart TV,Germany,0
+b6c21146-249c-4b52-b48c-19ea02382c5a,61,Male,Basic,125.7,2,Mobile,Iceland,0
+c726e681-87ff-4c93-b799-ef1a1c5055ac,36,Other,Free,109.5,18,Mobile,Mali,0
+af68dd9c-2800-4f95-8792-87d9f3c92685,59,Other,Premium,94.3,23,Laptop,Bahrain,0
+6861e0e1-4f23-46d3-8ae4-3ca1858a3159,58,Female,Free,220.6,2,Laptop,China,0
+d710b571-fe68-4140-9b45-55462e1a0aad,54,Other,Premium,211.7,12,Tablet,Mozambique,0
+0bf5bd3d-942e-47c8-9ee8-04a8dd458350,23,Female,Free,178.8,22,Mobile,Cuba,1
+e0a2b78f-2059-41df-aa26-859706409fd1,43,Female,Premium,281.9,5,Laptop,Cocos (Keeling) Islands,0
+1b8aab41-ba2d-47c9-8920-a178e3b5289d,51,Other,Basic,108.2,20,Smart TV,Greece,0
+7ea7d7e0-d035-4b5b-b942-54b3102c1420,62,Female,Premium,76.9,7,Smart TV,Paraguay,1
+558e4672-a7a9-446c-b09a-336d8b44af99,23,Other,Free,198.5,24,Mobile,Greece,0
+e6605fc2-9379-42bf-95ea-22b8ef7638fa,54,Female,Basic,63.7,16,Smart TV,Niue,1
+238a9a1b-5f91-427e-907d-6e810910b50e,50,Other,Basic,97.9,20,Tablet,Greece,0
+68a76ef3-21d5-4039-9fc8-a1128809a0d4,39,Other,Basic,71.3,1,Laptop,Tajikistan,1
+4af5e26c-7a6d-413a-9b1a-91788b1751ac,38,Female,Basic,25.4,1,Laptop,Cuba,0
+71d108ea-3db4-4ef6-a0c7-f7b235b45b58,23,Male,Basic,249.1,17,Laptop,Sri Lanka,0
+108524ee-449e-4dfd-bc34-55ae20fd88e9,23,Female,Basic,80.1,1,Mobile,North Macedonia,1
+e3554af5-0df7-4fa7-ad56-56dca153cb7d,21,Other,Free,144.5,21,Smart TV,Guatemala,0
+32c1aea9-dd9e-4eb7-9c8f-07182f987dfc,47,Male,Basic,17.8,20,Tablet,Cambodia,0
+90f0ce35-f88a-4925-8b24-9359f092aba9,28,Female,Free,211.3,13,Mobile,Serbia,1
+44bbcd43-897e-4e16-add1-317668b2fe2a,47,Female,Premium,102.5,9,Laptop,Morocco,0
+7d4a29d6-e112-462f-a46a-f544779fae51,48,Female,Basic,224.7,15,Tablet,Liechtenstein,0
+fce9f5e8-2d4b-4d5a-96ed-7466569bbe3d,41,Male,Premium,126.7,3,Laptop,Cyprus,0
+9b19dacb-45f0-406e-aaac-cda8b38fca4b,26,Other,Free,62.7,14,Laptop,Japan,0
+187cc83f-ee27-4e3d-b125-05afa8c81514,20,Female,Premium,156.4,23,Mobile,Nigeria,1
+dc9e6ef2-3fb8-4d5b-aba4-d199d5694d1e,48,Female,Premium,43.5,11,Laptop,British Virgin Islands,1
+4f3d35db-d0b0-4489-bc15-e42c31d25943,57,Female,Basic,135,24,Tablet,Portugal,0
+a313e316-62b6-4998-9560-14eea3b1aa92,54,Female,Basic,98.6,22,Laptop,Saint Lucia,0
+3d75acab-1975-4770-b855-a3d7f585fa77,53,Female,Free,274,12,Smart TV,Isle of Man,0
+64e1351a-8e5e-4b86-bc21-701f41927eb5,41,Other,Premium,23,13,Laptop,Ethiopia,0
+6843e4cd-d031-4094-a23f-1901a68a962a,48,Other,Basic,209.7,13,Mobile,Namibia,1
+b96758cc-3bd9-4b21-ba62-e4eab3ffb5d9,23,Female,Free,58.9,1,Tablet,Isle of Man,0
+7e7d76c1-be3f-43ba-9932-d92d3b10f096,19,Male,Free,99.1,24,Mobile,Latvia,0
+eccb388b-40a9-45b7-93b6-8ce75548517f,37,Other,Premium,127.6,10,Smart TV,Kuwait,1
+8baaad1a-3c50-4b79-ac91-8c9ae5a0c6c0,45,Male,Premium,272.9,3,Laptop,Cook Islands,1
+2cf8b106-c968-416f-8d94-e34c4c71f4af,28,Other,Premium,76.6,24,Mobile,Lao People's Democratic Republic,0
+c56a7317-4269-41b2-b91d-b65847bd4a81,21,Female,Basic,31.9,4,Mobile,Mozambique,0
+6f1e3ab1-b005-41d2-9b7f-e56b058a561b,32,Other,Free,99,16,Mobile,Egypt,0
+44c12281-d4d2-4ae9-a3b5-8c349e0d4cd6,23,Female,Free,35.9,8,Mobile,Niue,1
+f69c9bb7-034b-4673-8616-f9076244ad3f,47,Other,Free,42.9,16,Smart TV,Iraq,0
+167fee24-2540-49ea-af36-7b80061d689c,55,Female,Free,174.3,17,Smart TV,Jordan,0
+071bffd4-0364-4660-a1c2-902c4fad654d,19,Female,Free,23,19,Laptop,Grenada,0
+e1f73a3e-967f-4d85-b35e-3786f8ec00b2,32,Female,Free,14.1,22,Laptop,Antigua and Barbuda,0
+26bcd585-a39e-408c-afb9-34c41bdbafe8,28,Female,Basic,215.8,15,Tablet,Nicaragua,0
+5e47ab66-1f83-415a-9c4f-b94a430dbb62,25,Male,Premium,111.7,16,Smart TV,Zambia,1
+400a56db-d37c-4603-bb3a-0e8c2f7d1a71,43,Female,Basic,42,15,Mobile,Guyana,1
+c196f3c4-97bf-4b44-b350-f6f8dec01f9c,62,Male,Premium,79.8,2,Mobile,Greenland,1
+0850a628-4b5e-4770-a175-9029daf1440b,61,Male,Basic,194.4,11,Tablet,Switzerland,0
+5b10fe8e-3de7-4e8a-b91a-8c2d3a9aa7fc,22,Female,Free,86.3,1,Mobile,Malta,1
+ea8075ef-038a-4ec7-8561-9a1f8c962a77,23,Male,Free,150.9,15,Tablet,Timor-Leste,1
+de7a0f73-990c-4099-abfe-2675611c25bd,43,Other,Free,40.9,19,Laptop,Paraguay,0
+0565d1b9-0d3b-4981-85d4-5b96fa44899f,21,Female,Free,178.5,4,Smart TV,Ireland,0
+d51d45a9-2552-423f-9002-6ec81ae36b1b,36,Male,Basic,98.2,11,Tablet,South Georgia and the South Sandwich Islands,0
+4d4015f7-166a-4453-b108-3de2403f27f1,37,Female,Free,190,5,Mobile,Japan,1
+fa4a31fc-4150-42f3-aa64-8865af5ececc,50,Female,Free,243.5,3,Tablet,Saint Helena,0
+fa792af2-8568-495e-b06d-489333f67a73,37,Female,Free,185.4,13,Laptop,Tokelau,1
+cbb9e137-a42e-4bb6-91c0-5d4c3ada34df,29,Male,Premium,92.2,10,Mobile,Netherlands Antilles,0
+53b4d346-c7cf-4fc0-b937-a0c425af063f,64,Other,Premium,80.4,11,Laptop,Jordan,1
+7c5ea3ea-aad5-4604-9017-2bce4bf6f51c,18,Other,Basic,101.6,18,Laptop,French Southern Territories,0
+9179c330-c425-4455-869f-69bcd0870680,43,Male,Free,53.6,2,Tablet,Puerto Rico,1
+fa6da6fc-e5ee-4ab8-8eb0-6230e5de45c1,31,Female,Premium,58.4,7,Laptop,Latvia,0
+55770bd1-b1f0-4f3f-98c1-24db818f5c06,55,Male,Premium,238.3,9,Mobile,Czech Republic,1
+08e045c4-5529-493d-a148-401d2c9f6e04,54,Male,Basic,118.5,10,Laptop,Oman,0
+fea44bd3-c366-465d-8df9-504874829a4a,28,Male,Premium,133.6,18,Laptop,Canada,0
+533bb6a7-96eb-4459-84ad-10fecb7a04ba,53,Female,Free,180.2,23,Tablet,Wallis and Futuna,0
+57819974-66eb-4a2c-9d23-07144a301d7b,30,Male,Premium,178.9,7,Laptop,Uruguay,0
+6a103aba-1e75-4530-84fa-309888dc613f,60,Female,Premium,24.9,7,Smart TV,Kazakhstan,0
+102d3aff-6873-4201-bf67-70ad0f8c7f5a,20,Male,Free,250.3,3,Tablet,Luxembourg,0
+bf804768-4103-4b74-9f0f-3b34a05553fd,50,Other,Basic,57.3,12,Tablet,Sierra Leone,1
+72a378b4-7c05-49a3-a075-c2fa6d8cd655,23,Male,Premium,218.3,7,Mobile,Iceland,0
+2eedcf7a-9517-4a40-aa2b-25b8fc02b6ec,27,Male,Free,232.9,17,Mobile,Malta,0
+0acefabc-7eca-4b00-994c-83a8a01c78e4,22,Other,Basic,215.9,1,Mobile,Panama,0
+9e89cd90-30ef-4800-b30b-88c6852ccceb,40,Female,Premium,175.8,5,Mobile,Sri Lanka,0
+2610ddaf-91bf-4e8e-8fd6-d5aa5ae49727,27,Female,Basic,9.3,16,Smart TV,Netherlands,1
+62c44012-91bf-4709-baa2-18ddb4acb561,61,Male,Free,111.3,15,Tablet,Mauritius,0
+819089e4-ecc0-4060-9565-25bf8ff732e6,19,Other,Basic,183.4,2,Laptop,Trinidad and Tobago,1
+620c42ab-0d65-4efb-a660-1b7d3e7d6c49,30,Female,Free,119.3,9,Mobile,Peru,0
+0472fd40-e069-44cf-aeee-22c7a6a1c71c,57,Male,Basic,259.7,7,Mobile,Germany,0
+8dc091c6-5b0c-402a-81cb-d6f83f6dda26,19,Other,Free,96.1,4,Mobile,Uganda,1
+69542ddc-ac52-4edf-943f-f14627e4be17,37,Female,Basic,91.6,20,Laptop,Cameroon,0
+d509a186-3db0-4359-8d81-3e25d1099c73,18,Female,Basic,83.5,18,Mobile,Norfolk Island,0
+4b70ec0a-995f-4e8f-98af-6395d5d79e79,54,Other,Basic,103.2,21,Laptop,Taiwan,0
+61543704-bdcf-4046-ba84-378daf85fa0f,26,Other,Basic,169.4,4,Tablet,Ghana,1
+1a8dd595-93ab-4db0-8611-e3ce79ad04ba,34,Other,Basic,213.6,13,Tablet,Yemen,0
+e02d6d91-31bf-4ec4-97dc-16ef21a463ad,26,Other,Basic,200.5,1,Tablet,Mozambique,0
+131bbc76-2430-4177-913e-9cbd9b791eaf,28,Male,Free,243.3,24,Smart TV,Croatia,0
+774e7564-b8b7-498e-968b-4fecccbacfc7,32,Other,Basic,266.3,3,Laptop,Gibraltar,0
+200dff9a-56bc-4376-84e7-958747139db8,41,Female,Free,245.7,16,Mobile,China,1
+b4a05dbe-f63f-4174-91bf-7baa9a488a46,55,Female,Premium,10.6,22,Mobile,Moldova,0
+4b97d981-0b32-4609-a166-eb0ff9c8d5d9,52,Male,Free,222.1,4,Mobile,French Polynesia,0
+a806e3bd-e4df-4dd0-bf03-bdcbf9f237dc,47,Female,Basic,66.5,23,Mobile,Tuvalu,1
+f072820f-4e15-4d13-a044-281f34155516,48,Female,Basic,44.2,16,Smart TV,Grenada,0
+6ac9a9a7-5b41-486b-8538-ab54d7d7a347,22,Other,Basic,193.4,19,Mobile,Finland,0
+1fc87696-2bb5-4771-a150-6eb6fcd92690,61,Female,Free,99.3,1,Smart TV,Greece,0
+f7bf46b9-6e77-48fc-943f-73d9ed8eaa32,31,Male,Basic,21.8,5,Laptop,Philippines,0
+705c4ba0-ad18-4512-92a5-d00ca57b8209,28,Other,Basic,45.6,19,Tablet,Denmark,0
+2556182d-07ff-4a6d-933d-dc56b7323af6,26,Other,Basic,5.3,22,Mobile,Congo,0
+3736592e-79e6-47eb-bc7b-c4e7c92fcd2d,51,Male,Free,271.5,24,Tablet,Palestinian Territory,0
+d4d46d66-1012-4442-a2aa-a0d62a1d1cf7,29,Other,Basic,12.3,11,Laptop,Anguilla,0
+4d0ab68e-7753-4e68-a663-74951bb20813,52,Other,Basic,66.8,13,Laptop,French Southern Territories,0
+58a1c029-2f40-41d8-9b78-0f9ebc1151b9,52,Male,Basic,127.8,20,Mobile,Belgium,0
+27e02ce1-1f44-4dc3-86ad-b2bee172f97d,18,Other,Basic,110.2,5,Laptop,Nigeria,0
+3602745e-2829-480f-819e-584563cade26,57,Male,Basic,274,21,Tablet,French Polynesia,1
+7c87b5ee-a874-48b6-b99f-b40ecb13c4c7,39,Male,Free,16.9,4,Mobile,Gibraltar,0
+320de4d6-0f72-4fac-9f75-b3e8350ceed2,46,Female,Free,156.1,4,Smart TV,Benin,1
+3bb47540-21e4-493d-a58c-26f7d748eeaa,25,Female,Free,205.7,4,Mobile,Egypt,0
+ef966544-7cb9-47fc-9c29-04efbaac0d37,28,Other,Free,279.9,4,Tablet,Finland,1
+c4aa8f95-82f8-4821-a63b-91ddd252439a,58,Other,Basic,188,20,Mobile,Malaysia,1
+e0668cd5-baf7-484a-8eab-805bda0bc6ab,54,Male,Basic,242.1,21,Mobile,Maldives,0
+95eec942-4757-4269-b77d-68815332b8d5,31,Other,Free,29.7,18,Tablet,Iraq,0
+95cbc2b3-93c7-4b23-8bcb-42ab522eb08d,47,Male,Premium,118.9,18,Mobile,Cook Islands,0
+2aadf284-3f9f-4809-982c-c8e69f8af1d3,52,Male,Free,115.3,16,Mobile,Switzerland,0
+f63be9fb-8b6a-437d-8526-c35f8cae1210,38,Other,Premium,266.5,9,Tablet,Kiribati,0
+5fe52f2d-8ecb-41ec-953e-c67ea4a05d85,54,Male,Basic,49.7,18,Laptop,Macao,1
+2d1a51fb-d111-472b-8bae-c3f3469243fa,22,Female,Free,49.8,22,Tablet,India,0
+f86d58f8-a9dd-48a5-95fe-5e6bccdeb416,36,Other,Free,101.9,2,Mobile,Guatemala,0
+e0afa179-bcbe-4355-9d3e-8ab9ca125d7e,31,Female,Basic,21.1,21,Smart TV,Congo,0
+997d0b10-ebb6-4ee8-be01-3269fb35be83,43,Other,Free,58.8,4,Smart TV,Rwanda,0
+1eeeaeef-f921-4edd-b7d1-0c0bab7c36ff,21,Male,Premium,289.7,12,Tablet,Somalia,1
+bc20ad30-8cfc-4969-8eff-7307af9c2643,42,Other,Basic,131.3,7,Smart TV,Sri Lanka,1
+40476dbb-44c5-4fe9-96f9-6e9dad3109a8,62,Female,Premium,191.4,15,Mobile,Comoros,0
+f472aab7-258f-4075-994f-075a0fcae556,59,Male,Free,219.2,7,Mobile,Vietnam,0
+edf44141-4f63-4d71-95ee-f95506da573c,42,Other,Basic,113.3,22,Tablet,Norway,0
+5e7deb66-1004-4adc-b3fb-8d575b2d45ce,35,Other,Basic,48.4,21,Mobile,Liberia,1
+abbb632f-7371-45ba-8440-aa2f2b50f659,57,Other,Basic,65.9,17,Laptop,Tajikistan,0
+457a6288-8ea3-4b44-a5fe-64bae8e27a8d,25,Female,Free,97.4,16,Mobile,Ukraine,0
+43335835-1d24-4aba-8b9b-3f4efb1d9e29,56,Female,Basic,192.6,19,Tablet,Portugal,1
+0557d91a-1bab-4c4f-84c7-d9535ae6223e,57,Other,Basic,122.5,9,Laptop,Indonesia,0
+564ab662-ee6a-4886-9c07-f313f07b37ca,31,Male,Basic,7,14,Laptop,Kiribati,1
+15bb8fdb-0567-491e-9f6a-b76d7f81633b,49,Male,Free,159.4,17,Smart TV,Wallis and Futuna,0
+ce785ea6-266e-4bf9-8095-58838a4ae9f4,55,Female,Premium,276.8,5,Mobile,Heard Island and McDonald Islands,1
+da6c7d21-0cd1-415b-bfbc-a72315ffe1f7,50,Male,Free,244.6,2,Tablet,Brazil,0
+5312a058-1dfe-4867-86cf-ffb15c5444c4,40,Female,Premium,248.4,20,Smart TV,Antigua and Barbuda,0
+ad0ad81e-f0a8-41f8-b7ca-caf3c0db874d,32,Other,Premium,239.5,16,Smart TV,Libyan Arab Jamahiriya,0
+06bc3b17-b497-4542-b997-e13ecd29b18b,50,Female,Premium,100.5,14,Mobile,Serbia,1
+e3c21362-40f4-4a8d-8ba2-a2f6bffac1e0,42,Female,Basic,230.7,14,Mobile,Guatemala,0
+faa300dd-32e6-4f23-b825-07d7bb53d259,34,Other,Basic,47.2,1,Tablet,Monaco,0
+e52fd29f-9295-4f77-a1b1-b6a37d4c8bf0,50,Male,Premium,199,3,Smart TV,Faroe Islands,0
+0de518ae-9d63-49be-a0b4-b459666d5ff3,64,Female,Free,194.3,7,Tablet,Christmas Island,0
+0334e526-2019-46b9-a0c0-0219cdcc09f2,19,Female,Basic,12.5,15,Smart TV,New Caledonia,0
+61a76f39-6be7-4d4a-a033-42280607348d,31,Other,Basic,237.5,19,Smart TV,New Caledonia,1
+3544779a-f68b-403b-a5e1-88b917b653b2,57,Male,Basic,271.5,20,Smart TV,Norway,0
+bbe9d53b-dd7d-4eab-b001-70862fe3222c,57,Female,Free,83.9,2,Mobile,Trinidad and Tobago,0
+e11606a3-7373-4d24-accb-45509af2e537,56,Other,Basic,244.7,19,Smart TV,Samoa,0
+47a1aff8-c006-44c8-b5e7-0a9f1fbbd6a5,23,Female,Premium,29.3,9,Smart TV,Cote d'Ivoire,0
+387e07c9-af61-4913-a054-7cc64c2d617e,23,Other,Free,182,19,Smart TV,Netherlands Antilles,0
+d3bcded0-1c9a-412c-9c7d-a68373aea63b,20,Male,Premium,148.3,5,Laptop,Guadeloupe,0
+62726fdd-ca93-4ac4-b2b2-2adbecd47208,24,Male,Free,166,18,Mobile,Belgium,0
+cf24bd90-b847-4c1f-b549-c929ecee9475,25,Male,Free,278.2,16,Laptop,Dominican Republic,0
+2896fc29-7639-4557-9b7c-e604c8224e86,59,Male,Free,262,4,Mobile,Macao,1
+8da2e931-db78-4c91-9198-01bba0549ab9,32,Female,Free,236.6,12,Tablet,Tunisia,0
+86be98d1-7673-4fd4-ac73-333c888408a7,64,Female,Premium,85.7,7,Laptop,Benin,0
+49c271bc-7485-46f4-968b-5457e0a63cbf,46,Male,Free,274,14,Tablet,Singapore,1
+6dddd467-5471-4410-aaa1-7c4b33046c7f,50,Male,Basic,33.8,23,Smart TV,Wallis and Futuna,1
+5bd5e76f-46d7-4c23-ace5-901194c24713,47,Male,Free,256.7,12,Tablet,Yemen,0
+48492333-9d39-4e51-9a4c-fffd540c7511,56,Female,Basic,101.8,3,Tablet,Portugal,0
+6c3246db-6498-4ba8-84e1-ef52e9b94a83,44,Male,Basic,20.9,5,Tablet,Slovenia,1
+b87eea62-bea0-4f1b-9ab4-7d9691163721,53,Male,Free,202.5,17,Tablet,Northern Mariana Islands,0
+fde69c1f-facb-400f-bf28-826e82f3929e,46,Male,Free,73.2,10,Mobile,Jamaica,0
+b69d2a30-1b50-40e0-820c-c50cfd7dcc6a,55,Other,Premium,76.9,10,Laptop,Burkina Faso,0
+fd4e61de-5aa1-4d5b-80b6-b98247e3b89d,50,Male,Free,95.3,11,Mobile,Tunisia,0
+62d2398c-0988-472d-84a7-f3fd993dbb38,54,Other,Basic,23.8,17,Mobile,Hong Kong,0
+1c298ebf-e2c3-49b4-b43b-ddeba82ba5de,44,Other,Free,57.3,5,Mobile,Uzbekistan,1
+2884e917-d29b-415d-94a7-215f544af1b1,50,Male,Premium,6.5,13,Tablet,Bhutan,0
+2ada0f03-8a32-476b-990b-17b58a8f9768,21,Other,Free,136.4,10,Mobile,Turkey,0
+6fb2a151-8697-410d-960d-841607f087bc,39,Male,Basic,29.9,9,Laptop,Bolivia,0
+9244e8c4-f632-4934-b5c0-a18fedea0941,19,Female,Free,206.4,17,Mobile,Kazakhstan,0
+386ad30e-5b30-43e9-9073-38be81c63b49,27,Female,Premium,74.5,1,Smart TV,Macao,1
+ea602a01-22e4-45aa-93b4-e807b3e28793,22,Female,Free,283.4,4,Tablet,Saint Vincent and the Grenadines,0
+2f3c6bdf-381b-41d7-9293-202560dab950,27,Female,Premium,262,4,Smart TV,French Southern Territories,1
+f5dabc3b-511c-45f2-9fd7-aa3b75f91559,50,Other,Basic,90.4,18,Laptop,Pakistan,0
+51fd66b5-1487-4053-afbf-748de117765c,55,Male,Free,236,9,Laptop,Iraq,0
+311bfa68-644e-4e57-887c-aa203509968e,30,Male,Premium,242,18,Laptop,Reunion,1
+f7a5822a-a682-44ab-872c-7a15302fef79,48,Male,Free,296,14,Laptop,Wallis and Futuna,0
+20b41e8b-1f29-4fc9-b7c7-611c660555fc,64,Female,Premium,181.4,15,Mobile,Senegal,0
+033c7ee8-e02b-4153-811a-67d9f5c8f50c,53,Female,Premium,29.2,6,Tablet,Bouvet Island (Bouvetoya),1
+d5b4769b-00de-4579-ab4e-1ba80b55efec,62,Male,Premium,195.8,24,Laptop,Spain,0
+a6d68b55-f65b-4a7e-babe-6f82023b3002,41,Female,Free,189.4,10,Smart TV,American Samoa,1
+6d0243d7-69df-497c-9e1d-48dc389b0fc8,32,Male,Premium,193.3,15,Laptop,Taiwan,1
+740a1814-7c5b-4a6c-a168-57b38d4f0975,46,Male,Basic,95.6,4,Tablet,Uganda,0
+84f77092-d279-4777-aa1d-96c9151a599c,25,Male,Premium,258.6,18,Smart TV,Jamaica,0
+16ce025d-11d4-4157-b8a8-b3569d334882,22,Male,Basic,288,18,Smart TV,Spain,0
+a3a854bb-abe9-4f26-a8c2-fbce22d6f0a4,46,Male,Premium,69.2,17,Smart TV,Isle of Man,0
+53518658-3d74-46cd-bd55-6235a3566026,64,Male,Basic,31,12,Mobile,Botswana,1
+2993f7d1-bab8-4a9a-b738-76bda820a942,21,Male,Basic,62.4,7,Laptop,Jamaica,1
+945e6608-bf78-42bf-8944-cc4c3b58208f,29,Female,Free,247.1,16,Mobile,Aruba,0
+615e5622-f105-4cda-9cec-9c7962139c3d,62,Male,Premium,204.6,11,Smart TV,Ghana,0
+e79e638f-b1e9-4a01-a578-095ed052350b,19,Male,Basic,192.6,14,Mobile,Cameroon,0
+73f1447b-840d-4b96-8b49-c3e7ca8fbd9f,44,Female,Basic,123.5,3,Mobile,Burundi,0
+5a09b62d-7c44-4358-8eaf-233d12615356,48,Female,Premium,175.5,19,Mobile,Belarus,1
+e9dad2e7-5341-4c74-a381-d644aa408687,53,Female,Basic,95.8,18,Laptop,Iran,0
+59e8d91a-08e6-499d-a21e-8c3a79ea543c,53,Male,Free,145.8,10,Smart TV,Pitcairn Islands,1
+3a857099-8af6-4949-a457-5678b65b7c47,43,Other,Basic,239,6,Smart TV,Slovenia,0
+464d45da-6ee9-48f4-ba0d-4a79ca17b781,60,Other,Basic,294.5,13,Laptop,Zambia,1
+ff1e4af8-57f4-4ef8-9853-3768c86f72f8,44,Female,Basic,280.1,10,Mobile,Tanzania,0
+3384e62d-3f87-433e-b4c1-e58f0775e968,22,Other,Free,280.5,18,Mobile,Germany,0
+5427679f-37d5-4103-adf5-511f5b45d0d7,37,Female,Free,123.7,20,Tablet,Switzerland,0
+a2ea61e1-4743-4840-94ce-38d54e7d1895,28,Male,Free,143.3,16,Tablet,Papua New Guinea,1
+9ee99f61-9c6f-4c31-b44a-a006d64f00f3,27,Other,Basic,213.2,6,Tablet,Greece,0
+bde1a42a-055a-494b-9350-69d5d1085298,57,Male,Free,277,13,Laptop,Montenegro,0
+2e743b81-8cf2-4e61-93f9-9f92edc54336,55,Other,Basic,46.9,4,Smart TV,Poland,0
+7d467032-6e10-42b8-adad-ebcc2ab21deb,23,Male,Premium,94.8,23,Tablet,Anguilla,0
+fe3ce48d-fb2d-4e8d-91db-e4615fcf1f36,25,Other,Free,46.1,14,Smart TV,Fiji,0
+6fe087a1-742e-4d63-bc53-ef44f8e8569c,40,Male,Basic,185.5,1,Smart TV,Moldova,1
+fafc1491-6117-4ee8-8f3b-02de3f588d1d,64,Male,Premium,95.4,20,Smart TV,Sao Tome and Principe,0
+0dd21d87-462f-49b5-ae21-5fd4721da1d6,43,Other,Premium,101.2,5,Laptop,Greenland,0
+99885b80-c100-437a-9474-af60b3e61fae,63,Male,Basic,25.9,8,Laptop,Puerto Rico,0
+7a0fca14-9618-4faf-aba1-a949e508312e,60,Male,Basic,108.2,12,Laptop,Portugal,0
+cad30514-d0c6-49f1-a6bf-3bdb4ad807f2,29,Male,Premium,259.4,2,Laptop,Christmas Island,0
+cc4745e2-d794-49f3-bc9f-591f06a8d5c6,43,Other,Basic,73.8,12,Tablet,Libyan Arab Jamahiriya,0
+97d05d10-2833-4b2b-8a07-3657f78e177e,30,Other,Premium,210.1,5,Mobile,Croatia,0
+e564a976-077f-463a-8950-b2c06efb32d2,57,Male,Free,190.7,22,Mobile,Brunei Darussalam,0
+e9764d53-8681-4d2d-9d83-22615abba65e,35,Male,Premium,259.7,5,Mobile,United States Minor Outlying Islands,1
+f9ead3e7-27b0-4f2e-a13e-7c51996fd27c,42,Other,Basic,44,13,Tablet,Taiwan,0
+77183ef4-03de-47b4-b3dc-f65cffc25ea7,50,Other,Basic,293.4,9,Mobile,Romania,1
+e9e20fdf-2eb4-47b5-a6e4-80aa25a90403,64,Male,Free,176.9,10,Tablet,Iran,0
+d1af1a7c-2f47-4cfc-b0f0-1e60d4e67031,57,Male,Basic,298.7,1,Tablet,Georgia,0
+48258066-aad1-4f36-ac11-09961321d99b,60,Male,Free,273.9,3,Tablet,Norway,0
+bd8abb83-1f8f-4825-ba53-2820a0d72a4f,29,Female,Premium,70.3,18,Mobile,Grenada,0
+d9e905a2-7527-4241-8ce1-487ea805ebb6,61,Other,Premium,21.6,12,Smart TV,Paraguay,1
+ec6701a0-fe3e-4084-8bb9-ca6de5dcc0ab,53,Female,Free,80.4,3,Mobile,Zimbabwe,1
+9b111449-d605-437e-9d9a-d6cad01f80de,21,Other,Premium,160.6,9,Mobile,Uzbekistan,0
+5985c30f-17f7-42df-b533-70bb1889fee4,22,Other,Premium,55.6,2,Laptop,Singapore,0
+5a511d11-8e6d-4db4-ba33-7e33a2ec5efe,54,Other,Basic,54.4,3,Tablet,Seychelles,0
+4dc44648-eb88-43b2-bcb1-07da71845631,25,Other,Free,141.5,14,Smart TV,Peru,0
+20489482-8ca4-44be-b521-9ec337d535ac,59,Other,Free,14.8,4,Laptop,Chile,0
+2a873237-99c5-4108-863b-289d74df3fe6,45,Other,Free,41,19,Smart TV,Ethiopia,1
+4f8b432b-c3c9-4931-b4bd-6243cfa27552,48,Other,Free,127.7,13,Smart TV,Togo,1
+7a2ea008-7b58-40cc-922c-5f24d69ba1c6,26,Female,Premium,23.6,7,Tablet,South Georgia and the South Sandwich Islands,1
+d9845cff-8dec-42c9-848c-f61e8f7af50e,46,Male,Free,122,12,Mobile,Bermuda,1
+112aa47a-52b5-4fff-8bb4-47d5e67fa172,31,Male,Premium,144.8,3,Tablet,Antarctica (the territory South of 60 deg S),0
+9f932bf1-1966-443f-906f-c5b0d004e91f,57,Female,Free,138.1,23,Tablet,Egypt,0
+91021323-5fb7-4997-ac4c-415206948b41,58,Female,Basic,261.4,23,Laptop,Saint Martin,0
+1b0754ba-133a-4c16-a3d5-f691e5b669a8,39,Female,Premium,161.4,9,Tablet,Macao,0
+8b380157-2e6b-4da1-8fd5-3f294d93a18c,28,Female,Premium,143.1,2,Mobile,Peru,0
+eefde9c1-0d17-451f-b691-11c372357cfb,40,Other,Free,126.2,22,Smart TV,Liberia,1
+465ad9ca-f808-453f-bf8c-a1c3c8b3a227,18,Male,Basic,246.2,9,Tablet,Benin,1
+5c2f3cfb-ca9f-4caa-a5d7-8fb9f2389ad6,63,Other,Basic,269,12,Smart TV,Guyana,1
+beb99bde-6aed-4bf4-9503-b7f1fe7e123c,54,Male,Free,256.7,12,Tablet,Poland,1
+53af18fa-df93-4fae-b265-f42190ba2c75,38,Male,Free,203.7,15,Smart TV,Uruguay,1
+8a1dd4fc-7fb4-4665-b34b-64d75c20faad,43,Female,Basic,45.5,2,Tablet,Greece,0
+a100b564-7988-438f-b4e6-41f027793254,63,Other,Basic,86.7,18,Laptop,Gibraltar,1
+b7a2a726-350e-47c7-98c3-c0404845b5e2,53,Female,Basic,18.6,13,Smart TV,Eritrea,0
+a2fe9f83-df4c-462a-9a67-612ebe424b0d,40,Other,Free,279.6,14,Tablet,Heard Island and McDonald Islands,0
+ce3981a7-cf3c-4125-bfbf-06605983258b,18,Male,Basic,199.9,5,Tablet,New Caledonia,1
+37bde3b8-161e-44fb-9d1d-def0a0981071,57,Female,Basic,225.2,10,Laptop,Western Sahara,1
+a00c0cdd-6f85-4290-bb55-e4668e492788,32,Female,Basic,96.9,12,Laptop,China,0
+d5d598ea-768a-4bb3-b40c-3f6cb77d1fb5,38,Male,Premium,254.5,10,Laptop,Ukraine,0
+d1d355bf-56b1-4606-b310-84fdde7337e5,64,Male,Basic,81.6,24,Smart TV,Sudan,0
+adfb47db-a9e7-40ba-a633-89b6aa9f7e3b,26,Male,Premium,5.5,11,Smart TV,Cook Islands,0
+55ba20af-35d2-445f-b452-bfaa05601e00,26,Female,Free,116,2,Laptop,Samoa,1
+bb288162-0cd2-4559-a8d8-6e50d810f46a,27,Other,Basic,173.4,5,Mobile,Russian Federation,0
+77bea893-613c-4376-a431-09d3aedec64d,43,Female,Free,146.2,7,Mobile,Guatemala,0
+167799af-c24c-40b4-9b47-ff278956d18b,58,Other,Basic,259.3,6,Tablet,Marshall Islands,0
+7deee5ed-7a59-4a6d-979b-7dd5bda3bef9,52,Female,Basic,36.1,22,Mobile,Iceland,0
+3ba00f65-b562-432c-946b-1aee7b6f9940,42,Female,Premium,168.4,23,Tablet,Kazakhstan,0
+7fd46f62-bd06-4a1a-9cc8-022b03e61158,43,Male,Free,156.3,3,Smart TV,Swaziland,1
+47da50db-0290-4674-8f06-d715e705c32e,28,Other,Basic,88,13,Smart TV,Trinidad and Tobago,0
+5a3110c1-82a0-46a4-80aa-a41de72700b6,55,Female,Basic,247.6,3,Mobile,Jordan,0
+cb726ff2-6f23-4124-95c0-b1ea0ea626ca,19,Female,Free,227.1,24,Smart TV,Netherlands,0
+bcc29c47-26c9-4481-a211-42d40adc2dbd,24,Male,Free,221.2,21,Laptop,Mali,0
+e9e126ae-3082-47d1-be5b-1dd0e9c279aa,35,Male,Free,263.5,6,Laptop,Cuba,1
+4f818ff9-0434-4da7-b53d-05983214b86b,44,Other,Free,218.2,11,Mobile,Western Sahara,0
+6d3a163f-d985-4c55-9603-ff35229f5233,51,Female,Free,73.4,17,Mobile,Gibraltar,1
+adf74c75-88a5-4dd8-a421-28d31e702985,44,Other,Free,213.1,10,Tablet,Cuba,0
+605e9ff8-711d-44f2-93d0-05ea49c31a62,34,Female,Free,95.8,12,Smart TV,Cambodia,0
+d6708d10-0aad-42b1-8e3e-e9b9daf6cce9,60,Other,Basic,76.4,17,Tablet,Isle of Man,0
+3ae786c1-99e5-4b4a-afa2-fdf1f995b1cc,61,Male,Basic,26.5,4,Tablet,Bahrain,0
+45d29292-7c4b-4d0e-9a9c-7518fa36d292,41,Female,Premium,224.5,2,Laptop,Uruguay,1
+63f3d074-382c-4526-b2ae-c1c0b427f899,42,Other,Basic,214.7,11,Laptop,Philippines,0
+e8157082-514f-4c99-94f6-56c13e555707,24,Male,Premium,74.2,7,Laptop,Bhutan,0
+e44e7f07-64c9-44f8-986c-7cb1f1bc964e,23,Male,Premium,226.1,2,Laptop,Bolivia,0
+e515adea-c9cc-4ab4-87b2-3a0074ac8743,41,Other,Basic,275.8,18,Tablet,Saudi Arabia,0
+109ddf64-50dd-480e-a192-f94283452970,50,Female,Basic,36.9,21,Laptop,Dominican Republic,1
+07226c60-f7fd-4e3a-8444-f199ec0331e4,46,Female,Premium,73.6,4,Smart TV,Guinea,0
+923b9802-e2b6-4150-9d86-380c4788bb0a,60,Male,Free,226.3,8,Laptop,Albania,0
+feb09c22-7ab7-4e69-a6ec-c096be4844cc,39,Female,Free,86,20,Laptop,Haiti,1
+069abeba-0901-4ea5-a8b1-e965df8607a6,43,Female,Basic,189.3,14,Laptop,Mongolia,0
+ba89cbef-22f4-4a2e-b936-2fa69c9e811c,45,Female,Basic,28.9,12,Mobile,Bolivia,0
+69571316-27ad-4eb9-a875-3258bfd11fde,38,Male,Free,138.4,22,Smart TV,Faroe Islands,0
+abdf98f4-9ea1-4dc4-92ae-efb714fb9097,24,Other,Premium,223,21,Smart TV,Luxembourg,1
+a0952cc2-5d94-4e37-a652-0db21cf55869,34,Female,Basic,207.5,18,Tablet,Slovakia (Slovak Republic),1
+e8dad62d-f3f0-4d19-82e7-405ee85e5748,37,Male,Basic,245.4,11,Tablet,United Arab Emirates,0
+64b77a34-d950-466c-af14-45e766aafc08,58,Male,Premium,263.8,8,Laptop,San Marino,0
+57b2fe68-4232-4dbd-b1e6-ac7de74a9837,37,Other,Basic,233.1,2,Mobile,Mayotte,1
+63a4f20a-ddeb-44aa-9b87-58512bcbc18f,39,Female,Premium,203.1,15,Tablet,Egypt,0
+f608772b-d4ae-4529-b984-a32bcca551c7,45,Female,Basic,14.4,9,Tablet,Latvia,0
+3d857a9e-31e5-405d-999c-3dc2ad792300,57,Other,Free,162.8,19,Laptop,Guadeloupe,0
+170d285a-1110-4256-a83f-33e5b5f20b56,24,Other,Premium,16.1,20,Laptop,Martinique,1
+dd2ab6af-f43a-46c3-86ad-adb873016d41,18,Male,Basic,243.4,8,Tablet,Estonia,0
+1a91c6c3-816f-437c-8982-cf4b40f07d35,49,Male,Premium,99.6,19,Tablet,Colombia,0
+310f9333-2bb8-4d77-a4a0-230223e959a9,30,Other,Premium,170.9,5,Smart TV,Senegal,0
+cfc23423-903b-440a-ac88-803577fcc8f7,47,Female,Premium,87.4,11,Mobile,Germany,0
+7389d4c7-504a-4ca4-912c-f61f8b80972e,40,Male,Basic,235.8,15,Smart TV,Mayotte,1
+d4ba058d-b2ba-4f75-ab7a-f7696b3d2270,36,Male,Premium,266.5,8,Tablet,French Southern Territories,0
+b930fd91-d97b-481b-9011-c29d8fe66155,49,Female,Basic,122.6,19,Smart TV,Cocos (Keeling) Islands,0
+b1a90a69-12e0-4701-b333-b6d6ad70b2bf,47,Male,Basic,259.6,23,Smart TV,San Marino,0
+2da00441-c7cd-4a2d-96d0-bbf9772c0027,46,Female,Premium,83.8,8,Tablet,Botswana,0
+8e737023-4dee-43ff-8596-383bc58dca69,62,Female,Free,162.7,19,Laptop,Kuwait,1
+76e8340b-53d2-48c9-a92b-dc328374791c,46,Female,Basic,258.3,18,Tablet,North Macedonia,0
+140f67db-329f-45da-abcf-992e0d65b69d,47,Other,Premium,101.1,10,Laptop,Guinea-Bissau,1
+8fd972c9-0466-4712-a753-bfd2a676f3f2,33,Other,Basic,286.4,7,Tablet,Lebanon,0
+e3b3a061-010c-46cb-818b-0a9b3f3643b4,57,Other,Basic,41,9,Tablet,Gambia,0
+32e138f5-77b5-42d3-a1c1-f078dc4e2612,36,Female,Premium,10.4,1,Tablet,Guyana,0
+3089139c-b971-40af-8aff-396003ccd461,35,Female,Basic,271.7,19,Mobile,Bosnia and Herzegovina,0
+76ac3961-1f21-4c05-8f14-250a1c652ec4,18,Other,Premium,25.3,5,Laptop,Indonesia,0
+9d510ccf-318c-41aa-a4b7-62405fd2d060,31,Male,Free,297.6,19,Mobile,Libyan Arab Jamahiriya,1
+c52101a4-4d9d-42d0-b9cc-7335d5e91bd4,64,Female,Free,285.7,1,Tablet,Suriname,0
+45a63405-ea68-45d4-a418-a2886128a196,19,Male,Free,45.4,15,Smart TV,Belgium,0
+4dfff970-a56e-4faf-88b2-2ddab919ad28,45,Male,Basic,163.6,16,Mobile,Aruba,1
+8ef986a6-87d9-4189-a77f-07fa301f6065,47,Female,Basic,59.6,23,Laptop,Falkland Islands (Malvinas),1
+cc82158d-23da-42b0-9692-481057ce40f7,55,Female,Premium,131.3,7,Tablet,Cote d'Ivoire,0
+22e449aa-5ad9-4959-aac8-8148b261c4d9,21,Male,Basic,23.1,12,Mobile,Cook Islands,0
+000bfe35-ad4e-44ba-be3a-964c2edc6ff3,18,Male,Basic,71.1,8,Smart TV,Bangladesh,0
+74b4b088-f057-4042-bf5a-db18c781d2e6,25,Other,Free,112.2,5,Mobile,Montserrat,1
+247b54c6-f412-4d42-b5aa-b035a3fdbfcf,46,Other,Basic,134.4,10,Laptop,Dominica,1
+2e3d97fe-606e-4b33-959a-e3faf8c752f5,56,Female,Basic,293.4,21,Mobile,North Macedonia,1
+4440e020-4ab8-480c-bbeb-85e731586725,20,Other,Free,243.3,5,Smart TV,Kenya,1
+fe7624ab-ee65-4b9c-8ff5-9cc726d7fac1,49,Other,Free,222.5,17,Smart TV,United States Minor Outlying Islands,0
+d318e477-a2b6-48af-92bd-563898a3a944,27,Other,Free,163.4,5,Laptop,French Southern Territories,1
+fb3f96bf-e46d-4eb9-b865-b71eae6b3414,27,Other,Free,252.8,22,Smart TV,Saint Vincent and the Grenadines,0
+e2ea0575-be3e-4dd0-bfd9-fd1a5e22b3d9,36,Male,Basic,105.1,15,Tablet,Iraq,0
+6d93a0ac-1dcc-46bf-bf37-646d017f5afe,63,Female,Free,214.1,13,Smart TV,Congo,0
+28097d97-69f2-497a-b9bb-b8ef796ab7f4,51,Other,Basic,298.2,1,Tablet,Maldives,1
+442d216e-746c-4c26-8c7e-592ccb3aa222,50,Male,Premium,97.8,11,Mobile,Lesotho,1
+e51f944d-8b50-453a-a35f-ec2a8b7dd360,40,Male,Basic,203.8,23,Tablet,Jordan,0
+5950cd8a-62af-41c5-a38f-7e5448019545,45,Male,Premium,254.1,1,Tablet,Cook Islands,1
+5723030f-948b-4640-a8f8-a4cd036c615f,49,Other,Basic,275.2,11,Mobile,Samoa,1
+db470180-633a-4c4d-8fc8-a9d357b2dbd0,24,Other,Basic,216.8,18,Smart TV,Serbia,0
+6d40898f-521a-4a41-a46f-6f99c54b6ad1,46,Female,Premium,88.7,18,Tablet,Spain,0
+5c98647d-eb21-4611-8e2b-f372edca4562,25,Other,Free,101.3,21,Smart TV,Gabon,1
+9593c019-d8f7-4d46-a776-6af4a53cafc8,18,Other,Premium,11.1,16,Mobile,Anguilla,0
+9c73204d-eb13-4f7a-b49f-5ab496f546ad,20,Male,Free,229.5,13,Laptop,Turks and Caicos Islands,0
+00ad1c52-ee4b-416c-bc3a-c43e1fa54a5b,41,Female,Basic,17.6,7,Smart TV,North Macedonia,1
+82fa1a16-cb73-4102-8916-67e556f12598,40,Other,Free,260.1,1,Smart TV,Greece,1
+bfba0529-2049-4a54-91aa-6d8df9b06033,25,Other,Basic,40,16,Laptop,Netherlands,0
+fa896d6c-a542-444d-9f06-646ee48f2388,64,Male,Basic,55.7,1,Laptop,Bolivia,1
+bba7fcbc-cc49-4b66-87a4-e4dd504a09f9,54,Male,Basic,145.6,17,Mobile,Hungary,0
+e10b6da4-a24f-461c-b96d-b0e701f61124,20,Other,Free,222.7,6,Smart TV,Equatorial Guinea,0
+5bdae271-c66b-45c7-a7d3-25901c5f8140,50,Female,Free,46,2,Smart TV,Equatorial Guinea,0
+146f52db-6176-4d97-9c19-00246fc63caa,45,Female,Free,134.8,17,Mobile,Gibraltar,0
+cf4636b0-7d58-409d-900b-fa8a6efc04bc,64,Male,Free,147.4,6,Smart TV,Gibraltar,1
+d3513375-6713-4c14-af15-2c988b9b4977,25,Male,Premium,67.6,14,Tablet,Lesotho,0
+150652c8-24c2-43e4-9706-ba3ea5af5968,51,Other,Free,39.1,18,Tablet,Turkmenistan,0
+07a3fda5-5306-4cbd-9173-2d3bfa1db8f8,52,Male,Premium,251.7,6,Tablet,Colombia,0
+03c9d7f1-6740-4dde-8497-141a6a024be8,49,Other,Premium,153.2,10,Smart TV,French Polynesia,1
+33de555d-3059-4dfb-b40e-0ed55e6e4dda,41,Female,Free,9.2,24,Tablet,Ethiopia,0
+b8ef5689-df5f-4800-8128-faf62c088137,31,Female,Basic,241.9,18,Tablet,Mauritania,0
+33565a5f-8dc4-4a54-b6eb-2f90c3973170,49,Other,Free,294.3,9,Mobile,Indonesia,0
+ccd0eb02-e4e4-448e-b881-534aa775e17e,63,Male,Free,183.7,8,Mobile,Belarus,1
+3090cd81-ca54-48a6-ad0c-b27e941fd7a4,60,Female,Free,153.6,10,Laptop,Costa Rica,0
+d9aa430c-c87b-46db-9c11-8239254d3d7b,33,Male,Basic,264.1,17,Laptop,Nepal,0
+790c42a5-6051-424b-a261-f06fecb16004,21,Female,Basic,286,23,Laptop,British Virgin Islands,0
+511c1e52-3285-4f86-be70-c1a48f3803ee,54,Other,Basic,227.6,6,Laptop,Bosnia and Herzegovina,1
+96fa0c10-e09a-4fa2-a800-6ccb9f528213,38,Other,Basic,136.4,14,Mobile,Moldova,0
+894a2339-afed-496d-b55b-c9d5d7a38f3f,31,Other,Free,179.7,22,Mobile,Spain,0
+8c7a39f0-c748-4024-8f9b-717c5ef45573,48,Female,Basic,211.8,22,Mobile,Norfolk Island,0
+073a4e83-b2f1-445c-9b2f-53613c40555e,35,Male,Premium,62.3,6,Tablet,Canada,0
+60be9ccc-fe22-46ff-beb1-9804ab536919,24,Male,Free,136.9,7,Tablet,French Southern Territories,1
+f23da962-72e2-4b10-af83-a55c0d8920fa,27,Male,Free,249.8,12,Laptop,Israel,0
+18fc7845-52d4-4c6f-85a7-a441ced03f34,24,Female,Basic,198.1,3,Tablet,Jordan,1
+f44b78a4-7986-4266-b106-d6644cf2b7cd,50,Female,Free,126.3,14,Smart TV,Austria,1
+1bca0919-990a-44f9-84d5-2fe5488e91db,40,Female,Basic,200.7,22,Mobile,Congo,0
+f6139dc1-e78b-4df2-b89a-26bb8f6fd126,38,Female,Free,39.9,19,Laptop,Guinea,1
+f945f4bb-0cf0-4000-abe3-18e64916d339,36,Female,Free,123.4,23,Laptop,Trinidad and Tobago,1
+e1ee7e52-8ee6-4425-b352-4d5822c31422,36,Male,Free,239,16,Smart TV,Bulgaria,1
+b3e98d2e-edab-415e-ab11-782ae2db6de2,53,Female,Free,70.1,7,Tablet,Switzerland,0
+94904111-683a-4ec1-9d78-40dac1c25b1f,46,Female,Basic,59.9,8,Laptop,Marshall Islands,0
+313f37dd-ec77-42fe-8a06-1a8824545b28,35,Male,Basic,285.5,18,Tablet,Uzbekistan,0
+b3f00dd3-a68e-4b3e-b1f6-4d3a028a8cd7,19,Female,Premium,66.9,13,Tablet,Bulgaria,1
+394713a3-d1c3-475e-9751-095cf48ed174,18,Male,Premium,82,21,Smart TV,Svalbard & Jan Mayen Islands,0
+5789351f-123b-4f71-8ca4-303b2cc92afc,64,Male,Basic,291,9,Laptop,Colombia,0
+8831d4a1-807b-4f0d-9920-1cd8ca4066a8,22,Other,Premium,221.7,10,Tablet,Lao People's Democratic Republic,0
+4768325d-3cc1-46ff-9d7e-86368d71bd40,37,Other,Free,211.4,21,Tablet,Sao Tome and Principe,0
+97807b8f-0405-4201-a19c-fca6c87f2f58,28,Other,Basic,256.6,23,Smart TV,Bahamas,0
+e3dd6b3c-b1be-4ab5-83cb-123a8ed650ac,59,Other,Basic,39.2,9,Smart TV,Cocos (Keeling) Islands,0
+d0e0e59a-6e8d-4a0e-a843-a557eeac78f4,19,Female,Free,213.3,15,Tablet,Kenya,0
+d7255c7b-a996-4a13-8f3a-6ad32fbe4677,20,Other,Basic,153.6,20,Smart TV,Venezuela,1
+d1006483-b651-436c-b4ba-81293c28cb94,40,Male,Free,249.6,2,Tablet,Brazil,0
+e1217587-2590-462e-ad2e-5119cfd3f5cb,29,Female,Basic,154.9,13,Laptop,Sierra Leone,1
+bb51c31d-ace7-4a70-9f9f-6100d494225f,37,Other,Premium,188,2,Mobile,Christmas Island,0
+8a218356-6d80-4404-8973-456a21a6cb5f,22,Male,Premium,145.9,19,Smart TV,Marshall Islands,0
+50ab49fb-2cab-4feb-afbe-63fdc19404d1,54,Female,Basic,146.1,2,Mobile,United Kingdom,1
+a6819a14-7725-4e33-ac21-06475855735d,55,Female,Basic,231.6,3,Tablet,Tonga,1
+ca8ba3f6-0c69-4f15-ab71-c233de02302d,47,Other,Basic,190.4,6,Tablet,Iraq,0
+39f780c8-7cea-48a4-9aa0-fe72cf345a7b,26,Female,Basic,191.8,3,Tablet,Guernsey,1
+0a2882dc-eb79-4419-adb1-99cb3fa91ff4,51,Male,Free,137.8,10,Mobile,Senegal,1
+fc6dc5ee-14ce-4522-8ecc-f2908c5b8eb2,61,Female,Basic,161.7,24,Tablet,Bhutan,1
+af9f71d5-475d-4292-845d-4498afcd80f3,52,Male,Basic,225,6,Smart TV,Iraq,0
+12637d17-31a3-4b8d-b230-295e614e89f2,39,Female,Premium,248.7,23,Laptop,Georgia,0
+7ebe8230-fc1d-46f2-b892-0307ae70a68b,61,Other,Basic,210.5,16,Laptop,Moldova,0
+e4865af2-0766-4a87-9104-8832710df610,41,Male,Basic,277.6,17,Smart TV,United States Virgin Islands,0
+dcbf6aa8-5028-4fe3-b65a-f70e5ad9cd08,34,Female,Basic,247,19,Laptop,Cuba,0
+8797621f-6220-42be-97a6-ceb28d74b294,27,Female,Basic,170.7,3,Mobile,Saint Kitts and Nevis,1
+817d01eb-e0d7-4c58-8946-434253a904c6,47,Female,Basic,203.1,18,Tablet,Australia,0
+a3c3447c-0c42-44be-adeb-3c19a7ceba5a,63,Male,Free,278.3,7,Tablet,United States of America,0
+2a9705f2-b42f-4b38-88a3-22b161626c37,40,Male,Basic,187.7,9,Tablet,Montenegro,0
+150d4030-db53-43cf-9f06-a8f453d835f0,49,Male,Premium,248.3,20,Mobile,India,1
+319085b2-484c-4395-af74-a8546641ed69,34,Other,Basic,208.2,12,Mobile,Falkland Islands (Malvinas),0
+7c86ae17-0014-4473-8636-c5a82944265e,34,Other,Free,167.8,5,Mobile,Guernsey,1
+2d06a4d5-43b5-4379-a39b-068e49adbdda,31,Male,Basic,76.3,3,Smart TV,Trinidad and Tobago,0
+c2f53211-cc12-4da2-bc84-a2e34d354e78,26,Female,Premium,130.7,11,Mobile,Saint Barthelemy,1
+6d0f15fe-fd25-4aec-b0b4-60dbc16bdcfc,57,Other,Free,290.5,4,Laptop,Isle of Man,1
+5aad20e2-727b-463b-a107-2bad78c6f059,19,Male,Premium,199,5,Smart TV,Norway,0
+6aea4128-9f69-4a04-a3f0-d3379c96a5c5,62,Female,Premium,171.5,1,Smart TV,Namibia,1
+59cb857d-b810-479c-85ed-1dff2016f6b2,42,Other,Basic,280.2,18,Smart TV,Belgium,0
+236e82cf-d6a5-473f-aa58-2e3d4b7d236a,56,Female,Premium,178,12,Mobile,Italy,0
+3f73e4c0-511e-4a36-8794-01a06dae74ac,26,Female,Premium,160.2,13,Smart TV,Hungary,0
+98d77172-c2d0-426c-83e3-0de1bb6c3649,39,Female,Premium,229,9,Mobile,Mauritania,0
+616db4f3-a4d1-474b-8436-8281e392b421,60,Female,Basic,215.2,2,Mobile,Gibraltar,1
+bcb6d8ae-cfbb-4479-be7a-974d8e7b457f,63,Other,Free,62,5,Smart TV,Oman,0
+0d672c57-fe03-47a8-b3b4-e15353154dbd,21,Other,Free,144,13,Tablet,Holy See (Vatican City State),0
+d2b2479c-1542-4cf9-a70d-2071242b9345,43,Other,Basic,144.4,16,Tablet,Vanuatu,0
+a80c9132-4a16-41bd-b2b3-3f7b9d0ad7fb,46,Male,Free,116.6,16,Smart TV,Botswana,0
+b54fd1a6-5da4-4f0b-bea0-e54ecd18f47e,62,Other,Basic,157.6,24,Tablet,Christmas Island,0
+37a57974-25dc-4a83-8730-64cdfd0dd626,51,Female,Premium,126.9,3,Laptop,Dominican Republic,1
+41d54998-9ea9-463c-ba57-0e2d9302ce1d,40,Other,Premium,63.8,22,Laptop,Chile,0
+3b3e1c80-9bec-4623-8984-e64abcdce7f5,54,Female,Basic,126.6,4,Mobile,Guernsey,0
+9b662d6b-93bd-4b15-b0de-7ee58d688d9d,28,Male,Premium,26.3,11,Tablet,Cook Islands,0
+60d60ccd-46c9-44a1-9560-72b032dc1734,23,Female,Premium,174.9,23,Laptop,China,0
+fe317e79-36e7-4b31-ab40-b831d9e6eac9,35,Female,Basic,256.8,14,Smart TV,Sierra Leone,0
+cb0f467b-db3c-435b-92ee-c3d42bd1a8ac,38,Female,Free,219,3,Tablet,San Marino,1
+d7843a68-7a52-40b2-8ffc-c0eefe2debd5,59,Male,Basic,111.3,16,Laptop,Togo,0
+e33e006f-b734-4425-a7b8-6cca31f3fc97,53,Other,Basic,30.7,22,Laptop,Guatemala,0
+a55c20eb-98a8-4a6c-bb2d-e3431a432d0b,58,Other,Basic,64.6,15,Smart TV,Lebanon,0
+7351cd21-aadb-4029-9572-f069e2b32ed0,55,Male,Basic,165.9,10,Mobile,Portugal,0
+c462a01f-fd16-4fa0-b94c-2562a7280473,51,Female,Free,66.1,9,Smart TV,Kyrgyz Republic,1
+e322997b-306a-42ab-a552-8156fa9ae2b2,34,Other,Basic,165.5,11,Mobile,Liberia,0
+29c892da-754a-4e38-a6a6-3ff5b3ce7b17,54,Male,Premium,73.3,16,Laptop,Guinea-Bissau,0
+e0cb1a5c-bc15-44c9-879c-b9e1f91025c7,42,Other,Basic,255.4,10,Mobile,Venezuela,1
+7fa16fdb-ae5b-46c5-94a1-d10c635cc9fa,55,Male,Premium,122.2,17,Laptop,Ecuador,0
+b5a53e5f-820e-41aa-a45e-4ee086c4a386,29,Female,Premium,77.4,19,Laptop,Central African Republic,0
+f82981ff-5b4b-4017-a1cb-b283cb09e895,40,Other,Premium,244.6,2,Tablet,Cayman Islands,0
+919ac36a-4795-4f80-9789-4e3491a4d783,59,Male,Premium,106.1,24,Mobile,Seychelles,0
+401f9145-87df-4eea-8117-d0f3834119f8,39,Other,Premium,37.9,23,Mobile,Saint Martin,1
+18b197ce-a3ee-4910-86cb-6063e604f5ad,38,Other,Basic,173.3,2,Mobile,Australia,0
+f2f9d16e-a93e-4e41-925c-02a22b59b543,44,Other,Free,176.6,6,Smart TV,Saudi Arabia,1
+0ad157a4-b47a-4b64-90f4-a814c2e89087,48,Other,Basic,215.8,19,Tablet,Saint Lucia,0
+a496d289-0c3d-4555-9afe-5d2065662295,23,Male,Basic,75.9,8,Tablet,Monaco,1
+75e6a4ca-62e3-45ec-a590-fcf0baf9a474,44,Female,Free,135.9,3,Tablet,Solomon Islands,0
+dfdf7ded-60db-4f40-adba-0a4c5be4affd,57,Male,Free,88.3,14,Smart TV,Palestinian Territory,0
+d198006e-c79c-484b-8200-1967281c71b0,51,Male,Premium,28.9,16,Mobile,Pakistan,0
+f152bde5-7856-48fd-9375-0bc21d973cd3,29,Male,Premium,263.6,1,Mobile,Nepal,0
+33f56f85-3297-4bcc-ab88-73370bcb198e,62,Female,Premium,220,21,Mobile,China,0
+7c754c9d-7052-4124-962a-a212ed292e1c,24,Other,Basic,93.9,3,Tablet,San Marino,1
+17ab17c6-bd8b-4ce2-bb74-f477877db699,27,Other,Free,181.8,22,Tablet,Colombia,1
+55c0440e-bfdd-4ac2-9cdd-8881c0132b83,62,Other,Free,64.4,18,Laptop,Luxembourg,0
+905c3189-f408-466c-98c5-7848d217e17a,34,Female,Free,267.6,9,Smart TV,Syrian Arab Republic,0
+16df2027-9714-4476-97e2-b7a4223f94b7,43,Other,Free,38.9,6,Smart TV,Indonesia,1
+5b12c3db-b450-4dc1-9575-b2264ff1ad4e,38,Female,Free,6.1,23,Tablet,United States Minor Outlying Islands,0
+c6f329c6-772a-4ea1-9ca9-8031b3c4f4b1,45,Other,Premium,153.1,21,Laptop,Paraguay,1
+9c34a095-34f0-4026-af46-14970a52948b,63,Other,Basic,177,1,Mobile,Indonesia,0
+e5c73ae8-cbd0-48f0-86b9-1ed5ec0b08a5,19,Male,Free,175.8,21,Tablet,Angola,0
+f6f374f6-de5d-4714-9611-ae914d6780ef,60,Female,Free,21.1,10,Smart TV,Greenland,0
+99c1ae29-5b56-42f0-b41d-915e649d0274,18,Male,Basic,97.6,6,Smart TV,Zimbabwe,0
+48e795d4-e1c2-493e-8785-fe7026554d20,53,Male,Free,152.3,23,Smart TV,Brazil,0
+6dea3575-08ba-433d-b8ec-5bb30bc38f32,43,Male,Premium,68.9,12,Mobile,Angola,1
+cf287483-4faf-4920-9356-4c84be443633,46,Female,Basic,262.4,4,Smart TV,Solomon Islands,1
+1ad482d3-db30-4c2f-aa1b-ba2ddc70e6ab,38,Female,Basic,30.7,13,Mobile,Armenia,0
+6e6cbb3a-a766-4c02-813f-2abca66e9969,28,Other,Free,148.8,17,Mobile,Palestinian Territory,0
+35834e2e-3296-48b3-b59d-047bad9fd8a4,57,Male,Free,209,8,Mobile,Sri Lanka,0
+3d7af723-bd53-436a-9045-5020121bf5ea,28,Other,Basic,82.2,20,Tablet,Argentina,1
+d76d6ff0-7905-4c43-ab63-48ad203dc87d,53,Male,Basic,189.2,3,Mobile,Peru,0
+ef257de0-6e58-45bd-9f36-3840bced4cb3,56,Female,Basic,249.7,12,Laptop,Sierra Leone,0
+0a818205-fb29-4e60-8259-e8c0efc31ff2,57,Female,Free,61.1,7,Smart TV,Iceland,0
+15d8f24b-4b54-441c-9dd2-43d672455bf3,52,Female,Basic,275.6,12,Tablet,Brazil,0
+7e92c78e-e1aa-4707-bc60-0c98f985d6f6,51,Male,Basic,168.3,2,Smart TV,San Marino,1
+75985537-055e-4cc2-819d-9353989cd52e,64,Female,Premium,93.3,24,Mobile,Niger,0
+4ac37e94-fb59-4591-b32c-ead41c190e8c,41,Male,Free,132.1,14,Tablet,Dominican Republic,0
+c2bb7014-0f58-423d-a247-be8c63c20523,39,Other,Free,97.1,22,Laptop,Samoa,0
+135d913e-56c2-445a-9055-798f16df7587,22,Male,Basic,218.9,23,Mobile,Somalia,0
+ef52809a-674b-4a82-bb54-47148e82f229,50,Other,Basic,239.9,5,Smart TV,Tajikistan,0
+167f7372-6885-4cc4-85e4-56503ae7f8bf,53,Male,Basic,250.7,9,Laptop,Congo,0
+b69d9496-f756-45e9-a087-8c66a18a6d5d,64,Other,Basic,295.8,21,Mobile,Antarctica (the territory South of 60 deg S),0
+9505c079-f6ca-4fe6-addf-baed7d107872,37,Female,Basic,238.4,11,Laptop,El Salvador,0
+bf850f6c-36fe-4215-8b0e-ddb8b6f5c3e4,36,Other,Premium,182.4,5,Mobile,North Macedonia,0
+8ed44c24-a178-41d7-93af-e2a985b61e8f,52,Female,Basic,105.1,3,Tablet,Belgium,0
+b9d4293d-eba7-443b-8782-06cea7ad7b7c,60,Female,Premium,165.7,17,Mobile,Denmark,1
+14dc3977-0f5c-4a8b-bfeb-6b8841df02c8,34,Other,Basic,17.1,2,Tablet,Kuwait,0
+3160588c-adb5-4a6e-82dd-13db4fa11bf9,62,Male,Premium,224.7,24,Mobile,Estonia,0
+9d376c80-bcae-43b0-ad0f-3775b9d6a7c1,60,Male,Premium,136.6,1,Mobile,Sudan,0
+541d64d0-02ae-4a5b-bc51-61256c88e4dd,51,Male,Free,10.9,7,Smart TV,Philippines,0
+d9bf4a14-5929-4a99-96e8-7f5b6748527c,26,Male,Premium,23.4,14,Laptop,Timor-Leste,0
+7f6b7c99-b11a-47e2-8fab-fa3e4c764b95,43,Male,Free,119.3,5,Laptop,Cocos (Keeling) Islands,1
+2099b2c3-3b15-409e-993f-927fc11b305d,19,Female,Premium,177.1,19,Laptop,Zimbabwe,0
+80630093-28ba-4b60-a903-7ac0ef79ae43,26,Male,Basic,141.9,11,Mobile,Saint Martin,0
+268b9a0c-435c-4a9d-a53c-25e6379294d7,26,Female,Free,187.7,23,Mobile,Heard Island and McDonald Islands,1
+d83594fb-7a5a-4412-9f71-5ebb8f9a8616,57,Female,Basic,146.7,2,Mobile,Wallis and Futuna,0
+a0bd3821-8500-459e-b2e5-8f8611e5bc87,34,Female,Premium,200.2,8,Tablet,Falkland Islands (Malvinas),1
+5c4aa0a3-7569-40d3-8c3e-b87cbaf7489d,18,Other,Free,69.6,9,Tablet,Guadeloupe,0
+e3d61b32-64c2-4e21-9dc1-fd7a0e3de7c0,42,Other,Basic,38.3,3,Smart TV,Albania,1
+b93eb2bf-72be-4c07-bf0d-053438a64ee5,60,Female,Basic,180.9,2,Mobile,Brunei Darussalam,1
+2996e3c5-b203-404c-b747-e2bd05b130aa,57,Other,Premium,148,7,Laptop,Korea,1
+7a87c270-8c10-47f7-802d-4d3f64bb1081,59,Male,Basic,12.9,5,Laptop,Christmas Island,1
+f6b4f08a-6a22-49a2-a6be-d952f3cab7cc,42,Male,Free,117.2,21,Smart TV,Guinea,1
+7fc6f256-6b3d-4fa9-b69d-8c93de9cc30a,56,Female,Free,36.3,5,Laptop,Saint Barthelemy,1
+e25f3b9b-0279-42cd-baa8-319b0bd41c70,52,Male,Basic,161.8,20,Smart TV,Zambia,0
+faf861c8-43e4-4013-bc3d-9f5cc335c6ab,20,Female,Basic,121.8,13,Mobile,Vietnam,0
+281f7c39-248f-43f2-b83e-3402e3082a82,54,Female,Premium,185.9,21,Laptop,Reunion,0
+422f2041-9961-4c6d-9337-e70673aeec82,61,Male,Free,242.7,20,Mobile,El Salvador,1
+e1b05d8e-2687-45bf-be3c-dc91087d6bf0,61,Other,Basic,93.4,6,Tablet,Tonga,1
+1a5759fa-19f9-4ebf-b214-4f7bcc238686,47,Male,Free,288.8,20,Laptop,Heard Island and McDonald Islands,1
+51206795-c731-42fc-a821-0d776219630e,55,Male,Free,163,18,Tablet,Germany,1
+4079006b-6fc6-4f1f-a6a5-f6b7f64efa7b,51,Female,Basic,187.4,2,Laptop,Iceland,0
+a7d7595c-5b17-489e-a056-23e002ef0a1e,29,Female,Basic,205.8,6,Mobile,Ireland,0
+8a266daa-b7c0-49fb-8729-d3622b6783f9,36,Female,Basic,201.7,9,Smart TV,Greenland,0
+c5f5ae60-e143-44dd-afa3-67ad40ccbe96,54,Female,Premium,155.7,3,Mobile,Turks and Caicos Islands,0
+b2878a63-5cff-4c76-bd39-324eeb03df4c,61,Other,Basic,131.5,1,Mobile,Mali,0
+679f3250-ead9-4add-a238-2832a121e6b5,34,Other,Premium,20.9,1,Mobile,Mayotte,1
+d89873fa-0d5e-4084-8774-76c337bf6188,27,Other,Premium,11.5,19,Laptop,Timor-Leste,1
+241c0fb6-abea-4bae-b60e-8a8ba561a9e8,64,Female,Basic,110.6,5,Smart TV,Rwanda,0
+55464103-60b4-4801-99ed-b6950aff992e,29,Female,Premium,103.4,13,Tablet,Montenegro,0
+9fb09689-fab6-48fe-b023-e03d35339a59,33,Female,Basic,119.4,19,Mobile,Aruba,0
+accb177f-54f4-4dd4-ba5f-febdc7045b55,41,Other,Free,45.8,12,Laptop,Senegal,0
+1d1ff675-a2b7-4555-9149-77e2c7891f2e,36,Female,Basic,222.8,16,Tablet,New Caledonia,0
+3ea34c53-d9c3-41a0-8ff9-7ac98f455124,25,Male,Free,257.8,19,Mobile,Maldives,0
+31fd64cd-e344-4bcd-b3e5-6c86a144a836,48,Male,Basic,281.9,3,Tablet,Mongolia,0
+765f044e-bd4b-4347-8e86-c07493b541a3,38,Female,Basic,150.2,12,Mobile,Switzerland,0
+4988e367-9875-4155-be2a-9e296e8629b1,34,Male,Free,211.8,5,Tablet,Bolivia,1
+a0db7600-d24a-4a92-9e7c-93953f16a1f7,40,Male,Free,257.4,2,Tablet,Georgia,0
+c1c36bf2-7252-4201-b382-0b1c29956c2e,54,Other,Premium,128.4,22,Smart TV,Mali,0
+d72a584b-3ef6-444c-8cff-dd5b62599106,33,Female,Basic,96.3,7,Smart TV,Somalia,0
+053070e5-6c31-49db-8e99-203c91a43d75,23,Female,Free,281.3,13,Mobile,Taiwan,0
+0cb3f47b-9640-47a9-9a6e-9a51e2fd51fd,25,Other,Basic,157.1,15,Laptop,Equatorial Guinea,0
+12eb764a-d3f1-45e4-9da7-56cd0304bfb1,42,Male,Basic,151.7,22,Smart TV,United Arab Emirates,1
+896a7c62-686a-4f69-a2a3-4fe1281ea57b,35,Male,Basic,57.6,3,Tablet,Jamaica,0
+a7cab8a5-4a71-4516-a6c7-c504b142f140,42,Female,Premium,36.9,21,Smart TV,Botswana,0
+12212654-6bbc-4238-93af-687719432ec3,29,Male,Basic,253.4,20,Smart TV,Saint Helena,0
+68702614-a653-40cc-b407-98512efa6b37,32,Other,Free,186.2,5,Mobile,Antarctica (the territory South of 60 deg S),0
+c7f95eeb-e53d-4ae8-94ae-2ee9b3e35325,43,Other,Premium,101.1,24,Smart TV,Slovakia (Slovak Republic),0
+56ff2f45-211e-4781-9874-1fa1b559c331,58,Female,Premium,61.6,8,Smart TV,Malta,0
+43797fa1-a20c-41d7-924e-cc638382001e,62,Other,Free,168.9,22,Tablet,Chile,1
+77c760df-a7bd-4933-a589-9f5ed44bb943,43,Other,Free,177.3,1,Smart TV,United States Virgin Islands,1
+066bc18b-4d20-4480-b676-31af4ab59d21,64,Female,Free,66.1,8,Tablet,Serbia,1
+23d3d494-df2c-4822-820e-206496244564,49,Other,Basic,256.2,24,Smart TV,Antarctica (the territory South of 60 deg S),0
+cbaf6dc7-b2a8-4284-9551-66642b359a5f,27,Other,Basic,29.9,18,Smart TV,Mali,0
+d8f89391-1cd2-4544-895e-1bb0eee3aa67,33,Other,Basic,110,20,Laptop,United States Virgin Islands,1
+ede82696-55ed-4e90-9bda-819637fc0a9b,24,Male,Premium,205.7,16,Smart TV,Andorra,0
+51e5683a-e969-446c-8c5b-c3c6c9cfa982,34,Female,Premium,85.9,18,Tablet,Algeria,0
+54d6072b-0e7d-4e77-b840-0af7a0a395ae,40,Female,Free,249.2,20,Tablet,Iceland,0
+cee66af9-b08b-42cb-99ca-37580c480771,43,Female,Free,223.3,12,Mobile,Slovenia,0
+f3e824e8-b8e5-4ec6-a895-12317229e857,38,Male,Basic,237.8,13,Mobile,Niger,0
+66bbea06-cd12-4664-825d-d77a4d929b77,39,Male,Free,40.1,13,Laptop,Taiwan,0
+625628e5-88aa-41be-8e97-c5a7cd321fb4,24,Female,Basic,46.5,10,Tablet,Thailand,0
+3c5d6230-61b3-4e4a-b4fd-ef597fb958c7,31,Male,Premium,89.5,7,Tablet,Lao People's Democratic Republic,1
+a427b92b-1377-49d4-b360-12b4c9161a5a,32,Female,Free,157.8,14,Tablet,Oman,0
+62dd3d11-ea4d-4364-9bc7-278b33add9c9,24,Male,Basic,225.7,24,Laptop,Burkina Faso,0
+df1a221c-7661-4b76-9eb6-68933735a53e,26,Other,Premium,251.8,16,Tablet,British Virgin Islands,0
+d79cc9cc-cd0d-45f9-8a0f-c2d60831b4fe,25,Other,Basic,212.8,15,Mobile,Austria,0
+4a6e9a22-bc26-4e9d-b2eb-05a4ed7aed5f,40,Female,Free,278.9,12,Laptop,Falkland Islands (Malvinas),0
+383a51ed-9504-444a-a4e2-5ebdef4222ad,46,Male,Basic,222.9,9,Mobile,New Caledonia,1
+2be4fda3-0169-4f72-95c2-740de49322a8,35,Male,Free,95.3,8,Mobile,Puerto Rico,0
+e6e6a376-005a-4fda-9051-6be2ed683e62,48,Other,Premium,83.2,18,Laptop,Reunion,1
+5d96d276-e90a-427e-982c-e2155594108e,47,Other,Free,210.4,23,Smart TV,Macao,0
+1066f4d7-1d6f-4946-9aa3-5f01db105a5a,56,Male,Basic,61.9,18,Smart TV,Jordan,0
+53e9aa42-7db9-4c4b-bdf8-5a1470139012,52,Male,Basic,32.4,13,Mobile,Zambia,1
+5ce8bd0f-ee33-498c-af01-e876f4e7b48f,35,Male,Premium,162,18,Smart TV,Venezuela,0
+cbc28de4-86fb-4c0a-997d-ac92ba2cd3f4,59,Male,Free,247.4,15,Tablet,Togo,0
+1dc813ce-01e8-4042-9842-15430021400d,56,Male,Free,34.9,4,Laptop,Aruba,0
+9d0a4c93-c2f9-4d4e-af97-74c7748417e1,34,Male,Free,238.6,17,Mobile,France,0
+66a4b4de-b87d-426a-a28a-1a6a4507e37a,31,Female,Free,244.4,5,Tablet,Iraq,0
+dd63beab-bac3-465e-ad11-05d33e04667f,48,Male,Free,147.3,22,Smart TV,Macao,0
+2a771752-0b36-4de4-b758-605f4bf22788,41,Other,Basic,21.9,16,Tablet,Reunion,0
+ce5c2b9b-70f3-43af-996a-89af79efbe15,52,Female,Free,56.5,9,Smart TV,Tokelau,0
+33f4406b-5125-48e8-acbb-4d0b78c114b5,61,Male,Free,213.7,10,Mobile,Turkmenistan,1
+1aad14b5-64a4-4983-9c59-b0cb882def38,62,Other,Premium,215,24,Tablet,Slovakia (Slovak Republic),1
+c962971d-e913-4499-9a46-b349798739d6,51,Female,Free,270,18,Laptop,Trinidad and Tobago,1
+14116272-9b64-466f-b0ee-8432609bbc71,20,Other,Free,176.9,17,Mobile,Palestinian Territory,0
+f62ade83-468b-4068-948f-f99bf41575b2,54,Male,Free,41.6,18,Tablet,Heard Island and McDonald Islands,1
+52b451a5-a788-495f-a929-39857f9f07f9,60,Male,Premium,40.8,7,Tablet,Guinea,0
+492cb175-22f3-47cb-86f3-80ad664ca54a,57,Male,Free,217.7,4,Smart TV,South Africa,1
+bacce921-8ef0-4d80-8754-00d73246c0a8,43,Male,Premium,59.2,5,Mobile,Afghanistan,0
+1bff0730-a37a-4e93-925d-7b455e6ec2f0,40,Female,Premium,101.9,23,Mobile,Moldova,0
+964a067f-5a24-4395-a08e-b753d7d8ea15,61,Female,Free,148.7,16,Mobile,Antarctica (the territory South of 60 deg S),1
+d3824bf1-a18d-4daa-87c3-06984905fc7d,56,Other,Premium,12.3,3,Mobile,Cape Verde,0
+bbf417de-3757-4aac-915d-5d56ebbaf0b9,32,Male,Free,78.4,18,Smart TV,Sao Tome and Principe,0
